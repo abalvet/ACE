@@ -1,0 +1,885 @@
+# sent_id = Europar.550_00421
+# text = Pour garantir une concurrence loyale, il convient que ces mesures soient prises au niveau international.
+1	Pour	pour	P	P	_	8	mod	_	_
+2	garantir	garantir	V	VINF	m=inf	1	obj.p	_	_
+3	une	un	D	DET	g=f|n=s|s=ind	4	det	_	_
+4	concurrence	concurrence	N	NC	g=f|n=s|s=c	2	obj	_	_
+5	loyale	loyal	A	ADJ	g=f|n=s|s=qual	4	mod	_	_
+6	,	,	PONCT	PONCT	s=w	8	ponct	_	_
+7	il	il	CL	CLS	g=m|n=s|p=3|s=suj	8	suj	_	_
+8	convient	convenir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+9	que	que	C	CS	s=s	8	obj	_	_
+10	ces	ce	D	DET	n=p|s=dem	11	det	_	_
+11	mesures	mesure	N	NC	g=f|n=p|s=c	13	suj	_	_
+12	soient	être	V	VS	m=subj|n=p|p=3|t=pst	13	aux.pass	_	_
+13	prises	prendre	V	VPP	g=f|m=part|n=p|t=past	9	obj.cpl	_	_
+14	au	à	P+D	P+D	s=def	13	mod	_	_
+15	niveau	niveau	N	NC	g=m|n=s|s=c	14	obj.p	_	_
+16	international	international	A	ADJ	g=m|n=s|s=qual	15	mod	_	_
+17	.	.	PONCT	PONCT	s=s	8	ponct	_	_
+
+# sent_id = Europar.550_00422
+# text = La proposition de résolution, qui insiste, entre autres, pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué, constitue un pas en avant dans la bonne direction.
+1	La	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	proposition	proposition	N	NC	g=f|n=s|s=c	27	suj	_	_
+3	de	de	P	P	_	2	dep	_	_
+4	résolution	résolution	N	NC	g=f|n=s|s=c	3	obj.p	_	_
+5	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+6	qui	qui	PRO	PROREL	s=rel	7	suj	_	_
+7	insiste	insister	V	V	m=ind|n=s|p=3|t=pst	2	mod.rel	_	_
+8	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+9	entre	entre	P	P	mwehead=ADV|mwelemma=entre_autres	7	mod	_	_
+10	autres	autre	PRO	PRO	component=y|n=p|s=ind	9	dep_cpd	_	_
+11	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+12	pour	pour	P	P	mwehead=CS|mwelemma=pour_que	7	mod	_	_
+13	que	que	C	CS	component=y|s=s	12	dep_cpd	_	_
+14	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+15	niveau	niveau	N	NC	g=m|n=s|s=c	25	suj	_	_
+16	des	de	P+D	P+D	s=def	15	dep	_	_
+17	nuisances	nuisance	N	NC	g=f|n=p|s=c	16	obj.p	_	_
+18	acoustiques	acoustique	A	ADJ	n=p|s=qual	17	mod	_	_
+19	à	à	P	P	mwehead=P+D|mwelemma=à_proximité_de	17	dep	_	_
+20	proximité	proximité	N	NC	component=y|g=f|n=s|s=c	19	dep_cpd	_	_
+21	des	de	P+D	P+D	component=y|s=def	19	dep_cpd	_	_
+22	divers	divers	A	ADJ	g=m|n=p|s=qual	23	mod	_	_
+23	aéroports	aéroport	N	NC	g=m|n=p|s=c	19	obj.p	_	_
+24	soit	être	V	VS	m=subj|n=s|p=3|t=pst	25	aux.pass	_	_
+25	divulgué	divulguer	V	VPP	g=m|m=part|n=s|t=past	12	obj.cpl	_	_
+26	,	,	PONCT	PONCT	s=w	27	ponct	_	_
+27	constitue	constituer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+28	un	un	D	DET	g=m|n=s|s=ind	29	det	_	_
+29	pas	pas	N	NC	g=m|n=s|s=c	27	obj	_	_
+30	en	en	P	P	_	29	dep	_	_
+31	avant	avant	N	NC	g=m|n=s|s=c	30	obj.p	_	_
+32	dans	dans	P	P	_	29	dep	_	_
+33	la	le	D	DET	g=f|n=s|s=def	35	det	_	_
+34	bonne	bon	A	ADJ	g=f|n=s|s=qual	35	mod	_	_
+35	direction	direction	N	NC	g=f|n=s|s=c	32	obj.p	_	_
+36	.	.	PONCT	PONCT	s=s	27	ponct	_	_
+
+# sent_id = Europar.550_00423
+# text = Je soutiens également les autres propositions relatives à la réduction des nuisances acoustiques.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	2	suj	_	_
+2	soutiens	soutenir	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+3	également	également	ADV	ADV	_	2	mod	_	_
+4	les	le	D	DET	n=p|s=def	6	det	_	_
+5	autres	autre	A	ADJ	n=p|s=ind	6	mod	_	_
+6	propositions	proposition	N	NC	g=f|n=p|s=c	2	obj	_	_
+7	relatives	relatif	A	ADJ	g=f|n=p|s=qual	6	mod	_	_
+8	à	à	P	P	_	7	a_obj	_	_
+9	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+10	réduction	réduction	N	NC	g=f|n=s|s=c	8	obj.p	_	_
+11	des	de	P+D	P+D	s=def	10	dep	_	_
+12	nuisances	nuisance	N	NC	g=f|n=p|s=c	11	obj.p	_	_
+13	acoustiques	acoustique	A	ADJ	n=p|s=qual	12	mod	_	_
+14	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00424
+# text = Il doit être clair que la solution la plus adéquate réside dans la répercussion des coûts réels pour la protection de l'environnement.
+1	Il	il	CL	CLS	g=m|n=s|p=3|s=suj	2	suj	_	_
+2	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	être	être	V	VINF	m=inf	2	obj	_	_
+4	clair	clair	A	ADJ	g=m|n=s|s=qual	3	ats	_	_
+5	que	que	C	CS	s=s	3	obj	_	_
+6	la	le	D	DET	g=f|n=s|s=def	7	det	_	_
+7	solution	solution	N	NC	g=f|n=s|s=c	11	suj	_	_
+8	la	le	D	DET	g=f|n=s|s=def	10	det	_	_
+9	plus	plus	ADV	ADV	_	10	mod	_	_
+10	adéquate	adéquat	A	ADJ	g=f|n=s|s=qual	7	mod	_	_
+11	réside	résider	V	V	m=ind|n=s|p=3|t=pst	5	obj.cpl	_	_
+12	dans	dans	P	P	_	11	p_obj.o	_	_
+13	la	le	D	DET	g=f|n=s|s=def	14	det	_	_
+14	répercussion	répercussion	N	NC	g=f|n=s|s=c	12	obj.p	_	_
+15	des	de	P+D	P+D	s=def	14	dep	_	_
+16	coûts	coût	N	NC	g=m|n=p|s=c	15	obj.p	_	_
+17	réels	réel	A	ADJ	g=m|n=p|s=qual	16	mod	_	_
+18	pour	pour	P	P	_	16	dep	_	_
+19	la	le	D	DET	g=f|n=s|s=def	20	det	_	_
+20	protection	protection	N	NC	g=f|n=s|s=c	18	obj.p	_	_
+21	de	de	P	P	_	20	dep	_	_
+22	l'	le	D	DET	n=s|s=def	23	det	_	_
+23	environnement	environnement	N	NC	g=m|n=s|s=c	21	obj.p	_	_
+24	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00425
+# text = Monsieur le Président, mes chers collègues, le développement d'une infrastructure de transport efficace sur le territoire européen est primordial, notamment pour les régions enclavées et les zones rurales, tant en France que dans de nombreux autres États.
+1	Monsieur	monsieur	N	NC	g=m|n=s|s=c	21	mod.voc	_	_
+2	le	le	D	DET	g=m|n=s|s=def	3	det	_	_
+3	Président	président	N	NC	g=m|n=s|s=c	1	mod	_	_
+4	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+5	mes	son	D	DET	n=p|s=poss	7	det	_	_
+6	chers	cher	A	ADJ	g=m|n=p|s=qual	7	mod	_	_
+7	collègues	collègue	N	NC	n=p|s=c	21	mod.voc	_	_
+8	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+9	le	le	D	DET	g=m|n=s|s=def	10	det	_	_
+10	développement	développement	N	NC	g=m|n=s|s=c	21	suj	_	_
+11	d'	de	P	P	_	10	dep	_	_
+12	une	un	D	DET	g=f|n=s|s=ind	13	det	_	_
+13	infrastructure	infrastructure	N	NC	g=f|n=s|s=c	11	obj.p	_	_
+14	de	de	P	P	_	13	dep	_	_
+15	transport	transport	N	NC	g=m|n=s|s=c	14	obj.p	_	_
+16	efficace	efficace	A	ADJ	n=s|s=qual	13	mod	_	_
+17	sur	sur	P	P	_	10	dep	_	_
+18	le	le	D	DET	g=m|n=s|s=def	19	det	_	_
+19	territoire	territoire	N	NC	g=m|n=s|s=c	17	obj.p	_	_
+20	européen	européen	A	ADJ	g=m|n=s|s=qual	19	mod	_	_
+21	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+22	primordial	primordial	A	ADJ	g=m|n=s|s=qual	21	ats	_	_
+23	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+24	notamment	notamment	ADV	ADV	_	25	mod	_	_
+25	pour	pour	P	P	_	21	mod	_	_
+26	les	le	D	DET	n=p|s=def	27	det	_	_
+27	régions	région	N	NC	g=f|n=p|s=c	25	obj.p	_	_
+28	enclavées	enclaver	V	VPP	g=f|m=part|n=p|t=past	27	mod	_	_
+29	et	et	C	CC	s=c	27	coord	_	_
+30	les	le	D	DET	n=p|s=def	31	det	_	_
+31	zones	zone	N	NC	g=f|n=p|s=c	29	dep.coord	_	_
+32	rurales	rural	A	ADJ	g=f|n=p|s=qual	31	mod	_	_
+33	,	,	PONCT	PONCT	s=w	21	ponct	_	_
+34	tant	tant	ADV	ADV	_	35	mod	_	_
+35	en	en	P	P	_	21	mod	_	_
+36	France	France	N	NPP	g=f|n=s|s=p	35	obj.p	_	_
+37	que	que	C	CS	s=s	35	dep	_	_
+38	dans	dans	P	P	_	37	obj.cpl	_	_
+39	de	un	D	DET	n=p|s=ind	42	det	_	_
+40	nombreux	nombreux	A	ADJ	g=m|s=qual	42	mod	_	_
+41	autres	autre	A	ADJ	n=p|s=ind	42	mod	_	_
+42	États	état	N	NC	g=m|n=p|s=c	38	obj.p	_	_
+43	.	.	PONCT	PONCT	s=s	21	ponct	_	_
+
+# sent_id = Europar.550_00426
+# text = C'est pourquoi nous soutenons le rapport Hatzidakis, et je tiens à féliciter le rapporteur pour sa clarté, malgré la technicité de ce dossier.
+1	C'	ce	CL	CLS	mwehead=ADV|mwelemma=c'est_pourquoi|n=s|p=3|s=suj	5	mod	_	_
+2	est	être	V	V	component=y|m=ind|n=s|p=3|t=pst	1	dep_cpd	_	_
+3	pourquoi	pourquoi	ADV	ADV	component=y	1	dep_cpd	_	_
+4	nous	il	CL	CLS	n=p|p=1|s=suj	5	suj	_	_
+5	soutenons	soutenir	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+6	le	le	D	DET	g=m|n=s|s=def	7	det	_	_
+7	rapport	rapport	N	NC	g=m|n=s|s=c	5	obj	_	_
+8	Hatzidakis	Hatzidakis	N	NPP	s=p	7	mod	_	_
+9	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+10	et	et	C	CC	s=c	5	coord	_	_
+11	je	il	CL	CLS	n=s|p=1|s=suj	12	suj	_	_
+12	tiens	tenir	V	V	m=ind|n=s|p=1|t=pst	10	dep.coord	_	_
+13	à	à	P	P	_	12	a_obj	_	_
+14	féliciter	féliciter	V	VINF	m=inf	13	obj.p	_	_
+15	le	le	D	DET	g=m|n=s|s=def	16	det	_	_
+16	rapporteur	rapporteur	N	NC	g=m|n=s|s=c	14	obj	_	_
+17	pour	pour	P	P	_	14	p_obj.o	_	_
+18	sa	son	D	DET	g=f|n=s|s=poss	19	det	_	_
+19	clarté	clarté	N	NC	g=f|n=s|s=c	17	obj.p	_	_
+20	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+21	malgré	malgré	P	P	_	14	mod	_	_
+22	la	le	D	DET	g=f|n=s|s=def	23	det	_	_
+23	technicité	technicité	N	NC	g=f|n=s|s=c	21	obj.p	_	_
+24	de	de	P	P	_	23	dep	_	_
+25	ce	ce	D	DET	g=m|n=s|s=dem	26	det	_	_
+26	dossier	dossier	N	NC	g=m|n=s|s=c	24	obj.p	_	_
+27	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+# sent_id = Europar.550_00427
+# text = Il importe que les règles générales pour l'octroi d'aides financières communautaires dans les réseaux transeuropéens soit strictement respectée.
+1	Il	il	CL	CLS	g=m|n=s|p=3|s=suj	2	suj	_	_
+2	importe	importer	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	que	que	C	CS	s=s	2	obj	_	_
+4	les	le	D	DET	n=p|s=def	5	det	_	_
+5	règles	règle	N	NC	g=f|n=p|s=c	20	suj	_	_
+6	générales	général	A	ADJ	g=f|n=p|s=qual	5	mod	_	_
+7	pour	pour	P	P	_	5	dep	_	_
+8	l'	le	D	DET	n=s|s=def	9	det	_	_
+9	octroi	octroi	N	NC	g=m|n=s|s=c	7	obj.p	_	_
+10	d'	de	P	P	_	9	dep	_	_
+11	aides	aide	N	NC	n=p|s=c	10	obj.p	_	_
+12	financières	financier	A	ADJ	g=f|n=p|s=qual	11	mod	_	_
+13	communautaires	communautaire	A	ADJ	n=p|s=qual	11	mod	_	_
+14	dans	dans	P	P	_	9	dep	_	_
+15	les	le	D	DET	n=p|s=def	16	det	_	_
+16	réseaux	réseau	N	NC	g=m|n=p|s=c	14	obj.p	_	_
+17	transeuropéens	transeuropéen	A	ADJ	s=qual	16	mod	_	_
+18	soit	être	V	VS	m=subj|n=s|p=3|t=pst	20	aux.pass	_	_
+19	strictement	strictement	ADV	ADV	_	20	mod	_	_
+20	respectée	respecter	V	VPP	g=f|m=part|n=s|t=past	3	obj.cpl	_	_
+21	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00428
+# text = En effet, la politique de transport transeuropéen a des répercussions importantes sur le développement durable de l'économie locale et la relance de l'emploi.
+1	En	en	P	P	mwehead=ADV|mwelemma=en_effet	9	mod	_	_
+2	effet	effet	N	NC	component=y|g=m|n=s|s=c	1	dep_cpd	_	_
+3	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	politique	politique	N	NC	g=f|n=s|s=c	9	suj	_	_
+6	de	de	P	P	_	5	dep	_	_
+7	transport	transport	N	NC	g=m|n=s|s=c	6	obj.p	_	_
+8	transeuropéen	transeuropéen	A	ADJ	s=qual	7	mod	_	_
+9	a	avoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	des	un	D	DET	n=p|s=ind	11	det	_	_
+11	répercussions	répercussion	N	NC	g=f|n=p|s=c	9	obj	_	_
+12	importantes	important	A	ADJ	g=f|n=p|s=qual	11	mod	_	_
+13	sur	sur	P	P	_	11	dep	_	_
+14	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+15	développement	développement	N	NC	g=m|n=s|s=c	13	obj.p	_	_
+16	durable	durable	A	ADJ	n=s|s=qual	15	mod	_	_
+17	de	de	P	P	_	15	dep	_	_
+18	l'	le	D	DET	n=s|s=def	19	det	_	_
+19	économie	économie	N	NC	g=f|n=s|s=c	17	obj.p	_	_
+20	locale	local	A	ADJ	g=f|n=s|s=qual	19	mod	_	_
+21	et	et	C	CC	s=c	15	coord	_	_
+22	la	le	D	DET	g=f|n=s|s=def	23	det	_	_
+23	relance	relance	N	NC	g=f|n=s|s=c	21	dep.coord	_	_
+24	de	de	P	P	_	23	dep	_	_
+25	l'	le	D	DET	n=s|s=def	26	det	_	_
+26	emploi	emploi	N	NC	g=m|n=s|s=c	24	obj.p	_	_
+27	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+# sent_id = Europar.550_00429
+# text = Par ailleurs, nous souhaitons la transparence des appels d'offres lors des lancements de partenariats publics et privés afin que tous puissent réellement participer au développement des réseaux.
+1	Par	par	P	P	mwehead=ADV|mwelemma=par_ailleurs	5	mod	_	_
+2	ailleurs	ailleurs	ADV	ADV	component=y	1	dep_cpd	_	_
+3	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+4	nous	il	CL	CLS	n=p|p=1|s=suj	5	suj	_	_
+5	souhaitons	souhaiter	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+6	la	le	D	DET	g=f|n=s|s=def	7	det	_	_
+7	transparence	transparence	N	NC	g=f|n=s|s=c	5	obj	_	_
+8	des	de	P+D	P+D	s=def	7	dep	_	_
+9	appels	appel	N	NC	g=m|n=p|s=c	8	obj.p	_	_
+10	d'	de	P	P	_	9	dep	_	_
+11	offres	offre	N	NC	g=f|n=p|s=c	10	obj.p	_	_
+12	lors	lors	ADV	ADV	mwehead=P+D|mwelemma=lors_de	5	mod	_	_
+13	des	de	P+D	P+D	component=y|s=def	12	dep_cpd	_	_
+14	lancements	lancement	N	NC	g=m|n=p|s=c	12	obj.p	_	_
+15	de	de	P	P	_	14	dep	_	_
+16	partenariats	partenariat	N	NC	g=m|n=p|s=c	15	obj.p	_	_
+17	publics	public	A	ADJ	g=m|n=p|s=qual	16	mod	_	_
+18	et	et	C	CC	s=c	17	coord	_	_
+19	privés	privé	A	ADJ	g=m|n=p|s=qual	18	dep.coord	_	_
+20	afin	afin	P	P	mwehead=CS|mwelemma=afin_que	5	mod	_	_
+21	que	que	C	CS	component=y|s=s	20	dep_cpd	_	_
+22	tous	tout	PRO	PRO	g=m|n=p|s=ind	23	suj	_	_
+23	puissent	pouvoir	V	VS	m=subj|n=p|p=3|t=pst	20	obj.cpl	_	_
+24	réellement	réellement	ADV	ADV	_	23	mod	_	_
+25	participer	participer	V	VINF	m=inf	23	obj	_	_
+26	au	à	P+D	P+D	s=def	25	a_obj	_	_
+27	développement	développement	N	NC	g=m|n=s|s=c	26	obj.p	_	_
+28	des	de	P+D	P+D	s=def	27	dep	_	_
+29	réseaux	réseau	N	NC	g=m|n=p|s=c	28	obj.p	_	_
+30	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+# sent_id = Europar.550_00430
+# text = Nous approuvons le point 9 du rapport qui considère que la Commission doit suivre fidèlement les orientations budgétaires établies pour les projets RTE.
+1	Nous	il	CL	CLS	n=p|p=1|s=suj	2	suj	_	_
+2	approuvons	approuver	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+3	le	le	D	DET	g=m|n=s|s=def	4	det	_	_
+4	point	point	N	NC	g=m|n=s|s=c	2	obj	_	_
+5	9	9	A	ADJ	s=card	4	mod	_	_
+6	du	de	P+D	P+D	s=def	4	dep	_	_
+7	rapport	rapport	N	NC	g=m|n=s|s=c	6	obj.p	_	_
+8	qui	qui	PRO	PROREL	s=rel	9	suj	_	_
+9	considère	considérer	V	V	m=ind|n=s|p=3|t=pst	4	mod.rel	_	_
+10	que	que	C	CS	s=s	9	obj	_	_
+11	la	le	D	DET	g=f|n=s|s=def	12	det	_	_
+12	Commission	commission	N	NC	g=f|n=s|s=c	13	suj	_	_
+13	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	10	obj.cpl	_	_
+14	suivre	suivre	V	VINF	m=inf	13	obj	_	_
+15	fidèlement	fidèlement	ADV	ADV	_	14	mod	_	_
+16	les	le	D	DET	n=p|s=def	17	det	_	_
+17	orientations	orientation	N	NC	g=f|n=p|s=c	14	obj	_	_
+18	budgétaires	budgétaire	A	ADJ	n=p|s=qual	17	mod	_	_
+19	établies	établir	V	VPP	g=f|m=part|n=p|t=past	17	mod	_	_
+20	pour	pour	P	P	_	19	mod	_	_
+21	les	le	D	DET	n=p|s=def	22	det	_	_
+22	projets	projet	N	NC	g=m|n=p|s=c	20	obj.p	_	_
+23	RTE	RTE	N	NPP	s=p	22	mod	_	_
+24	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00431
+# text = Ce rapport s'inscrit dans la suite logique de l'analyse critique du rapport annuel afin de veiller sur le concours financier de la Communauté pour des projets d'intérêt commun.
+1	Ce	ce	D	DET	g=m|n=s|s=dem	2	det	_	_
+2	rapport	rapport	N	NC	g=m|n=s|s=c	4	suj	_	_
+3	s'	se	CL	CLR	p=3|s=refl	4	aff.demsuj	_	_
+4	inscrit	inscrire	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	dans	dans	P	P	_	4	p_obj.o	_	_
+6	la	le	D	DET	g=f|n=s|s=def	7	det	_	_
+7	suite	suite	N	NC	g=f|n=s|s=c	5	obj.p	_	_
+8	logique	logique	A	ADJ	n=s|s=qual	7	mod	_	_
+9	de	de	P	P	_	7	dep	_	_
+10	l'	le	D	DET	n=s|s=def	11	det	_	_
+11	analyse	analyse	N	NC	g=f|n=s|s=c	9	obj.p	_	_
+12	critique	critique	A	ADJ	n=s|s=qual	11	mod	_	_
+13	du	de	P+D	P+D	s=def	11	dep	_	_
+14	rapport	rapport	N	NC	g=m|n=s|s=c	13	obj.p	_	_
+15	annuel	annuel	A	ADJ	g=m|n=s|s=qual	14	mod	_	_
+16	afin	afin	P	P	mwehead=P|mwelemma=afin_de	4	mod	_	_
+17	de	de	P	P	component=y	16	dep_cpd	_	_
+18	veiller	veiller	V	VINF	m=inf	16	obj.p	_	_
+19	sur	sur	P	P	_	18	p_obj.o	_	_
+20	le	le	D	DET	g=m|n=s|s=def	21	det	_	_
+21	concours	concours	N	NC	g=m|n=s|s=c	19	obj.p	_	_
+22	financier	financier	A	ADJ	g=m|n=s|s=qual	21	mod	_	_
+23	de	de	P	P	_	21	dep	_	_
+24	la	le	D	DET	g=f|n=s|s=def	25	det	_	_
+25	Communauté	communauté	N	NC	g=f|n=s|s=c	23	obj.p	_	_
+26	pour	pour	P	P	_	21	dep	_	_
+27	des	un	D	DET	n=p|s=ind	28	det	_	_
+28	projets	projet	N	NC	g=m|n=p|s=c	26	obj.p	_	_
+29	d'	de	P	P	_	28	dep	_	_
+30	intérêt	intérêt	N	NC	g=m|n=s|s=c	29	obj.p	_	_
+31	commun	commun	A	ADJ	g=m|n=s|s=qual	30	mod	_	_
+32	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+# sent_id = Europar.550_00432
+# text = À ce sujet, nous nous posons la question de savoir pourquoi le coût des études de faisabilité et les mesures d'assistance technique représentent 47% du budget, soit près de 223 millions d'euros.
+1	À	à	P	P	mwehead=ADV|mwelemma=à_ce_sujet	7	mod	_	_
+2	ce	ce	D	DET	component=y|g=m|n=s|s=dem	1	dep_cpd	_	_
+3	sujet	sujet	N	NC	component=y|g=m|n=s|s=c	1	dep_cpd	_	_
+4	,	,	PONCT	PONCT	s=w	7	ponct	_	_
+5	nous	il	CL	CLS	n=p|p=1|s=suj	7	suj	_	_
+6	nous	se	CL	CLR	n=p|p=1|s=refl	7	aff	_	_
+7	posons	poser	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+8	la	le	D	DET	g=f|n=s|s=def	9	det	_	_
+9	question	question	N	NC	g=f|n=s|s=c	7	obj	_	_
+10	de	de	P	P	_	7	de_obj	_	_
+11	savoir	savoir	V	VINF	m=inf	10	obj.p	_	_
+12	pourquoi	pourquoi	ADV	ADVWH	s=int	25	mod	_	_
+13	le	le	D	DET	g=m|n=s|s=def	14	det	_	_
+14	coût	coût	N	NC	g=m|n=s|s=c	25	suj	_	_
+15	des	de	P+D	P+D	s=def	14	dep	_	_
+16	études	étude	N	NC	g=f|n=p|s=c	15	obj.p	_	_
+17	de	de	P	P	_	16	dep	_	_
+18	faisabilité	faisabilité	N	NC	g=f|n=s|s=c	17	obj.p	_	_
+19	et	et	C	CC	s=c	14	coord	_	_
+20	les	le	D	DET	n=p|s=def	21	det	_	_
+21	mesures	mesure	N	NC	g=f|n=p|s=c	19	dep.coord	_	_
+22	d'	de	P	P	_	21	dep	_	_
+23	assistance	assistance	N	NC	g=f|n=s|s=c	22	obj.p	_	_
+24	technique	technique	A	ADJ	n=s|s=qual	23	mod	_	_
+25	représentent	représenter	V	V	m=ind|n=p|p=3|t=pst	11	obj	_	_
+26	47	47	D	DET	s=card	27	det	_	_
+27	%	%	N	NC	g=m|s=c	25	obj	_	_
+28	du	de	P+D	P+D	s=def	27	dep	_	_
+29	budget	budget	N	NC	g=m|n=s|s=c	28	obj.p	_	_
+30	,	,	PONCT	PONCT	s=w	27	ponct	_	_
+31	soit	soit	ADV	ADV	_	35	mod	_	_
+32	près	près	ADV	ADV	mwehead=ADV|mwelemma=près_de	35	mod	_	_
+33	de	de	P	P	component=y	32	dep_cpd	_	_
+34	223	223	D	DET	s=card	35	det	_	_
+35	millions	million	N	NC	g=m|n=p|s=card	27	mod.app	_	_
+36	d'	de	P	P	_	35	dep	_	_
+37	euros	euro	N	NC	g=m|n=p|s=c	36	obj.p	_	_
+38	.	.	PONCT	PONCT	s=s	7	ponct	_	_
+
+# sent_id = Europar.550_00433
+# text = De plus, le financement communautaire du RTET représente un faible pourcentage des coûts totaux, la majeure partie des financements incombant aux États membres.
+1	De	de	P	P	mwehead=ADV|mwelemma=de_plus	9	mod	_	_
+2	plus	plus	ADV	ADV	component=y	1	dep_cpd	_	_
+3	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+4	le	le	D	DET	g=m|n=s|s=def	5	det	_	_
+5	financement	financement	N	NC	g=m|n=s|s=c	9	suj	_	_
+6	communautaire	communautaire	A	ADJ	n=s|s=qual	5	mod	_	_
+7	du	de	P+D	P+D	s=def	5	dep	_	_
+8	RTET	RTET	N	NPP	s=p	7	obj.p	_	_
+9	représente	représenter	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+10	un	un	D	DET	g=m|n=s|s=ind	12	det	_	_
+11	faible	faible	A	ADJ	n=s|s=qual	12	mod	_	_
+12	pourcentage	pourcentage	N	NC	g=m|n=s|s=c	9	obj	_	_
+13	des	de	P+D	P+D	s=def	12	dep	_	_
+14	coûts	coût	N	NC	g=m|n=p|s=c	13	obj.p	_	_
+15	totaux	total	A	ADJ	g=m|n=p|s=qual	14	mod	_	_
+16	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+17	la	le	D	DET	g=f|n=s|s=def	19	det	_	_
+18	majeure	majeur	A	ADJ	g=f|n=s|s=qual	19	mod	_	_
+19	partie	partie	N	NC	g=f|n=s|s=c	22	suj	_	_
+20	des	de	P+D	P+D	s=def	19	dep	_	_
+21	financements	financement	N	NC	g=m|n=p|s=c	20	obj.p	_	_
+22	incombant	incomber	V	VPR	m=part|t=pst	9	mod	_	_
+23	aux	à	P+D	P+D	s=def	22	a_obj	_	_
+24	États	état	N	NC	g=m|n=p|s=c	23	obj.p	_	_
+25	membres	membre	N	NC	g=m|n=p|s=c	24	mod	_	_
+26	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+# sent_id = Europar.550_00434
+# text = Pourquoi ne disposons-nous que d'estimations ?
+1	Pourquoi	pourquoi	ADV	ADVWH	s=int	3	mod	_	_
+2	ne	ne	ADV	ADV	s=neg	3	mod	_	_
+3	disposons	disposer	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+4	-nous	il	CL	CLS	n=p|p=1|s=suj	3	suj	_	_
+5	que	que	ADV	ADV	_	6	mod	_	_
+6	d'	de	P	P	_	3	de_obj	_	_
+7	estimations	estimation	N	NC	g=f|n=p|s=c	6	obj.p	_	_
+8	?	?	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00435
+# text = En effet, sept projets sur quatorze, soit la moitié, ont un financement qui n'est toujours pas assuré et dont le calendrier n'est pas encore arrêté.
+1	En	en	P	P	mwehead=ADV|mwelemma=en_effet	13	mod	_	_
+2	effet	effet	N	NC	component=y|g=m|n=s|s=c	1	dep_cpd	_	_
+3	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+4	sept	sept	D	DET	s=card	5	det	_	_
+5	projets	projet	N	NC	g=m|n=p|s=c	13	suj	_	_
+6	sur	sur	P	P	_	5	dep	_	_
+7	quatorze	quatorze	A	ADJ	s=card	6	obj.p	_	_
+8	,	,	PONCT	PONCT	s=w	5	ponct	_	_
+9	soit	soit	ADV	ADV	_	11	mod	_	_
+10	la	le	D	DET	g=f|n=s|s=def	11	det	_	_
+11	moitié	moitié	N	NC	g=f|n=s|s=c	5	mod.app	_	_
+12	,	,	PONCT	PONCT	s=w	13	ponct	_	_
+13	ont	avoir	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+14	un	un	D	DET	g=m|n=s|s=ind	15	det	_	_
+15	financement	financement	N	NC	g=m|n=s|s=c	13	obj	_	_
+16	qui	qui	PRO	PROREL	s=rel	21	suj	_	_
+17	n'	ne	ADV	ADV	s=neg	21	mod	_	_
+18	est	être	V	V	m=ind|n=s|p=3|t=pst	21	aux.pass	_	_
+19	toujours	toujours	ADV	ADV	_	20	mod	_	_
+20	pas	pas	ADV	ADV	s=neg	21	mod	_	_
+21	assuré	assurer	V	VPP	g=m|m=part|n=s|t=past	15	mod.rel	_	_
+22	et	et	C	CC	s=c	21	coord	_	_
+23	dont	dont	PRO	PROREL	s=rel	25	dep	_	_
+24	le	le	D	DET	g=m|n=s|s=def	25	det	_	_
+25	calendrier	calendrier	N	NC	g=m|n=s|s=c	30	suj	_	_
+26	n'	ne	ADV	ADV	s=neg	30	mod	_	_
+27	est	être	V	V	m=ind|n=s|p=3|t=pst	30	aux.pass	_	_
+28	pas	pas	ADV	ADV	mwehead=ADV|mwelemma=pas_encore|s=neg	30	mod	_	_
+29	encore	encore	ADV	ADV	component=y	28	dep_cpd	_	_
+30	arrêté	arrêter	V	VPP	g=m|m=part|n=s|t=past	22	dep.coord	_	_
+31	.	.	PONCT	PONCT	s=s	13	ponct	_	_
+
+# sent_id = Europar.550_00436
+# text = La Commission doit proposer des mesures de fond et des incitants pour promouvoir au plus vite ces projets prioritaires et, en coordination avec les États membres concernés, arrêter un calendrier d'exécution.
+1	La	le	D	DET	g=f|n=s|s=def	2	det	_	_
+2	Commission	commission	N	NC	g=f|n=s|s=c	3	suj	_	_
+3	doit	devoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	proposer	proposer	V	VINF	m=inf	3	obj	_	_
+5	des	un	D	DET	n=p|s=ind	6	det	_	_
+6	mesures	mesure	N	NC	g=f|n=p|s=c	4	obj	_	_
+7	de	de	P	P	_	6	dep	_	_
+8	fond	fond	N	NC	g=m|n=s|s=c	7	obj.p	_	_
+9	et	et	C	CC	s=c	6	coord	_	_
+10	des	un	D	DET	n=p|s=ind	11	det	_	_
+11	incitants	incitant	N	NC	n=p|s=c	9	dep.coord	_	_
+12	pour	pour	P	P	_	4	mod	_	_
+13	promouvoir	promouvoir	V	VINF	m=inf	12	obj.p	_	_
+14	au	à	P+D	P+D	mwehead=ADV|mwelemma=au_plus_vite|s=def	13	mod	_	_
+15	plus	plus	ADV	ADV	component=y	14	dep_cpd	_	_
+16	vite	vite	ADV	ADV	component=y	14	dep_cpd	_	_
+17	ces	ce	D	DET	n=p|s=dem	18	det	_	_
+18	projets	projet	N	NC	g=m|n=p|s=c	13	obj	_	_
+19	prioritaires	prioritaire	A	ADJ	n=p|s=qual	18	mod	_	_
+20	et	et	C	CC	s=c	4	coord	_	_
+21	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+22	en	en	P	P	_	30	mod	_	_
+23	coordination	coordination	N	NC	g=f|n=s|s=c	22	obj.p	_	_
+24	avec	avec	P	P	_	23	dep	_	_
+25	les	le	D	DET	n=p|s=def	26	det	_	_
+26	États	état	N	NC	g=m|n=p|s=c	24	obj.p	_	_
+27	membres	membre	N	NC	g=m|n=p|s=c	26	mod	_	_
+28	concernés	concerner	V	VPP	g=m|m=part|n=p|t=past	26	mod	_	_
+29	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+30	arrêter	arrêter	V	VINF	m=inf	20	dep.coord	_	_
+31	un	un	D	DET	g=m|n=s|s=ind	32	det	_	_
+32	calendrier	calendrier	N	NC	g=m|n=s|s=c	30	obj	_	_
+33	d'	de	P	P	_	32	dep	_	_
+34	exécution	exécution	N	NC	g=f|n=s|s=c	33	obj.p	_	_
+35	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00437
+# text = Non, Madame van der Laan, vous devriez savoir qu'aux termes du règlement, cette demande aurait dû être introduite selon les formes et dans les temps, ce qui n'a pas été le cas.
+1	Non	non	ADV	ADV	s=neg	9	mod	_	_
+2	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+3	Madame	monsieur	N	NC	g=f|n=s|s=c	9	mod.voc	_	_
+4	van	van	ET	ET	s=p	3	dep	_	_
+5	der	der	ET	ET	s=p	3	dep	_	_
+6	Laan	Laan	N	NPP	s=p	3	mod	_	_
+7	,	,	PONCT	PONCT	s=w	9	ponct	_	_
+8	vous	il	CL	CLS	n=p|p=2|s=suj	9	suj	_	_
+9	devriez	devoir	V	V	m=ind|n=p|p=2|t=cond	0	root	_	_
+10	savoir	savoir	V	VINF	m=inf	9	obj	_	_
+11	qu'	que	C	CS	s=s	10	obj	_	_
+12	aux	à	P+D	P+D	s=def	20	mod	_	_
+13	termes	terme	N	NC	g=m|n=p|s=c	12	obj.p	_	_
+14	du	de	P+D	P+D	s=def	13	dep	_	_
+15	règlement	règlement	N	NC	g=m|n=s|s=c	14	obj.p	_	_
+16	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+17	cette	ce	D	DET	g=f|n=s|s=dem	18	det	_	_
+18	demande	demande	N	NC	g=f|n=s|s=c	20	suj	_	_
+19	aurait	avoir	V	V	m=ind|n=s|p=3|t=cond	20	aux.tps	_	_
+20	dû	devoir	V	VPP	g=m|m=part|n=s|t=past	11	obj.cpl	_	_
+21	être	être	V	VINF	m=inf	22	aux.pass	_	_
+22	introduite	introduire	V	VPP	g=f|m=part|n=s|t=past	20	obj	_	_
+23	selon	selon	P	P	_	22	mod	_	_
+24	les	le	D	DET	n=p|s=def	25	det	_	_
+25	formes	forme	N	NC	g=f|n=p|s=c	23	obj.p	_	_
+26	et	et	C	CC	s=c	23	coord	_	_
+27	dans	dans	P	P	_	26	dep.coord	_	_
+28	les	le	D	DET	n=p|s=def	29	det	_	_
+29	temps	temps	N	NC	g=m|n=p|s=c	27	obj.p	_	_
+30	,	,	PONCT	PONCT	s=w	20	ponct	_	_
+31	ce	ce	PRO	PRO	_	20	mod	_	_
+32	qui	qui	PRO	PROREL	s=rel	36	suj	_	_
+33	n'	ne	ADV	ADV	s=neg	36	mod	_	_
+34	a	avoir	V	V	m=ind|n=s|p=3|t=pst	36	aux.tps	_	_
+35	pas	pas	ADV	ADV	s=neg	36	mod	_	_
+36	été	être	V	VPP	m=part|t=past	31	mod.rel	_	_
+37	le	le	D	DET	g=m|n=s|s=def	38	det	_	_
+38	cas	cas	N	NC	g=m|n=s|s=c	36	ats	_	_
+39	.	.	PONCT	PONCT	s=s	9	ponct	_	_
+
+# sent_id = Europar.550_00438
+# text = Je ne peux donc pas mettre cette demande aux voix.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	3	suj	_	_
+2	ne	ne	ADV	ADV	s=neg	3	mod	_	_
+3	peux	pouvoir	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+4	donc	donc	ADV	ADV	_	3	mod	_	_
+5	pas	pas	ADV	ADV	s=neg	3	mod	_	_
+6	mettre	mettre	V	VINF	m=inf	3	obj	_	_
+7	cette	ce	D	DET	g=f|n=s|s=dem	8	det	_	_
+8	demande	demande	N	NC	g=f|n=s|s=c	6	obj	_	_
+9	aux	à	P+D	P+D	s=def	6	p_obj.o	_	_
+10	voix	voix	N	NC	g=f|n=p|s=c	9	obj.p	_	_
+11	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00439
+# text = Il me reste maintenant à souhaiter que, votes ou non, nous soyons très nombreux vendredi prochain.
+1	Il	il	CL	CLS	g=m|n=s|p=3|s=suj	3	suj	_	_
+2	me	le	CL	CLO	n=s|p=1|s=obj	3	a_obj	_	_
+3	reste	rester	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+4	maintenant	maintenant	ADV	ADV	_	3	mod	_	_
+5	à	à	P	P	_	3	obj	_	_
+6	souhaiter	souhaiter	V	VINF	m=inf	5	obj.p	_	_
+7	que	que	C	CS	s=s	6	obj	_	_
+8	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+9	votes	vote	N	NC	g=m|n=p|s=c	14	mod	_	_
+10	ou	ou	C	CC	s=c	9	coord	_	_
+11	non	non	ADV	ADV	s=neg	10	dep.coord	_	_
+12	,	,	PONCT	PONCT	s=w	14	ponct	_	_
+13	nous	il	CL	CLS	n=p|p=1|s=suj	14	suj	_	_
+14	soyons	être	V	VS	m=subj|n=p|p=1|t=pst	7	obj.cpl	_	_
+15	très	très	ADV	ADV	_	16	mod	_	_
+16	nombreux	nombreux	A	ADJ	g=m|s=qual	14	ats	_	_
+17	vendredi	vendredi	N	NC	g=m|n=s|s=c	14	mod	_	_
+18	prochain	prochain	A	ADJ	g=m|n=s|s=qual	17	mod	_	_
+19	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00440
+# text = Je compte sur vous tous, ne serait-ce que pour le public qui assiste à nos débats.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	2	suj	_	_
+2	compte	compter	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+3	sur	sur	P	P	_	2	p_obj.o	_	_
+4	vous	soi	PRO	PRO	n=p|p=2|s=pers	3	obj.p	_	_
+5	tous	tout	A	ADJ	g=m|n=p|s=ind	4	mod	_	_
+6	,	,	PONCT	PONCT	s=w	2	ponct	_	_
+7	ne	ne	ADV	ADV	s=neg	8	mod	_	_
+8	serait	être	V	V	m=ind|n=s|p=3|t=cond	2	mod	_	_
+9	-ce	ce	CL	CLS	n=s|p=3|s=suj	8	suj	_	_
+10	que	que	ADV	ADV	s=neg	11	mod	_	_
+11	pour	pour	P	P	_	8	p_obj.o	_	_
+12	le	le	D	DET	g=m|n=s|s=def	13	det	_	_
+13	public	public	N	NC	g=m|n=s|s=c	11	obj.p	_	_
+14	qui	qui	PRO	PROREL	s=rel	15	suj	_	_
+15	assiste	assister	V	V	m=ind|n=s|p=3|t=pst	13	mod.rel	_	_
+16	à	à	P	P	_	15	a_obj	_	_
+17	nos	son	D	DET	n=p|s=poss	18	det	_	_
+18	débats	débat	N	NC	g=m|n=p|s=c	16	obj.p	_	_
+19	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00441
+# text = Monsieur le Président, chers collègues, Madame le rapporteur, comme dit le proverbe : mieux vaut prévenir que guérir.
+1	Monsieur	monsieur	N	NC	g=m|n=s|s=c	18	mod.voc	_	_
+2	le	le	D	DET	g=m|n=s|s=def	3	det	_	_
+3	Président	président	N	NC	g=m|n=s|s=c	1	mod	_	_
+4	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+5	chers	cher	A	ADJ	g=m|n=p|s=qual	6	mod	_	_
+6	collègues	collègue	N	NC	n=p|s=c	18	mod.voc	_	_
+7	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+8	Madame	monsieur	N	NC	g=f|n=s|s=c	18	mod.voc	_	_
+9	le	le	D	DET	g=m|n=s|s=def	10	det	_	_
+10	rapporteur	rapporteur	N	NC	g=m|n=s|s=c	8	mod	_	_
+11	,	,	PONCT	PONCT	s=w	18	ponct	_	_
+12	comme	comme	C	CS	s=s	18	mod	_	_
+13	dit	dire	V	V	m=ind|n=s|p=3|t=pst	12	obj.cpl	_	_
+14	le	le	D	DET	g=m|n=s|s=def	15	det	_	_
+15	proverbe	proverbe	N	NC	g=m|n=s|s=c	13	suj	_	_
+16	:	:	PONCT	PONCT	s=w	13	ponct	_	_
+17	mieux	mieux	ADV	ADV	_	18	mod	_	_
+18	vaut	valoir	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+19	prévenir	prévenir	V	VINF	m=inf	18	suj	_	_
+20	que	que	C	CS	s=s	18	mod	_	_
+21	guérir	guérir	V	VINF	m=inf	20	obj.cpl	_	_
+22	.	.	PONCT	PONCT	s=s	18	ponct	_	_
+
+# sent_id = Europar.550_00442
+# text = Je suppose que cette recommandation s'applique dans chacun de nos États membres et de nos régions.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	2	suj	_	_
+2	suppose	supposer	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+3	que	que	C	CS	s=s	2	obj	_	_
+4	cette	ce	D	DET	g=f|n=s|s=dem	5	det	_	_
+5	recommandation	recommandation	N	NC	g=f|n=s|s=c	7	suj	_	_
+6	s'	se	CL	CLR	p=3|s=refl	7	aff.demsuj	_	_
+7	applique	appliquer	V	V	m=ind|n=s|p=3|t=pst	3	obj.cpl	_	_
+8	dans	dans	P	P	_	7	mod	_	_
+9	chacun	chacun	PRO	PRO	g=m|s=ind	8	obj.p	_	_
+10	de	de	P	P	_	9	dep	_	_
+11	nos	son	D	DET	n=p|s=poss	12	det	_	_
+12	États	état	N	NC	g=m|n=p|s=c	10	obj.p	_	_
+13	membres	membre	N	NC	g=m|n=p|s=c	12	mod	_	_
+14	et	et	C	CC	s=c	10	coord	_	_
+15	de	de	P	P	_	14	dep.coord	_	_
+16	nos	son	D	DET	n=p|s=poss	17	det	_	_
+17	régions	région	N	NC	g=f|n=p|s=c	15	obj.p	_	_
+18	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00443
+# text = Je désire également féliciter ma collègue Roth-Behrendt pour son rapport.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	2	suj	_	_
+2	désire	désirer	V	V	m=ind|n=s|p=1|t=pst	0	root	_	_
+3	également	également	ADV	ADV	_	2	mod	_	_
+4	féliciter	féliciter	V	VINF	m=inf	2	obj	_	_
+5	ma	son	D	DET	g=f|n=s|s=poss	6	det	_	_
+6	collègue	collègue	N	NC	g=f|n=s|s=c	4	obj	_	_
+7	Roth-Behrendt	Roth-Behrendt	N	NPP	s=p	6	mod	_	_
+8	pour	pour	P	P	_	4	p_obj.o	_	_
+9	son	son	D	DET	n=s|s=poss	10	det	_	_
+10	rapport	rapport	N	NC	g=m|n=s|s=c	8	obj.p	_	_
+11	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00444
+# text = Mon groupe n'a déposé aucun amendement.
+1	Mon	son	D	DET	n=s|s=poss	2	det	_	_
+2	groupe	groupe	N	NC	g=m|n=s|s=c	5	suj	_	_
+3	n'	ne	ADV	ADV	s=neg	5	mod	_	_
+4	a	avoir	V	V	m=ind|n=s|p=3|t=pst	5	aux.tps	_	_
+5	déposé	déposer	V	VPP	g=m|m=part|n=s|t=past	0	root	_	_
+6	aucun	aucun	D	DET	g=m|n=s|s=neg	7	det	_	_
+7	amendement	amendement	N	NC	g=m|n=s|s=c	5	obj	_	_
+8	.	.	PONCT	PONCT	s=s	5	ponct	_	_
+
+# sent_id = Europar.550_00445
+# text = Nous le soutenons entièrement.
+1	Nous	il	CL	CLS	n=p|p=1|s=suj	3	suj	_	_
+2	le	le	CL	CLO	g=m|n=s|p=3|s=obj	3	obj	_	_
+3	soutenons	soutenir	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+4	entièrement	entièrement	ADV	ADV	_	3	mod	_	_
+5	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00446
+# text = Nous vous soutenons pleinement et ne sommes aucunement méfiants.
+1	Nous	il	CL	CLS	n=p|p=1|s=suj	3	suj	_	_
+2	vous	le	CL	CLO	n=p|p=2|s=obj	3	obj	_	_
+3	soutenons	soutenir	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+4	pleinement	pleinement	ADV	ADV	_	3	mod	_	_
+5	et	et	C	CC	s=c	3	coord	_	_
+6	ne	ne	ADV	ADV	s=neg	7	mod	_	_
+7	sommes	être	V	V	m=ind|n=p|p=1|t=pst	5	dep.coord	_	_
+8	aucunement	aucunement	ADV	ADV	_	7	mod	_	_
+9	méfiants	méfiant	A	ADJ	n=p|s=qual	7	ats	_	_
+10	.	.	PONCT	PONCT	s=s	3	ponct	_	_
+
+# sent_id = Europar.550_00447
+# text = En effet, la proposition découle d'un engagement qui a été pris concernant la commission de suivi.
+1	En	en	P	P	mwehead=ADV|mwelemma=en_effet	6	mod	_	_
+2	effet	effet	N	NC	component=y|g=m|n=s|s=c	1	dep_cpd	_	_
+3	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+4	la	le	D	DET	g=f|n=s|s=def	5	det	_	_
+5	proposition	proposition	N	NC	g=f|n=s|s=c	6	suj	_	_
+6	découle	découler	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+7	d'	de	P	P	_	6	de_obj	_	_
+8	un	un	D	DET	g=m|n=s|s=ind	9	det	_	_
+9	engagement	engagement	N	NC	g=m|n=s|s=c	7	obj.p	_	_
+10	qui	qui	PRO	PROREL	s=rel	13	suj	_	_
+11	a	avoir	V	V	m=ind|n=s|p=3|t=pst	13	aux.tps	_	_
+12	été	être	V	VPP	m=part|t=past	13	aux.pass	_	_
+13	pris	prendre	V	VPP	g=m|m=part|t=past	9	mod.rel	_	_
+14	concernant	concerner	V	VPR	m=part|t=pst	9	mod	_	_
+15	la	le	D	DET	g=f|n=s|s=def	16	det	_	_
+16	commission	commission	N	NC	g=f|n=s|s=c	14	obj	_	_
+17	de	de	P	P	_	16	dep	_	_
+18	suivi	suivi	N	NC	g=m|n=s|s=c	17	obj.p	_	_
+19	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+# sent_id = Europar.550_00448
+# text = C'est donc une bonne chose.
+1	C'	ce	CL	CLS	n=s|p=3|s=suj	2	suj	_	_
+2	est	être	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+3	donc	donc	ADV	ADV	_	2	mod	_	_
+4	une	un	D	DET	g=f|n=s|s=ind	6	det	_	_
+5	bonne	bon	A	ADJ	g=f|n=s|s=qual	6	mod	_	_
+6	chose	chose	N	NC	g=f|n=s|s=c	2	ats	_	_
+7	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00449
+# text = Je voudrais à présent aborder les sujets suivants.
+1	Je	il	CL	CLS	n=s|p=1|s=suj	2	suj	_	_
+2	voudrais	vouloir	V	V	m=ind|n=s|p=1|t=cond	0	root	_	_
+3	à	à	P	P	mwehead=ADV|mwelemma=à_présent	2	mod	_	_
+4	présent	présent	N	NC	component=y|g=m|n=s|s=c	3	dep_cpd	_	_
+5	aborder	aborder	V	VINF	m=inf	2	obj	_	_
+6	les	le	D	DET	n=p|s=def	7	det	_	_
+7	sujets	sujet	N	NC	g=m|n=p|s=c	5	obj	_	_
+8	suivants	suivant	A	ADJ	g=m|n=p|s=qual	7	mod	_	_
+9	.	.	PONCT	PONCT	s=s	2	ponct	_	_
+
+# sent_id = Europar.550_00450
+# text = En premier lieu, la régionalisation et la différentiation régionale sont utiles pour une lutte efficace contre l'ESB.
+1	En	en	P	P	_	11	mod	_	_
+2	premier	premier	A	ADJ	g=m|n=s|s=ord	3	mod	_	_
+3	lieu	lieu	N	NC	g=m|n=s|s=c	1	obj.p	_	_
+4	,	,	PONCT	PONCT	s=w	11	ponct	_	_
+5	la	le	D	DET	g=f|n=s|s=def	6	det	_	_
+6	régionalisation	régionalisation	N	NC	g=f|n=s|s=c	11	suj	_	_
+7	et	et	C	CC	s=c	6	coord	_	_
+8	la	le	D	DET	g=f|n=s|s=def	9	det	_	_
+9	différentiation	différentiation	N	NC	g=f|n=s|s=c	7	dep.coord	_	_
+10	régionale	régional	A	ADJ	g=f|n=s|s=qual	9	mod	_	_
+11	sont	être	V	V	m=ind|n=p|p=3|t=pst	0	root	_	_
+12	utiles	utile	A	ADJ	n=p|s=qual	11	ats	_	_
+13	pour	pour	P	P	_	12	mod	_	_
+14	une	un	D	DET	g=f|n=s|s=ind	15	det	_	_
+15	lutte	lutte	N	NC	g=f|n=s|s=c	13	obj.p	_	_
+16	efficace	efficace	A	ADJ	n=s|s=qual	15	mod	_	_
+17	contre	contre	P	P	_	15	dep	_	_
+18	l'	le	D	DET	n=s|s=def	19	det	_	_
+19	ESB	ESB	N	NC	n=s|s=c	17	obj.p	_	_
+20	.	.	PONCT	PONCT	s=s	11	ponct	_	_
+
+# sent_id = Europar.550_00451
+# text = Demandez donc à mes collègues écossais et gallois.
+1	Demandez	demander	V	VIMP	m=imp|n=p|p=2|t=pst	0	root	_	_
+2	donc	donc	ADV	ADV	_	1	mod	_	_
+3	à	à	P	P	_	1	a_obj	_	_
+4	mes	son	D	DET	n=p|s=poss	5	det	_	_
+5	collègues	collègue	N	NC	n=p|s=c	3	obj.p	_	_
+6	écossais	écossais	A	ADJ	g=m|s=qual	5	mod	_	_
+7	et	et	C	CC	s=c	6	coord	_	_
+8	gallois	gallois	A	ADJ	g=m|s=qual	7	dep.coord	_	_
+9	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+
+# sent_id = Europar.550_00452
+# text = Deuxièmement, il existe des tests qui permettent de poser un diagnostic rapide et de déceler l'ESB chez les bovins.
+1	Deuxièmement	deuxièmement	ADV	ADV	_	4	mod	_	_
+2	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+3	il	il	CL	CLS	g=m|n=s|p=3|s=suj	4	suj	_	_
+4	existe	exister	V	V	m=ind|n=s|p=3|t=pst	0	root	_	_
+5	des	un	D	DET	n=p|s=ind	6	det	_	_
+6	tests	test	N	NC	g=m|n=p|s=c	4	obj	_	_
+7	qui	qui	PRO	PROREL	s=rel	8	suj	_	_
+8	permettent	permettre	V	V	m=ind|n=p|p=3|t=pst	6	mod.rel	_	_
+9	de	de	P	P	_	8	obj	_	_
+10	poser	poser	V	VINF	m=inf	9	obj.p	_	_
+11	un	un	D	DET	g=m|n=s|s=ind	12	det	_	_
+12	diagnostic	diagnostic	N	NC	g=m|n=s|s=c	10	obj	_	_
+13	rapide	rapide	A	ADJ	n=s|s=qual	12	mod	_	_
+14	et	et	C	CC	s=c	9	coord	_	_
+15	de	de	P	P	_	14	dep.coord	_	_
+16	déceler	déceler	V	VINF	m=inf	15	obj.p	_	_
+17	l'	le	D	DET	n=s|s=def	18	det	_	_
+18	ESB	ESB	N	NC	g=f|n=s|s=c	16	obj	_	_
+19	chez	chez	P	P	_	16	mod	_	_
+20	les	le	D	DET	n=p|s=def	21	det	_	_
+21	bovins	bovin	N	NC	g=m|n=p|s=c	19	obj.p	_	_
+22	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+# sent_id = Europar.550_00453
+# text = À juste titre, nous voulons, en tant que commission de l'environnement, de la santé publique et de la protection des consommateurs, offrir la possibilité d'utiliser ces méthodes afin de garantir un meilleur contrôle.
+1	À	à	P	P	_	6	mod	_	_
+2	juste	juste	A	ADJ	n=s|s=qual	3	mod	_	_
+3	titre	titre	N	NC	g=m|n=s|s=c	1	obj.p	_	_
+4	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+5	nous	il	CL	CLS	n=p|p=1|s=suj	6	suj	_	_
+6	voulons	vouloir	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+7	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+8	en	en	P	P	mwehead=P|mwelemma=en_tant_que	6	mod	_	_
+9	tant	tant	ADV	ADV	component=y	8	dep_cpd	_	_
+10	que	que	C	CS	component=y|s=s	8	dep_cpd	_	_
+11	commission	commission	N	NC	g=f|n=s|s=c	8	obj.p	_	_
+12	de	de	P	P	_	11	dep	_	_
+13	l'	le	D	DET	n=s|s=def	14	det	_	_
+14	environnement	environnement	N	NC	g=m|n=s|s=c	12	obj.p	_	_
+15	,	,	PONCT	PONCT	s=w	12	coord	_	_
+16	de	de	P	P	_	15	dep.coord	_	_
+17	la	le	D	DET	g=f|n=s|s=def	18	det	_	_
+18	santé	santé	N	NC	g=f|n=s|s=c	16	obj.p	_	_
+19	publique	public	A	ADJ	g=f|n=s|s=qual	18	mod	_	_
+20	et	et	C	CC	s=c	12	coord	_	_
+21	de	de	P	P	_	20	dep.coord	_	_
+22	la	le	D	DET	g=f|n=s|s=def	23	det	_	_
+23	protection	protection	N	NC	g=f|n=s|s=c	21	obj.p	_	_
+24	des	de	P+D	P+D	s=def	23	dep	_	_
+25	consommateurs	consommateur	N	NC	g=m|n=p|s=c	24	obj.p	_	_
+26	,	,	PONCT	PONCT	s=w	6	ponct	_	_
+27	offrir	offrir	V	VINF	m=inf	6	obj	_	_
+28	la	le	D	DET	g=f|n=s|s=def	29	det	_	_
+29	possibilité	possibilité	N	NC	g=f|n=s|s=c	27	obj	_	_
+30	d'	de	P	P	_	29	dep	_	_
+31	utiliser	utiliser	V	VINF	m=inf	30	obj.p	_	_
+32	ces	ce	D	DET	n=p|s=dem	33	det	_	_
+33	méthodes	méthode	N	NC	g=f|n=p|s=c	31	obj	_	_
+34	afin	afin	P	P	mwehead=P|mwelemma=afin_de	31	mod	_	_
+35	de	de	P	P	component=y	34	dep_cpd	_	_
+36	garantir	garantir	V	VINF	m=inf	34	obj.p	_	_
+37	un	un	D	DET	g=m|n=s|s=ind	39	det	_	_
+38	meilleur	meilleur	A	ADJ	g=m|n=s|s=qual	39	mod	_	_
+39	contrôle	contrôle	N	NC	g=m|n=s|s=c	36	obj	_	_
+40	.	.	PONCT	PONCT	s=s	6	ponct	_	_
+
+# sent_id = Europar.550_00454
+# text = Certes, nous savons tous que ces tests ne sont pas encore au point sur le plan scientifique et que dans le cas d'une application de ces tests, nous ne savons pas à quel stade précis de la maladie intervient ou non une contamination.
+1	Certes	certes	ADV	ADV	_	4	mod	_	_
+2	,	,	PONCT	PONCT	s=w	4	ponct	_	_
+3	nous	il	CL	CLS	n=p|p=1|s=suj	4	suj	_	_
+4	savons	savoir	V	V	m=ind|n=p|p=1|t=pst	0	root	_	_
+5	tous	tout	A	ADJ	g=m|n=p|s=ind	4	mod	_	_
+6	que	que	C	CS	s=s	4	obj	_	_
+7	ces	ce	D	DET	n=p|s=dem	8	det	_	_
+8	tests	test	N	NC	g=m|n=p|s=c	10	suj	_	_
+9	ne	ne	ADV	ADV	s=neg	10	mod	_	_
+10	sont	être	V	V	m=ind|n=p|p=3|t=pst	6	obj.cpl	_	_
+11	pas	pas	ADV	ADV	mwehead=ADV|mwelemma=pas_encore|s=neg	10	mod	_	_
+12	encore	encore	ADV	ADV	component=y	11	dep_cpd	_	_
+13	au	à	P+D	P+D	s=def	10	ats	_	_
+14	point	point	N	NC	g=m|n=s|s=c	13	obj.p	_	_
+15	sur	sur	P	P	_	10	mod	_	_
+16	le	le	D	DET	g=m|n=s|s=def	17	det	_	_
+17	plan	plan	N	NC	g=m|n=s|s=c	15	obj.p	_	_
+18	scientifique	scientifique	A	ADJ	n=s|s=qual	17	mod	_	_
+19	et	et	C	CC	s=c	6	coord	_	_
+20	que	que	C	CS	s=s	19	dep.coord	_	_
+21	dans	dans	P	P	_	33	mod	_	_
+22	le	le	D	DET	g=m|n=s|s=def	23	det	_	_
+23	cas	cas	N	NC	g=m|n=s|s=c	21	obj.p	_	_
+24	d'	de	P	P	_	23	dep	_	_
+25	une	un	D	DET	g=f|n=s|s=ind	26	det	_	_
+26	application	application	N	NC	g=f|n=s|s=c	24	obj.p	_	_
+27	de	de	P	P	_	26	dep	_	_
+28	ces	ce	D	DET	n=p|s=dem	29	det	_	_
+29	tests	test	N	NC	g=m|n=p|s=c	27	obj.p	_	_
+30	,	,	PONCT	PONCT	s=w	33	ponct	_	_
+31	nous	il	CL	CLS	n=p|p=1|s=suj	33	suj	_	_
+32	ne	ne	ADV	ADV	s=neg	33	mod	_	_
+33	savons	savoir	V	V	m=ind|n=p|p=1|t=pst	20	obj.cpl	_	_
+34	pas	pas	ADV	ADV	s=neg	33	mod	_	_
+35	à	à	P	P	_	42	mod	_	_
+36	quel	quel	D	DETWH	g=m|n=s|s=int	37	det	_	_
+37	stade	stade	N	NC	g=m|n=s|s=c	35	obj.p	_	_
+38	précis	précis	A	ADJ	g=m|s=qual	37	mod	_	_
+39	de	de	P	P	_	37	dep	_	_
+40	la	le	D	DET	g=f|n=s|s=def	41	det	_	_
+41	maladie	maladie	N	NC	g=f|n=s|s=c	39	obj.p	_	_
+42	intervient	intervenir	V	V	m=ind|n=s|p=3|t=pst	33	obj	_	_
+43	ou	ou	C	CC	s=c	42	coord	_	_
+44	non	non	ADV	ADV	s=neg	43	dep.coord	_	_
+45	une	un	D	DET	g=f|n=s|s=ind	46	det	_	_
+46	contamination	contamination	N	NC	g=f|n=s|s=c	42	suj	_	_
+47	.	.	PONCT	PONCT	s=s	4	ponct	_	_
+
+# sent_id = Europar.550_00455
+# text = Mais je pense en tout cas que ces tests sont prometteurs.
+1	Mais	mais	C	CC	s=c	0	root	_	_
+2	je	il	CL	CLS	n=s|p=1|s=suj	3	suj	_	_
+3	pense	penser	V	V	m=ind|n=s|p=1|t=pst	1	dep.coord	_	_
+4	en	en	P	P	mwehead=ADV|mwelemma=en_tout_cas	3	mod	_	_
+5	tout	tout	D	DET	component=y|g=m|n=s|s=ind	4	dep_cpd	_	_
+6	cas	cas	N	NC	component=y|g=m|s=c	4	dep_cpd	_	_
+7	que	que	C	CS	s=s	3	obj	_	_
+8	ces	ce	D	DET	n=p|s=dem	9	det	_	_
+9	tests	test	N	NC	g=m|n=p|s=c	10	suj	_	_
+10	sont	être	V	V	m=ind|n=p|p=3|t=pst	7	obj.cpl	_	_
+11	prometteurs	prometteur	A	ADJ	g=m|n=p|s=qual	10	ats	_	_
+12	.	.	PONCT	PONCT	s=s	1	ponct	_	_
+

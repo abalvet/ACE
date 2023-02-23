@@ -1,0 +1,179 @@
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **garantir** dans la phrase:
+Pour **garantir** une concurrence loyale , il convient que ces mesures soient prises au niveau international . 
+{
+	~ADV_Int
+	~ADV
+	~ADJ_Excl/Int
+	=V_Inf
+	~ADJ
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **loyale** dans la phrase:
+Pour garantir une concurrence **loyale** , il convient que ces mesures soient prises au niveau international . 
+{
+	~DET
+	~PRO_Int
+	=ADJ
+	~V_Part_Prés
+	~NC
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **il** dans la phrase:
+Pour garantir une concurrence loyale , **il** convient que ces mesures soient prises au niveau international . 
+{
+	=PRO_Suj
+	~DET_Int
+	~PRO_Rel
+	~V_Subj
+	~V_Imp
+	~PRO_Obj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **convient** dans la phrase:
+Pour garantir une concurrence loyale , il **convient** que ces mesures soient prises au niveau international . 
+{
+	~Conj_de_Sub
+	=V
+	~PRO_Int
+	~Mot_étranger
+	~Conj_de_Coord
+	~DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **que** dans la phrase:
+Pour garantir une concurrence loyale , il convient **que** ces mesures soient prises au niveau international . 
+{
+	~PREP_+_DET
+	=Conj_de_Sub
+	~Interj
+	~PRO_Obj
+	~ADV
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **prises** dans la phrase:
+Pour garantir une concurrence loyale , il convient que ces mesures soient **prises** au niveau international . 
+{
+	~Interj
+	~Préf
+	~ADV_Int
+	~PREP_+_DET
+	~DET_Int
+	=V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **au** dans la phrase:
+Pour garantir une concurrence loyale , il convient que ces mesures soient prises **au** niveau international . 
+{
+	~V_Imp
+	~V_Inf
+	~ADV
+	=PREP_+_DET
+	~Conj_de_Sub
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **international** dans la phrase:
+Pour garantir une concurrence loyale , il convient que ces mesures soient prises au niveau **international** . 
+{
+	=ADJ
+	~ADV
+	~V_Subj
+	~DET_Int
+	~PRO_Réfl
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **qui** dans la phrase:
+La proposition de résolution , **qui** insiste , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	=PRO_Rel
+	~PRO
+	~PRO_Réfl
+	~V_Imp
+	~Interj
+	~PREP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **insiste** dans la phrase:
+La proposition de résolution , qui **insiste** , entre autres , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	~ADV_Int
+	~PRO_Rel
+	~V_Part_Passé
+	=V
+	~PREP
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **autres** dans la phrase:
+La proposition de résolution , qui insiste , entre **autres** , pour que le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	=PRO
+	~V_Imp
+	~Mot_étranger
+	~Préf
+	~Conj_de_Sub
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **que** dans la phrase:
+La proposition de résolution , qui insiste , entre autres , pour **que** le niveau des nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	~PRO_Rel
+	~V_Part_Prés
+	~NPr
+	~DET_Int
+	~ADJ_Excl/Int
+	=Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **des** dans la phrase:
+La proposition de résolution , qui insiste , entre autres , pour que le niveau **des** nuisances acoustiques à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	~ADJ_Excl/Int
+	~V_Subj
+	=PREP_+_DET
+	~PRO_Obj
+	~PRO_Int
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **acoustiques** dans la phrase:
+La proposition de résolution , qui insiste , entre autres , pour que le niveau des nuisances **acoustiques** à proximité des divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	~Mot_étranger
+	=ADJ
+	~PRO_Suj
+	~V_Imp
+	~V_Part_Passé
+	~PRO_Obj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **des** dans la phrase:
+La proposition de résolution , qui insiste , entre autres , pour que le niveau des nuisances acoustiques à proximité **des** divers aéroports soit divulgué , constitue un pas en avant dans la bonne direction . 
+{
+	~DET_Int
+	~V
+	~PRO_Réfl
+	~Conj_de_Coord
+	~ADJ_Excl/Int
+	=PREP_+_DET
+}
+
