@@ -1,0 +1,779 @@
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Cette exposition nous apprend que dès le XIIe siècle , à Dammarie-sur-Saulx , entre autres sites , une industrie métallurgique **existait** .
+{
+~MOD:nom
+~DEP
+=COD:sub
+~COI:pron
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il a rappelé que plusieurs automobilistes ont **quitté** la chaussée à l' intersection de la RD192 et du chemin rural de la Vaux des Fossés et qu' il convient de modifier le régime de priorité à cet endroit .
+{
+~DEP
+=COD:sub
+~MOD:prép
+~SUJ
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Quel bonheur d' entendre la boulangère conter l' histoire de saint Honoré , ce jeune homme dissipé annonçant à sa vieille nourrice qu' il **voulait** se faire prêtre !
+{
+~SUJ:sub
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Hier en début de soirée , la route reliant Danjoutin à Belfort était en partie neutralisée par la police , le temps qu' un dépanneur fasse **tomber** l' automobile , perchée juste au-dessus d' une fortification appartenant à l' ancienne ceinture de Belfort .
+{
+~SUJ:sub
+~DEP
+=COD:sub
+~COI
+~AGT
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+à travers cette balade interplanétaire , le visiteur enrichit ses connaissances et apprend que le premier astronome français **répondait** au nom de Messier surnommé " Le furet des comètes " par Louis XV .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~MOD:adv
+~COI
+~SUJ
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+J' espère qu' un jour , le théâtre **remplacera** la télévision . "
+{
+~MOD:nom
+=COD:sub
+~AGT
+~MOD:prép
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Néanmoins , un témoin leur assure qu' un des protagonistes de la rixe a **pris** la fuite en voiture .
+{
+~MOD:nom
+~DEP
+=COD:sub
+~COI:pron
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour ce qui est de la bagarre , l' enquête de police se poursuit afin de savoir qui a **fait** quoi .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COI:pron
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Lionel Jospin note que la mission de ce groupe **est** " de ne pas méconnaître les justes revendications des autres orphelins de victimes du nazisme " et de " trouver collectivement la meilleure façon de faire reconnaître par la Nation l' ampleur des souffrances subies " .
+{
+~MOD:nom
+=COD:sub
+~MOD:adv
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Lionel Jospin écrit : " Il m' a été **donné** de dire à plusieurs reprises combien les persécutions antisémites et les actes qui en ont découlé revêtaient un caractère particulier aux yeux de l' histoire et de la morale " .
+{
+~MOD:nom
+=COD:sub
+~COD
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le premier magistrat de la commune n' écartait d' ailleurs pas cette thèse expliquant qu' un incendie comme celui-ci à une heure plus tardive aurait **pu** avoir des conséquences beaucoup plus graves .
+{
+~MOD:nom
+~SUJ:sub
+~DEP
+=COD:sub
+~COI:pron
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il devrait comparaître dans les prochains jours pour indiquer s' il **plaide** coupable ou non coupable des faits qui lui sont reprochés .
+{
+~DEP
+=COD:sub
+~COD
+~MOD:prép
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Et menace de saisir le Conseil constitutionnel si les projets du gouvernement ne respectent pas l' article 3 de la Constitution qui dispose que " la loi **favorise** l' égal accès des femmes et des hommes aux mandats électoraux et fonctions électives " .
+{
+~SUJ:sub
+=COD:sub
+~MOD:adv
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Tout au plus ont -ils appris qu' elle était **partie** sans prendre soin de mettre des vêtements chauds malgré la rigueur hivernale .
+{
+~MOD:nom
+~DEP
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un ratissage autour du domicile de sa famille était également entrepris , les gendarmes craignant que la jeune fille n' **attente** à ses jours .
+{
+~MOD:nom
+~SUJ:sub
+~DEP
+=COD:sub
+~COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Mais peu avant 14 h , la jeune fille prévenait sa famille qu' elle était **saine** et sauve et qu' elle se trouvait à Lyon .
+{
+=COD:sub
+~COI
+~AGT
+~COI:pron
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un viticulteur est acquéreur d' une parcelle sur la zone artisanale et souhaite que la superficie soit **portée** de 1.000 à 1.500 m2
+{
+=COD:sub
+~COI:pron
+~COI
+~MOD:prép
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Bien sûr , Pablo Correa n' a obtenu aucune garantie concernant une place de titulaire : " Je ne revendique rien , mais je connais mes qualités , mon envie et je sens que je **peux** jouer plus que la saison dernière .
+{
+=COD:sub
+~COI:pron
+~COI
+~MOD:prép
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est encore trop tôt pour savoir si au bout de ces deux années , Pablo Correa **intégrera** le staff technique , puisqu' il paraît décidé à demeurer en France .
+{
+~SUJ:sub
+=COD:sub
+~COI:pron
+~MOD:prép
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le comité a conclu que les bénéfices de Angiox sont **supérieurs** aux risques qu' il comporte pour le traitement des patients adultes souffrant de SCA et devant subir une intervention urgente ou précoce , avec de l' aspirine et du clopidogrel , et comme anticoagulant chez les patients subissant une intervention coronaire percutanée ( ICP ) .
+{
+=COD:sub
+~MOD:adv
+~SUJ:sub
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il convient de surveiller attentivement que les patients ne **présentent** pas de symptômes et de signes de saignement pendant le traitement , notamment si la bivalirudine est combinée à un autre anticoagulant ( voir Section 4.5 ) .
+{
+=COD:sub
+~COD
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les résultats de ces études ne permettent pas de penser qu' il se **produise** d' interactions pharmacodynamiques avec ces médicaments .
+{
+~MOD:nom
+=COD:sub
+~COD
+~COI:pron
+~COI
+~SUJ
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Des études in vitro ont montré que la bivalirudine **inhibe** à la fois la thrombine soluble ( libre ) et la thrombine liée aux caillots .
+{
+~MOD:nom
+~DEP
+=COD:sub
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Des données relatives à 366 patients indiquent que l' ACT n' est pas **influencé** par un traitement concomitant par inhibiteur de la GP IIb/IIIa .
+{
+=COD:sub
+~MOD:nom
+~AGT
+~COI:pron
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+MISE EN GARDE SPECIALE INDIQUANT QUE LE MEDICAMENT **DOIT** ETRE CONSERVE HORS DE PORTEE ET DE VUE DES ENFANTS
+{
+~DEP
+=COD:sub
+~COD
+~COI
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si vous allaitez , votre médecin déterminera si Angiox **peut** être utilisé .
+{
+~DEP
+=COD:sub
+~COD
+~COI:pron
+~COI
+~SUJ
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Votre médecin déterminera quelle quantité d' Angiox vous sera **administrée** et la préparera .
+{
+~DEP
+=COD:sub
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La société qui fabrique Aclasta fournira des kits d' information , rappelant comment ce médicament **doit** être utilisé , aux médecins qui prescrivent Aclasta en tant que traitement anti-ostéoporotique .
+{
+=COD:sub
+~COD
+~COI:pron
+~MOD:adv
+~COI
+~MOD:prép
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est normal que le tissu osseux ancien se **résorbe** et soit remplacé par de l' os nouveau .
+{
+~DEP
+=COD:sub
+~COD
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si vous êtes sous traitement dentaire ou si vous allez subir une intervention dentaire , informez votre dentiste que vous **allez** être traité par Aclasta .
+{
+~SUJ:sub
+=COD:sub
+~COI:pron
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est particulièrement important que votre médecin soit **informé** si vous prenez des médicaments connus comme étant nuisibles pour vos reins .
+{
+~MOD:nom
+~COI
+=COD:sub
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si la solution a été réfrigérée , il faut attendre qu' elle **revienne** à une température ambiante avant de l' administrer .
+{
+~MOD:nom
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il faut attendre que la solution réfrigérée **revienne** à température ambiante avant de l' administrer .
+{
+=COD:sub
+~COD
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je suis certain qu' il **a** conscience de la menace très grave qui pèse sur le modèle européen fondé sur l' exploitation familiale .
+{
+=COD:sub
+~COD
+~COI:pron
+~COI
+~MOD:prép
+~SUJ
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les premiers concernés sont les producteurs de viande de boeuf et de mouton , dont on attend aujourd'hui qu' ils **vendent** leurs produits à des prix égaux ou inférieurs à leurs coûts de production .
+{
+~SUJ:sub
+=COD:sub
+~COD
+~COI
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je voudrais demander quelles nouvelles initiatives **peut** prendre le Conseil pour préserver les intérêts de ces agriculteurs dans le cadre des prochaines négociations sur le commerce mondial , en particulier face à la production à grande échelle et de style industriel des États-Unis et de la Nouvelle-Zélande , où les économies d' échelle font qu' il est extrêmement difficile pour les exploitations familiales européennes de rester compétitives et où , bien sûr , les normes européennes en matière de sécurité alimentaire ne s' appliquent pas .
+{
+~DEP
+=COD:sub
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Nous savons qu' à mesure que l' Asie bénéficiera d' un niveau de vie accru , 1,4 milliard de Chinois et 1 milliard d' Indiens **commenceront** à consommer de plus en plus d' énergie ;
+{
+=COD:sub
+~COI
+~AGT
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+M. Turmes a abordé ce point et je me rappelle que les milieux industriels **savent** , en tout cas depuis 1992 , que les ballasts magnétiques seront plus ou moins interdits vers 2009 .
+{
+=COD:sub
+~COI
+~AGT
+~SUJ
+}
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Or , il apparaît aujourd'hui évident que si l'on **ouvre** , Madame la Présidente , le débat que vous nous demandez d' ouvrir , et que la Conférence des présidents nous demande d' ouvrir , sur le fondement de l' article 50 , alors on ouvre une brèche redoutable dans le principe de la liberté , de la souveraineté des États , de la constitution libre des gouvernements qui sont issus d' élections démocratiques , alors demain une autre majorité dans ce Parlement pourra s' arroger une immixtion dans la constitution d' un gouvernement résultant cependant d' élections libres , régulières , paisibles et démocratiques à l' intérieur d' un État membre .
+{
+=COD:sub
+~COI:pron
+~MOD:adv
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je voyais d' un bon oeil l' amendement du groupe EDD , rejetant l' interférence de l' UE dans la formation du gouvernement d' États membres , mais j' ai dû m' abstenir parce que cela suivait la condamnation de la xénophobie , du racisme , etc. , et j' ai estimé que cela **pourrait** être mal interprété .
+{
+~SUJ:sub
+=COD:sub
+~COD
+~COI:pron
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour l' instant , il semble que l' opposition des gouvernements étrangers **favorise** plus que ne handicape le parti de Haider .
+{
+~SUJ:sub
+=COD:sub
+~COD
+~COI:pron
+~MOD:adv
+~COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour l' instant , il semble que l' opposition des gouvernements étrangers favorise plus que ne **handicape** le parti de Haider .
+{
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Même les États-Unis ont déclaré qu' ils **envisageaient** de rompre leurs relations diplomatiques .
+{
+~DEP
+=COD:sub
+~COI:pron
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Nous nous demandons si cela n' **attise** pas le feu de la xénophobie , ainsi que les partis et les personnes en sont les partisans .
+{
+~DEP
+=COD:sub
+~COD
+~COI:pron
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je pense vraiment qu' il **convient** d' être extrêmement prudent .
+{
+=COD:sub
+~AGT
+~SUJ:sub
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Nous devons considérer les personnes qui votent pour ces partis et comprendre pourquoi cette situation **voit** le jour .
+{
+~MOD:nom
+=COD:sub
+~MOD:adv
+~COI
+~MOD:prép
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+M. Wurtz devrait peut-être se rappeler qu' il n' y a pas si longtemps , des collègues de son parti , des maires communistes français , **envoyaient** des bulldozers contre des foyers d' immigrés en France .
+{
+~MOD:nom
+=COD:sub
+~COD
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est de ce fait préoccupant que les prises de position du Parlement précédent ne **soutiennent** pas l' organisation équilibrée de l' OMPI .
+{
+~DEP
+=COD:sub
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il faut qu' il **produise** des résultats .
+{
+~DEP
+=COD:sub
+~COD
+~COI:pron
+~MOD:adv
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je regrette vivement que seuls des fonds limités soient **disponibles** pour cette initiative .
+{
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Cela signifie que les fonds **doivent** être utilisés afin d' obtenir un effet maximal et les informations sur les partenariats **doivent** être largement et rapidement diffusées .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COD
+~AGT
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Bien que je pense que certains aspects du rapport **pourraient** être mieux traités d' une autre manière , je crois dans l' ensemble que ce rapport offre une approche flexible et censée et qu' il faut l' appuyer .
+{
+=COD:sub
+~MOD:adv
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Bien que je pense que certains aspects du rapport pourraient être mieux traités d' une autre manière , je crois dans l' ensemble que ce rapport **offre** une approche flexible et censée et qu' il faut l' appuyer .
+{
+~MOD:nom
+=COD:sub
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Monsieur le Président , chers collègues , Monsieur Sakellariou , je ne soutiens pas M. Dupuis , mais je pense qu' il ne **faut** pas se voiler la face .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COD
+~MOD:adv
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si vous signez quelque chose avec lui , vous devez vous demander si vous **pensez** réellement ce que vous avez dit à M. Dupuis .
+{
+~MOD:nom
+=COD:sub
+~COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je me demande vraiment pourquoi nous avons **pris** cette résolution en septembre dernier .
+{
+=COD:sub
+~AGT
+~COI:pron
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je sais où ils **sont** : dans une prison serbe , sans aucune raison !
+{
+=COD:sub
+~COI:pron
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je crois que nous **devrions** nous pencher sur ce problème .
+{
+=COD:sub
+~COD
+~COI:pron
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+C' est pourquoi je crois également que nous **devons** exiger que ceux que nous avons secourus se comportent réellement , eux aussi , correctement .
+{
+~DEP
+=COD:sub
+~COD
+~MOD:adv
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+C' est pourquoi je crois également que nous devons exiger que ceux que nous avons secourus se **comportent** réellement , eux aussi , correctement .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je pense que nous **devons** empêcher cela .
+{
+=COD:sub
+~COD
+~MOD:adv
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si la KFOR est attaquée , je ne puis que dire que ce sont nos **fils** et que nous les avons envoyés pour aider les Albanais et les Serbes , et qui que ce soit d' autre qui vit au Kosovo .
+{
+~SUJ:sub
+=COD:sub
+~COD
+~MOD:adv
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un tiers de ces policiers sont arrivés , il reste deux tiers pour arriver au compte je crois que nous **devons** le faire .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COI
+~SUJ
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je voudrais seulement rappeler qu' il se **passe** actuellement quelque chose de terrible en Serbie .
+{
+~MOD:nom
+~SUJ:sub
+=COD:sub
+~COD
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Nous admettons que l' activité de pêche **figure** parmi celles qui est la plus intéressée à encourager le respect du milieu marin .
+{
+=COD:sub
+~COI:pron
+~MOD:prép
+~SUJ
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est toutefois intéressant de préciser que la petite pêche côtière **démontre** qu' il est possible de combiner une activité de pêche et un développement durable non agressif pour le milieu marin .
+{
+~MOD:nom
+=COD:sub
+~COD
+~MOD:adv
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est toutefois intéressant de préciser que la petite pêche côtière démontre qu' il est **possible** de combiner une activité de pêche et un développement durable non agressif pour le milieu marin .
+{
+~SUJ:sub
+=COD:sub
+~COI:pron
+~COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+À la veille de la conférence intergouvernementale , et à l' occasion des travaux de la convention chargée de l' élaboration de la Charte européenne des droits de l' homme , nous ne pouvons que souhaiter que les relations entre le Parlement belge et notre institution **continuent** d' être exemplaires .
+{
+=COD:sub
+~COD
+~MOD:adv
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pouvez -vous garantir que la Commission ne **cherchera** en aucun cas à utiliser le vote à la majorité qualifiée afin d' imposer des retenues à la source ?
+{
+=COD:sub
+~COI
+~COD
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pouvez -vous garantir que la Commission n' **utilisera** le vote à la majorité qualifiée pour aucun de ces sujets ?
+{
+~MOD:nom
+=COD:sub
+~COD
+~COI:pron
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je pense qu' il s' **agit** d' un objectif important parce que si nous voulons toucher les gens , nous n' avons d' autre choix que d' aller là où ils se trouvent .
+{
+~SUJ:sub
+=COD:sub
+~COD
+~MOD:adv
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je pense que nous **devrions** accorder de l' importance aux arguments des deux parties : tant ceux émis par les organisations environnementales que ceux émis par le secteur industriel , car l' industrie n' a pas uniquement argumenté en termes économiques , mais également en termes écologiques .
+{
+=COD:sub
+~COI:pron
+~AGT
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je pense toutefois que nous **pouvons** en bonne conscience soutenir certaines propositions d' amendement décidées en commission , afin d' améliorer la position commune .
+{
+=COD:sub
+~COI:pron
+~AGT
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je crois donc que nous **sommes** sur la bonne voie , si nous acceptons la majeure partie des propositions décidées en commission , mais en aucun cas une proposition allant au-delà .
+{
+~DEP
+=COD:sub
+~MOD:adv
+~COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je voudrais également confirmer , comme le représentant du Conseil l' a déjà précisé , que l' application territoriale du règlement Eurodac **pose** un problème .
+{
+~MOD:nom
+~DEP
+=COD:sub
+~COD
+~AGT
+}

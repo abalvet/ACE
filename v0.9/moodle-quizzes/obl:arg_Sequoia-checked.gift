@@ -1,0 +1,1450 @@
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ensuite , fut installée une autre forge à la **Vacquerie** , à l' emplacement aujourd'hui de Cora .
+{
+~COI:pron
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ensuite , fut installée une autre forge à la Vacquerie , à l' **emplacement** aujourd'hui de Cora .
+{
+~SUJ:sub
+~MOD:adv
+~MOD:nom
+~AGT
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+En 1953 , les hauts fourneaux et fonderies de Cousances virent le jour , puis Jean Baudesson , maire échevin de Saint-Dizier , autorisé par lettres patentes d' Henri IV , installa à **Marnaval** - qui signifiait val ou vallée de la Marne ou bien en aval de la Marne - , une forge qui connut son apogée au XIXe siècle .
+{
+~COD
+~SUJ:sub
+~MOD:nom
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La présence d' une abondante forêt , fournissant l' indispensable combustible , liée à l' **existence** du minerai de fer exploitable à ciel ouvert , a incité les hommes à créer " .
+{
+~COD
+~DEP
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un voyage étonnant où photos , réalisations , vieux outils , documents anciens , permettront de mesurer combien ce petit bout de terre de France , situé aux **Marches** de l' Est , lieu de passage de prédilection des invasions , fut une terre de labeur , et combien le travail de ses habitants , durs à la tâche , doit être reconnu et mis en valeur .
+{
+~COD
+~SUJ:sub
+~COI:pron
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+M. Soyer a adressé ses remerciements aux **collectivités** participantes , et en particulier à l' inspecteur d' académie , pour la création , en 1998 , d' une cinquième classe et la nomination de deux aides-éducateurs et la mise à disposition à la rentrée 1999 d' un titulaire mobile .
+{
+~COD
+~COI:pron
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+M. Dumez , président du conseil général , a parlé d' une " **réalisation** apte à l' épanouissement des petits " , non sans rappeler le rôle primordial de l' éducation familiale .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+~COD:sub
+=COI
+}
+
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ce sont finalement les élèves de la classe de CM2 de Jacky Hedin qui sont venus mettre la main au **sac** poubelle , dans la bonne humeur , comme s' ils étaient là pour participer à un jeu de plein-air , laissant au passage le soin à leurs aînés d' en tirer une morale .
+{
+~DEP
+~MOD:nom
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ce sont finalement les élèves de la classe de CM2 de Jacky Hedin qui sont venus mettre la main au sac poubelle , dans la bonne humeur , comme s' ils étaient là pour participer à un **jeu** de plein-air , laissant au passage le soin à leurs aînés d' en tirer une morale .
+{
+~COD
+~MOD:nom
+~AGT
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ce sont finalement les élèves de la classe de CM2 de Jacky Hedin qui sont venus mettre la main au sac poubelle , dans la bonne humeur , comme s' ils étaient là pour participer à un jeu de plein-air , laissant au passage le soin à leurs **aînés** d' en tirer une morale .
+{
+~DEP
+~COI:pron
+~AGT
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Une seconde opération se déroulait en parallèle sur le territoire de la commune , avec un groupe d' une dizaine de chevaliers de la gaule " La Barisienne " , des pêcheurs à la ligne venus nettoyer les rives et curer le petit ruisseau qui serpente sous les " Sources " avant de se jeter dans l' **Ornain** .
+{
+~COI:pron
+~AGT
+~SUJ
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ceux d' Ancerville ont participé à l' **événement** en faisant découvrir leur savoir-faire et leurs recettes .
+{
+~COD
+~COI:pron
+~AGT
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les élèves de la classe de CE1 de l' école Notre-Dame ont pris part aux **festivités** .
+{
+~SUJ:sub
+~AGT
+~SUJ
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Quel bonheur d' entendre la boulangère conter l' histoire de saint Honoré , ce jeune homme dissipé annonçant à sa vieille **nourrice** qu' il voulait se faire prêtre !
+{
+~AGT
+~COD:sub
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+L' équipe B , chez les seniors , évoluera à partir de 15 h , sur la **pelouse** du terrain d' honneur , face à la formation de Laneuville .
+{
+~COD
+~MOD:nom
+~SUJ
+~MOD:prép
+=COI
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Né à Abainville le 11 février 1955 , Guy était arrivé tout jeune avec sa famille à **Void-Vacon** .
+{
+~COD
+~SUJ:sub
+~AGT
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Guy a consacré toute sa vie professionnelle à la **laiterie** Besnier à Sorcy-Saint-Martin , au poste de chef magasinier où il comptait de nombreux amis .
+{
+~COD
+~COI:pron
+~AGT
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+à l' âge de 12 ans , il était entré au **LAS** handball où il pratiqua durant près de vingt-cinq ans .
+{
+~SUJ:sub
+~AGT
+~COD:sub
+~SUJ
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Guy affectionnait beaucoup le jardinage , loisir partagé avec **Denise** , son épouse , qu' il a eu la douleur de perdre il y a quinze jours .
+{
+=COI
+~COI:pron
+~MOD:nom
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il laisse à sa **famille** et amis , le souvenir d' un homme dévoué , généreux , jovial , toujours prêt à rendre service .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+On peut donc estimer de façon astronomique le nombre de poules , de canards et de lapins , puis logiquement de casseroles , qui auront profité de cet **engouement** général !
+{
+~DEP
+=COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Voici un homme totalement dévoué à la **cause** de toutes ces petites bêtes , et qui a su rassembler des bénévoles aussi passionnés que lui , même quand certains d' entre eux n' ont même plus de poulailler .
+{
+~COD
+~SUJ:sub
+~AGT
+~COD:sub
+~SUJ
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Heureusement , comme les autres amis de Claude Simon , il adore consacrer son temps à cette très belle **exposition** avicole qui résonne de mille chants de coqs heureux .
+{
+~COD
+~SUJ:sub
+~COI:pron
+~AGT
+=COI
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Une heure et vingt minutes , c' est le temps qu' il aura fallu à **Thierry** Guerry , chauffeur-routier chez Caillaud , l' entreprise en charpente chargée de la pose de la toiture des cours de tennis couverts , pour pénétrer dans l' enceinte du complexe sportif de la commune , avec son semi-remorque , sur lequel étaient chargées quatorze tonnes d' éléments en bois de trente mètres de long , destinés à la couverture du bâtiment en construction sur le stade .
+{
+~COD
+~COI:pron
+~AGT
+~COD:sub
+=COI
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Une heure et vingt minutes , c' est le temps qu' il aura fallu à Thierry Guerry , chauffeur-routier chez Caillaud , l' entreprise en charpente chargée de la pose de la toiture des cours de tennis couverts , pour pénétrer dans l' **enceinte** du complexe sportif de la commune , avec son semi-remorque , sur lequel étaient chargées quatorze tonnes d' éléments en bois de trente mètres de long , destinés à la couverture du bâtiment en construction sur le stade .
+{
+~COD:sub
+~DEP
+=COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Une heure et vingt minutes , c' est le temps qu' il aura fallu à Thierry Guerry , chauffeur-routier chez Caillaud , l' entreprise en charpente chargée de la pose de la toiture des cours de tennis couverts , pour pénétrer dans l' enceinte du complexe sportif de la commune , avec son semi-remorque , sur lequel étaient chargées quatorze tonnes d' éléments en bois de trente mètres de long , destinés à la **couverture** du bâtiment en construction sur le stade .
+{
+~COD
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Parti de **Cholet** ( Maine et Loire ) le chauffeur n' aura mis finalement qu' une journée et demi , avec des pointes de vitesse à 70 km / h ( moins la nuit de repos ) pour couvrir une distance de 600 km .
+{
+~COD
+=COI
+~COI:pron
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Hier en début de soirée , la route reliant Danjoutin à **Belfort** était en partie neutralisée par la police , le temps qu' un dépanneur fasse tomber l' automobile , perchée juste au-dessus d' une fortification appartenant à l' ancienne ceinture de **Belfort** .
+{
+~COD
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Hier en début de soirée , la route reliant Danjoutin à Belfort était en partie neutralisée par la police , le temps qu' un dépanneur fasse tomber l' automobile , perchée juste au-dessus d' une fortification appartenant à l' ancienne **ceinture** de Belfort .
+{
+~SUJ:sub
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Frôlant le début d' une glissière de sécurité , le véhicule a gravi le talus , basculé de l' autre côté , traversé un champ , est entré dans un **secteur** boisé , pour finalement plonger vers le centre Leclerc dans une zone à pic .
+{
+~COD:sub
+=COI
+~MOD:nom
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Frôlant le début d' une glissière de sécurité , le véhicule a gravi le talus , basculé de l' autre côté , traversé un champ , est entré dans un secteur boisé , pour finalement plonger vers le **centre** Leclerc dans une zone à pic .
+{
+~AGT
+~COD:sub
+~SUJ
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+à travers cette balade interplanétaire , le visiteur enrichit ses connaissances et apprend que le premier astronome français répondait au **nom** de Messier surnommé " Le furet des comètes " par Louis XV .
+{
+~SUJ:sub
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le vendredi 25 juin , au ciné 3000 à 20 h 30 , une soirée thématique sera organisée avec projections de films et diaporamas pour découvrir ce moment unique où la lune se place dans la **trajectoire** du soleil .
+{
+~MOD:nom
+~AGT
+~COD:sub
+~SUJ
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Et la société Lorraine d' astronomie et le centre national de recherche scientifique donneront au **public** des conseils de prévention .
+{
+~COD
+~SUJ
+=COI
+~AGT
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Puis , le jour J , dans le cadre de l' opération " ville , vie , vacances " , les jeunes Maxévillois accompagnés des animateurs se rendront à **Mont-Saint-Martin** près de Metz où ils seront dans l' obscurité totale durant 2 mn 30 .
+{
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le Petit Prince de Saint Exupéry est entré à l' **école** primaire Jules-Romains dans le cadre d' un projet **école** et des CATE , en novembre dernier .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Et par le biais de l' activité théâtre , ils se sont intéressés à l' **expression** orale et à la mise en scène avec un intervenant , Julien Georges , maître de théâtre .
+{
+~COD
+~MOD:nom
+~AGT
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Comme de vrais acteurs , ils ont appris à parler fort , à bien articuler , à ne pas tourner le dos au **public** , à s' amuser avec leur rôle .
+{
+~SUJ:sub
+~AGT
+~SUJ
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pièce théâtrale présentée dans le spacieux hall de l' école , aux **copains** , parents , grands-parents .
+{
+~SUJ
+=COI
+~MOD:prép
+~AGT
+}
+
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Dès sa sortie de l' école primaire , elle montait à **Metz** et entrait en apprentissage dans une école de couture , puis revint en Meuse après la Seconde Guerre mondiale .
+{
+~COD
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Dès sa sortie de l' école primaire , elle montait à Metz et entrait en apprentissage dans une école de couture , puis revint en **Meuse** après la Seconde Guerre mondiale .
+{
+~COD
+~COI:pron
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Triste pour les musiciens qui , en majorité , faisaient partie de la **batterie** depuis au moins trente ans .
+{
+~COD
+~SUJ:sub
+~COD:sub
+=COI
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Expression parue dans la revue n° 33 " Verdun la vie " et envoyée à tous les **Verdunois** , ne correspond pas à la réalité , ce que soulignent M. Christian Langlois et M. Patrice Lanini , délégués syndicaux CGT des Rapides de la Meuse .
+{
+~COD:sub
+~COD
+=COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Expression parue dans la revue n° 33 " Verdun la vie " et envoyée à tous les Verdunois , ne correspond pas à la **réalité** , ce que soulignent M. Christian Langlois et M. Patrice Lanini , délégués syndicaux CGT des Rapides de la Meuse .
+{
+~COD
+~COI:pron
+~AGT
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Dimanche en milieu d' après-midi , quelques enfants s' adonnaient à des **glissades** alors que l' eau , cachée , recouvrait encore tout le secteur .
+{
+~COD
+~COI:pron
+~AGT
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il n' en fallait pas plus pour que la commission culture propose cette animation qui se déroulera dans un premier temps au **foyer** communal , en attendant la fin des travaux de la salle d' animation et de loisirs .
+{
+~COD
+=COI
+~COI:pron
+~AGT
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+L' Effort Basket de Mirecourt participait ce dimanche au **tournoi** international de Soleuvre au Luxembourg où étaient présentées des équipes de haut niveau telle Utrecht ( N1 hollandaise ) .
+{
+~DEP
+~COI:pron
+~AGT
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il comparaîtra prochainement devant le tribunal correctionnel de Montbéliard pour y répondre d' une **conduite** en état d' ivresse .
+{
+~COD
+~SUJ:sub
+~COI:pron
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+L' assemblée générale a été l' occasion de discuter de la **gestion** des locaux de l' ancienne cure .
+{
+~SUJ:sub
+~COI:pron
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ces locaux , qui sont la propriété de la commune , sont loués à l' **Apep** pour une somme modique .
+{
+~COD:sub
+~SUJ:sub
+=COI
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour les autres utilisations , se renseigner **auprès** du comité .
+{
+~SUJ:sub
+~MOD:nom
+~AGT
+~SUJ
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La commission de sécurité venant inspecter les locaux , il faudra tenir compte d' éventuelles **mises** en conformité décidées par ladite commission .
+{
+~SUJ:sub
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour finir , le mot du président , Luc Stéfann , qui rappelle la vocation des bénévoles de l' association : être un soutien pour la paroisse , apporter une petite contribution financière aux travaux grâce aux manifestations et aux dons , accomplir de multiples tâches et démarches touchant aux **bâtiment** paroissiaux , contribuer à la convivialité entre les paroissiens .
+{
+~SUJ:sub
+~AGT
+~SUJ
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour finir , le mot du président , Luc Stéfann , qui rappelle la vocation des bénévoles de l' association : être un soutien pour la paroisse , apporter une petite contribution financière aux travaux grâce aux manifestations et aux dons , accomplir de multiples tâches et démarches touchant aux bâtiment paroissiaux , contribuer à la **convivialité** entre les paroissiens .
+{
+~COD
+~SUJ:sub
+~COI:pron
+~AGT
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ce prêt aurait permis aussi à la **société** de lancer sa production de plaques offset en numérique , une technologie qu' elle est parvenue à maîtriser l' an dernier , et qui pouvait la sauver , car elle est très attendue sur le marché .
+{
+~DEP
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un groupe de travail , constitué par le secrétaire d' Etat aux anciens combattants Jacques Floch , s' est réuni une première fois pour analyser les propositions et revendications des associations qui protestent contre le **décret** du 13 juillet 2000 instituant une indemnité spécifique versée , sous certaines conditions , aux orphelins de déportés juifs .
+{
+~COI:pron
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un groupe de travail , constitué par le secrétaire d' Etat aux anciens combattants Jacques Floch , s' est réuni une première fois pour analyser les propositions et revendications des associations qui protestent contre le décret du 13 juillet 2000 instituant une indemnité spécifique versée , sous certaines conditions , aux **orphelins** de déportés juifs .
+{
+~MOD:adv
+~COI:pron
+~SUJ
+~MOD:prép
+=COI
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Cette animation , qui comporte trois tours , dont le prochain aura lieu à Faulx ( date à définir ) et le troisième le 1er mai , à Nomeny , est destinée à montrer une première approche de la compétition à tous ces petits **sportifs** .
+{
+~DEP
+~COI:pron
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+" Près de trente ans après le combat mené par Françoise Giroud , il est paradoxal de devoir tirer la sonnette d' alarme " , confie la députée de Moselle en rendant hommage à **celle** qui fut secrétaire d' Etat à la Condition féminine .
+{
+~COD
+~MOD:nom
+~AGT
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Une jeune fille de 25 ans hébergée chez des **parents** à Courcelles-lès-Montbéliard , était signalée disparue .
+{
+~COD
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un ratissage autour du domicile de sa famille était également entrepris , les gendarmes craignant que la jeune fille n' attente à ses **jours** .
+{
+~SUJ:sub
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Denise Jacquin s' est éteinte mercredi , à l' âge de 73 ans , à l' hôpital , des suites d' une pénible maladie contre **laquelle** elle a lutté courageusement .
+{
+~DEP
+~SUJ
+=COI
+~AGT
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Alors qu' elle est adolescente , sa famille s' installe à l' **Isle-sur-le-Doubs** .
+{
+~SUJ:sub
+~COI:pron
+~SUJ
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Puis , elle décide de rester à la **maison** pour s' occuper de sa fille et de ses deux fils Denis et René .
+{
+~COD
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Puis , elle décide de rester à la maison pour s' occuper de sa **fille** et de ses deux fils Denis et René .
+{
+~COD
+~DEP
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+En parfaite femme d' intérieur , elle a pu , lors de ce repos bien mérité , s' occuper de sa **maison** , de ses fleurs .
+{
+~COD
+~SUJ:sub
+~AGT
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+En parfaite femme d' intérieur , elle a pu , lors de ce repos bien mérité , s' occuper de sa maison , de ses **fleurs** .
+{
+~DEP
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Denise et son époux René , ancien lieutenant des pompiers de l' Isle-sur-le-Doubs , faisaient aussi partie de l' **Union** nationale des combattants .
+{
+~DEP
+~MOD:nom
+~AGT
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pendant 15 ans , elle a été l' assistante efficace de son mari , René s' occupant du **secrétariat** et Denise de la trésorerie de la section l'isloise .
+{
+~COI:pron
+~MOD:nom
+~AGT
+~MOD:prép
+=COI
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Dernièrement , les élèves de l' école maternelle ont assisté à un **spectacle** intitulé " Arturo aux quatre coins du monde " .
+{
+~COD
+~COI:pron
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Arturo décide alors de rentrer chez lui pour raconter à ses **amis** toutes ses aventures .
+{
+~DEP
+~SUJ:sub
+~COI:pron
+=COI
+~MOD:adv
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Au cours du dernier conseil municipal réuni vendredi , Claude Manet , maire , a fait part au conseil des **conclusions** du commissaire enquêteur suite à l' enquête publique qui a eu lieu pour les travaux de la rue du Château .
+{
+~MOD:nom
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La commission d' appel d' offres pour la transformation de l' atelier artisanal des Triboulottes en salle polyvalente s' est réunie récemment pour prendre connaissance des **offres** reçues .
+{
+~DEP
+~SUJ
+=COI
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il appartiendra ensuite au **conseil** de prendre une décision définitive sur la faisabilité du projet , sachant que le lot gros oeuvre devra probablement être déclaré infructueux .
+{
+=COI
+~SUJ
+~AGT
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il fera alors l' objet d' un nouvel **appel** d' offres .
+{
+~COD
+~SUJ:sub
+~MOD:nom
+~AGT
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+à la suite d' une consultation d' entreprises réalisée par l' Amicale des maires , la commune se prononce pour une nouvelle **convention** de balayage des caniveaux et de nettoyage des avaloirs des eaux pluviales sur la voie publique .
+{
+~COD
+~AGT
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+J' étais prêt à partir , malgré mon attachement à l' ASNL et à la ville , car à 32 ans , il s' agissait sans doute de ma dernière **chance** de signer un nouveau contrat " .
+{
+~COI:pron
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Je fais donc confiance au **maximum** de joueurs qui l' ont atteint cette saison .
+{
+~SUJ:sub
+~COI:pron
+~MOD:nom
+~AGT
+~SUJ
+=COI
+}
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Quant à la gendarmerie de Dannemarie , elle a procédé au **constat** d' usage .
+{
+~COD
+~MOD:nom
+~AGT
+=COI
+~MOD:prép
+}
+
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Quelle ne fut pas leur surprise de tomber nez à nez avec les trois individus correspondant précisément à la **description** faite par le jeune Belfortain !
+{
+~DEP
+~AGT
+~COD:sub
+~SUJ
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Tous les trois , âgé de 16 à 17 ans ont été placés en **garde** à vue à la brigade bethoncourtoise avant d' être remis en liberté avec , en poche , une convocation par officier de police judiciaire pour une audience devant le tribunal pour enfants , le 5 octobre prochain .
+{
+=COI
+~AGT
+~COI:pron
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Tous les trois , âgé de 16 à 17 ans ont été placés en garde à vue à la brigade bethoncourtoise avant d' être remis en **liberté** avec , en poche , une convocation par officier de police judiciaire pour une audience devant le tribunal pour enfants , le 5 octobre prochain .
+{
+~COD
+~MOD:nom
+~AGT
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ils devront alors répondre de **violences** commises en réunion n' ayant pas entraîné d' interruption totale de travail .
+{
+~SUJ
+=COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un rite incontournable qui dépend de l' **état** de santé des intéressés .
+{
+~COD
+~COI:pron
+~AGT
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il est à la maison Belot depuis dix ans où il s' adonne à la **belote** avec son copain Pierre Brungard .
+{
+~SUJ:sub
+~COI:pron
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Elle a beaucoup voyagé et surtout changé d' **employeur** .
+{
+~SUJ:sub
+~AGT
+~COD:sub
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Elle avait entre temps donné le jour à trois **enfants** , dont Mimi , présente pour l' occasion , et reste fière d' être grand-mère et arrière-grand-mère .
+{
+~COD
+~AGT
+~SUJ
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+à la maison Belot , elle s' est très vite fait remarquer par sa coquetterie , son envie de participer aux " **Jeux** olympiques inter-établissements " et bien sûr à l' incontournable belote .
+{
+~SUJ:sub
+=COI
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La dose d' Angiox et la durée du traitement dépendent des **motifs** de son utilisation .
+{
+~COD
+~SUJ:sub
+~MOD:nom
+~COD:sub
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour les SCA , la durée de la perfusion dépend de la **manière** dont le SCA doit être traité : elle peut durer jusqu' à 72 heures au maximum chez les patients devant recevoir des médicaments .
+{
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour le traitement des SCA , l' étude principale a porté sur près de 14 000 **patients** et a comparé l' efficacité de Angiox , pris seul ou avec un inhibiteur de la glycoprotéine IIb/IIIa ( inhibiteur de GP , un autre type de médicament contribuant à prévenir la formation de caillots ) , avec le traitement standard en combinaison avec de l' héparine ( un autre anticoagulant ) et un inhibiteur de GP .
+{
+~COD
+~COI:pron
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Angiox s' est avéré aussi efficace que les traitements **auxquels** il a été comparé .
+{
+~COD
+=COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Quel est le risque associé à l' **utilisation** de Angiox ?
+{
+~SUJ:sub
+~COD:sub
+~SUJ
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il convient en outre de ne pas l' utiliser chez les patients ayant eu une hémorragie récente , souffrant d' **hypertension** aiguë ou présentant des troubles graves des reins , ou encore chez les patients présentant une infection cardiaque .
+{
+~SUJ:sub
+~COI:pron
+~MOD:nom
+~AGT
+~SUJ
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le comité a conclu que les bénéfices de Angiox sont supérieurs aux risques qu' il comporte pour le traitement des patients adultes souffrant de **SCA** et devant subir une intervention urgente ou précoce , avec de l' aspirine et du clopidogrel , et comme anticoagulant chez les patients subissant une intervention coronaire percutanée ( ICP ) .
+{
+~COD
+~MOD:adv
+~AGT
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Autres informations relatives à Angiox : La Commission européenne a délivré une autorisation de mise sur le marché valide dans toute l' Union européenne pour Angiox à **The Medicines Company UK Ltd** , le 20 septembre 2004
+{
+~SUJ:sub
+~AGT
+~COD:sub
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Angiox est destiné à la **voie** intraveineuse ( IV ) .
+{
+~COD
+~COI:pron
+~COD:sub
+~SUJ
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Si le patient doit bénéficier d' une **ICP** , un bolus additionnel de 0,5 mg / kg doit être administré et la perfusion augmentée à 1,75 mg / kg / h durant l' intervention .
+{
+~COI:pron
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Pour les patients bénéficiant d' un **pontage** aorto-coronaire avec CEC , la perfusion de bivalirudine devra être maintenue jusqu' à 1 heure avant l' opération , après quoi la perfusion devra être arrêtée et le patient traité avec de l' héparine non fractionnée .
+{
+~SUJ:sub
+~MOD:nom
+~AGT
+=COI
+~MOD:prép
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Chez les patients atteints d' insuffisance rénale modérée ( TFG 30-59 ml / min ) bénéficiant d' une **ICP** ( qu' ils soient traités avec la bivalirudine pour SCA ou non ) la vitesse de perfusion doit être abaissée à 1.4 mg / kg / h .
+{
+~COD
+~COI:pron
+~AGT
+~COD:sub
+=COI
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les patients peuvent être mis sous **Angiox** 30 minutes après l' arrêt de l' héparine non fractionnée , administrée par voie intraveineuse ou 8 heures après l' arrêt d' une héparine de bas poids moléculaire administrée par voie sous-cutanée .
+{
+~COI:pron
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Il convient de surveiller attentivement que les patients ne présentent pas de symptômes et de signes de saignement pendant le traitement , notamment si la bivalirudine est combinée à un autre **anticoagulant** ( voir Section 4.5 ) .
+{
+~COD
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Bien que la plupart des saignements associés à la **bivalirudine** se produisent au site d' accès artériel chez les patients qui subissent une ICP , une hémorragie peut se produire à n' importe quel endroit pendant le traitement .
+{
+~SUJ:sub
+~AGT
+~COD:sub
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Chez les patients sous warfarine traités par bivalirudine , un suivi de l' INR doit être effectué , après l' arrêt du traitement par bivalirudine , afin de s' **assurer** du retour de l' INR aux niveaux observés avant le traitement .
+{
+~COI:pron
+~AGT
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Chez les patients sous warfarine traités par bivalirudine , un suivi de l' INR doit être effectué , après l' arrêt du traitement par bivalirudine , afin de s' assurer du **retour** de l' INR aux niveaux observés avant le traitement .
+{
+~COD
+~AGT
+~COD:sub
+~SUJ
+=COI
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les mesures nécessaires doivent être mises en place pour faire face à cette **éventualité** .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+~COD:sub
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Du fait de leur mécanisme d' action , on peut s' attendre à **ce** que l' utilisation combinée de médicaments anticoagulants ( héparine , warfarine , antithrombotiques ou agents antiplaquettaires ) augmente le risque de saignement .
+{
+~COD
+=COI
+~MOD:nom
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les saignements mineurs ont été définis comme étant tous événements hémorragiques observés qui ne répondaient pas aux **critères** des saignements majeurs .
+{
+~COD
+~AGT
+~MOD:prép
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les saignements majeurs d' ACUITY ont été définis comme étant la survenue de l' un des éléments suivants : hémorragie intracrânienne , hémorragie rétropéritonéale , hémorragie intraoculaire , hémorragie exigeant une intervention radiologique ou chirurgicale pour accéder au **site** , hématome à 5 cm au site de ponction , chute de la concentration en hémoglobine 4 g / dL sans source manifeste de saignement , chute de la concentration en hémoglobine 3 g / dL avec source manifeste de saignement , ré-intervention pour saignement , saignement nécessitant la transfusion de sang ou produit sanguin .
+{
+~COI:pron
+~MOD:nom
+~COD:sub
+~SUJ
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Un saignement majeur a été défini comme étant la survenue de l' un des éléments suivants : hémorragie intracrânienne , hémorragie rétropéritonéale , perte de sang nécessitant la transfusion d' au moins deux unités de sang complet ou d' hématies concentrées , ou saignement se traduisant par une **chute** de l' hémoglobine de plus de 3 g / dl ou une **chute** de l' hémoglobine supérieure à 4 g / dl ( ou 12 % de l' hématocrite ) sans site de saignement identifié .
+{
+~COD
+~DEP
+~COD:sub
+=COI
+~MOD:adv
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Données relatives à la fréquence des sites hémorragiques dans l' étude REPLACE 2 ( bivalirudine comparée à **héparine** + inhibiteur de la GP IIb/IIIa ) .
+{
+~COD
+~COI:pron
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La thrombine joue un rôle central dans le processus thrombotique , scindant le fibrinogène en **monomères** de fibrine et activant le Facteur XIII en Facteur XIIIa , ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+~COD:sub
+~SUJ
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La thrombine joue un rôle central dans le processus thrombotique , scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en **Facteur** XIIIa , ce qui permet à la fibrine de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus .
+{
+~MOD:nom
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La thrombine joue un rôle central dans le processus thrombotique , scindant le fibrinogène en monomères de fibrine et activant le Facteur XIII en Facteur XIIIa , ce qui permet à la **fibrine** de développer un réseau de liaisons croisées covalentes qui stabilise le thrombus .
+{
+~COD
+~SUJ:sub
+~AGT
+~COD:sub
+~SUJ
+=COI
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La liaison de la bivalirudine à la thrombine , et par conséquent son activité , est réversible , dans la mesure où la thrombine clive lentement la liaison Arg3-Pro4 de la bivalirudine , ce qui se traduit par un **rétablissement** de la fonction du site actif de la thrombine .
+{
+~DEP
+~COI:pron
+~AGT
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ainsi , la bivalirudine commence par agir à la manière d' un inhibiteur non compétitif complet de la thrombine , puis , évolue avec le temps pour devenir un inhibiteur compétitif permettant aux **molécules** de thrombine initialement inhibées d' interagir avec d' autres substrats de la coagulation et d' induire une coagulation si nécessaire .
+{
+~MOD:nom
+~SUJ
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Ainsi , la bivalirudine commence par agir à la manière d' un inhibiteur non compétitif complet de la thrombine , puis , évolue avec le temps pour devenir un inhibiteur compétitif permettant aux molécules de thrombine initialement inhibées d' interagir avec d' autres **substrats** de la coagulation et d' induire une coagulation si nécessaire .
+{
+~COD
+~AGT
+~SUJ
+=COI
+~MOD:prép
+}
+
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+ACUITY est une étude prospective , randomisée , en ouvert , destinée à comparer la bivalirudine associée ou non à un **inhibiteur** de la GP IIb/IIIa ( respectivement bras B et C ) et l' enoxaparine ou l' héparine non fractionnée ( HNF ) associée à un inhibiteur de la GP IIb/IIIa ( bras A ) , chez plus de 13 819 patients atteints d' un syndrome coronarien aigu ( SCA ) et considérés à haut risque .
+{
+~DEP
+~COD
+~SUJ
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+ACUITY est une étude prospective , randomisée , en ouvert , destinée à comparer la bivalirudine associée ou non à un inhibiteur de la GP IIb/IIIa ( respectivement bras B et C ) et l' enoxaparine ou l' héparine non fractionnée ( HNF ) associée à un **inhibiteur** de la GP IIb/IIIa ( bras A ) , chez plus de 13 819 patients atteints d' un syndrome coronarien aigu ( SCA ) et considérés à haut risque .
+{
+~MOD:adv
+~SUJ:sub
+=COI
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Après angiographie , les patients sont soit pris en charge médicalement ( 33 % ) soit bénéficient d' une **angioplastie** ( 56 % ) ou d' un pontage aorto-coronaire ( 11 % ) .
+{
+~COI:pron
+~MOD:nom
+~AGT
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les saignements majeurs d' ACUITY ont été définis comme étant la survenue de l' un des éléments suivants : hémorragie intracrânienne , hémorragie rétropéritonéale , hémorragie intraoculaire , hémorragie exigeant une intervention radiologique ou chirurgicale pour accéder au **site** , hématome à 5 cm au site de ponction , chute de la concentration en hémoglobine 4 g / dL sans source manifeste de saignement , chute de la concentration en hémoglobine 3 g / dL avec source manifeste de saignement , nouvelle opération pour saignement , saignement nécessitant la transfusion de sang ou de produit sanguin .
+{
+~AGT
+~COD:sub
+~MOD:prép
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+L' avantage sur la réduction des saignements par rapport au comparateur HNF / enoxaparine associée à un **inhibiteur** GPIIB/IIIA a seulement été observé dans le bras bivalirudine seule .
+{
+~MOD:adv
+=COI
+~MOD:prép
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Le principal métabolite résultant du **clivage** de la liaison Arg3-Pro4 de la séquence N-terminale par la thrombine n' est pas actif en raison de la perte d' affinité pour le site catalytique actif de la thrombine .
+{
+~SUJ:sub
+~COI:pron
+~AGT
+=COI
+~DEP
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Environ 20 % de la bivalirudine sont excrétés sous forme inchangée dans les **urines** .
+{
+~MOD:nom
+~AGT
+~SUJ
+~MOD:prép
+=COI
+~DEP
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les adaptations de la dose dans cette catégorie d' âge doivent être basées sur la **fonction** rénale , voir rubrique 4.2 .
+{
+~COD
+~AGT
+~SUJ
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Les données non cliniques , basées sur des **études** conventionnelles de sécurité , de pharmacologie , de toxicité à doses répétées , de génotoxicité , ou de toxicité pour la reproduction , n' indiquent aucun risque particulier pour l' être humain .
+{
+~SUJ:sub
+=COI
+~AGT
+}
+
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La toxicité chez l' animal lors d' expositions répétées ou continues ( 1 jour à 4 semaines à des niveaux d' exposition allant jusqu' à 10 fois la concentration plasmatique clinique à l' état d' équilibre ) s' est limitée à des **effets** pharmacologiques exagérés .
+{
+~MOD:adv
+~COI:pron
+~AGT
+~COD:sub
+=COI
+~MOD:prép
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+Après une brève exposition comparable à celle qui prévaut lors d' une utilisation clinique , et même après une exposition à des doses bien plus élevées , il n' a pas été observé d' effet indésirable résultant d' un **stress** physiologique prolongé en réponse à un état de coagulation non homéostasique .
+{
+~SUJ:sub
+~COI:pron
+~SUJ
+~MOD:prép
+=COI
+~MOD:adv
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La bivalirudine étant destinée à une **administration** de courte durée , on ne dispose d' aucune donnée concernant son potentiel carcinogène à long terme .
+{
+~COD
+=COI
+~MOD:nom
+~AGT
+}
+
+:: Fonctions ::[markdown]   Donner la fonction de l'élément figurant en gras, dans la phrase:
+La bivalirudine étant destinée à une administration de courte durée , on ne dispose d' aucune **donnée** concernant son potentiel carcinogène à long terme .
+{
+~COI:pron
+~MOD:nom
+~AGT
+~SUJ
+=COI
+~DEP
+}
+
+
