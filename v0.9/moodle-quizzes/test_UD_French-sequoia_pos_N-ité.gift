@@ -1,0 +1,924 @@
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+L'association a changé les décors et avec l'aide de plusieurs bénévoles, établi différents tableaux sur le thème de" Cinq siècles d'**activité** économique de la région d'Ancerville". 
+{
+	~ADJ_Excl/Int
+	~ADP
+	~CCONJ
+	~AUX
+	~ADV_Int
+	~Conj_de_Coord
+	~ADV
+	=NC
+	~ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+C'est le cas de ce brave Joseph Bari, toujours présent au **comité**, vedette de la colombophilie jusqu'en 1962, époque à laquelle il fut obligé de quitter son pigeonnier de Châtenois-les-Forges pour aller habiter un espace réduit à Grand-Charmont. 
+{
+	=NC
+	~INTJ
+	~ADV
+	~Conj_de_Sub
+	~V_Subj
+	~Interj
+	~SYM
+	~PROPN
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **sécurité** dans la phrase:
+La gare routière attend toujours ses illuminations, pas des guirlandes, mais des lampadaires pour que scolaires, usagés et conducteurs se sentent en **sécurité**. 
+{
+	~NUM
+	~PREP
+	~PRO_Obj
+	=NC
+	~Conj_de_Coord
+	~V_Subj
+	~SYM
+	~PRO
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+Le **comité** est inchangé: 
+{
+	~DET
+	~Mot_étranger
+	~Conj_de_Sub
+	~PRO_Int
+	~AUX
+	~V_Subj
+	~CCONJ
+	=NC
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+" Nous avions bon espoir d'obtenir d'elle un prêt-relais pour acheter les matières premières nécessaires au redémarrage de l'**activité**, car dans l'usine, les machines sont arrêtées depuis le 14 janvier dernier" explique le directeur d'EFI Michel Balandier. 
+{
+	~Mot_étranger
+	~PRO_Int
+	~PRO_Obj
+	~PREP_+_DET
+	~V_Part_Prés
+	~V
+	~AUX
+	~Conj_de_Coord
+	=NC
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **parité** dans la phrase:
+Les obligations de **parité** prévues par la loi ont donné des résultats. 
+{
+	=NC
+	~PART
+	~PRO_Rel
+	~V_Subj
+	~PRO
+	~PRO_Int
+	~PRO_Obj
+	~Conj_de_Sub
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **pénalités** dans la phrase:
+Aux législatives de 2002, le scrutin uninominal majoritaire à deux tours ne permettait que des mesures incitatives, à savoir des **pénalités** financières portant sur l'aide publique de l'Etat aux partis politiques. 
+{
+	~PRO_Réfl
+	=NC
+	~PRON
+	~PART
+	~V_Imp
+	~Préfixe
+	~V_Part_Prés
+	~Interj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **parité** dans la phrase:
+Le même phénomène se retrouverait aux régionales si chaque liste est subdivisée en sections départementales avec une obligation de **parité** par tranche de six. 
+{
+	~PRON
+	~PUNCT
+	~PRO
+	~PRO_Obj
+	~V_Part_Passé
+	~ADV
+	~SYM
+	=NC
+	~Conj_de_Sub
+	~ADP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **électricité** dans la phrase:
+La construction de deux parcelles en-dessous de la place du bas du village nécessite l'implantation des réseaux nécessaires pour l'eau, l'assainissement, l'**électricité** et le téléphone. 
+{
+	~NPr
+	~ADJ
+	~PRON
+	~VERB
+	~PRO_Int
+	~ADJ_Excl/Int
+	~SCONJ
+	~V_Inf
+	~PRO_Réfl
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+Il explique comment le **comité** des médicaments à usage humain (CHMP) a évalué les études réalisées afin d'aboutir à ses recommandations relatives aux conditions d'utilisation du médicament. 
+{
+	=NC
+	~PUNCT
+	~V_Part_Passé
+	~ADP
+	~V_Imp
+	~V
+	~DET_Int
+	~PRO_Obj
+	~DET
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **sécurité** dans la phrase:
+La **sécurité** et l'efficacité d'un bolus unique d'Angiox n'ont pas été évaluées. 
+{
+	=NC
+	~Préfixe
+	~V_Imp
+	~DET
+	~Mot_étranger
+	~PRO_Suj
+	~PREP
+	~V_Part_Prés
+	~Interj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **efficacité** dans la phrase:
+La sécurité et l'**efficacité** d'un bolus unique d'Angiox n'ont pas été évaluées. 
+{
+	=NC
+	~PREP_+_PRO
+	~PRON
+	~ADP
+	~PREP
+	~V_Subj
+	~PRO_Suj
+	~ADV
+	~Préfixe
+	~PRO_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+Le **comité** des médicaments à usage humain( CHMP) a estimé que les bénéfices d'Aclasta sont supérieurs aux risques qu'il comporte dans le traitement de l'ostéoporose chez la femme post-ménopausique et chez les hommes, présentant un risque accru de fracture, y compris chez les patients s'étant récemment fracturé la hanche à la suite d'un faible traumatisme, ainsi que dans le traitement de la maladie osseuse de Paget. 
+{
+	~Conj_de_Coord
+	~PREP_+_PRO
+	~DET_Int
+	~PRO_Rel
+	~ADP
+	~V_Subj
+	~PRON
+	=NC
+	~PART
+	~PROPN
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+Le **comité** a recommandé l'octroi d'une autorisation de mise sur le marché pour Aclasta. 
+{
+	~ADV
+	~PRO_Rel
+	~PREP_+_PRO
+	=NC
+	~ADP
+	~ADV_Int
+	~PRO_Suj
+	~INTJ
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **biodisponibilité** dans la phrase:
+Aucun ajustement de la dose n'est nécessaire puisque la **biodisponibilité**, la distribution et l'élimination ont été similaires chez les patients âgés et chez les patients plus jeunes. 
+{
+	~SYM
+	~NUM
+	~V_Part_Passé
+	~V_Subj
+	~PRON
+	~PREP_+_DET
+	~ADJ
+	=NC
+	~PREP
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **toxicité** dans la phrase:
+Des études effectuées chez l'animal avec l'acide zolédronique ont mis en évidence une **toxicité** sur la reproduction, dont des malformations( voir rubrique 5.3). 
+{
+	~PRO_Suj
+	~ADV_Int
+	~DET_Int
+	~ADJ
+	~SYM
+	~PUNCT
+	~PRON
+	~VERB
+	~PRO_Réfl
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Efficacité** dans la phrase:
+**Efficacité** clinique dans le traitement de l'ostéoporose post-ménopausique( PFT) 
+{
+	~PRO_Obj
+	~ADP
+	~PRO_Rel
+	~PRO_Int
+	~NPr
+	~V_Inf
+	~SYM
+	=NC
+	~VERB
+	~V_Part_Prés
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **majorité** dans la phrase:
+La **majorité** des effets indésirables, tels que fièvre et frissons, douleurs dans les muscles ou articulations et maux de tête, surviennent lors des trois premiers jours suivant l'administration d'Aclasta. 
+{
+	~V
+	~PRO_Réfl
+	=NC
+	~VERB
+	~V_Subj
+	~PROPN
+	~Préfixe
+	~V_Part_Passé
+	~PRO_Rel
+	~PREP_+_DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Traités** dans la phrase:
+Madame la Présidente, j'interviendrai contre, en effet, pour une raison de principe qui me paraît tout à fait essentielle et qui a trait au respect des **Traités**, et notamment de l'article 7 du traité d'Amsterdam. 
+{
+	=NC
+	~PRO_Réfl
+	~DET_Int
+	~PRO_Obj
+	~AUX
+	~PRO_Suj
+	~PROPN
+	~ADJ
+	~DET
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traité** dans la phrase:
+Madame la Présidente, j'interviendrai contre, en effet, pour une raison de principe qui me paraît tout à fait essentielle et qui a trait au respect des Traités, et notamment de l'article 7 du **traité** d'Amsterdam. 
+{
+	~PUNCT
+	=NC
+	~CCONJ
+	~Préfixe
+	~DET_Int
+	~Mot_étranger
+	~PREP
+	~AUX
+	~ADJ_Excl/Int
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **sécurité** dans la phrase:
+Le véritable avantage de la culture est le fait de pouvoir transmettre de l'art et de l'information, en toute **sécurité** et sans peine, directement de l'artiste à l'utilisateur, au consommateur. 
+{
+	~ADJ_Excl/Int
+	~PRO_Rel
+	~PRO_Obj
+	~PREP_+_PRO
+	~PREP
+	=NC
+	~SYM
+	~ADJ
+	~V_Part_Passé
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **inégalité** dans la phrase:
+Je me réjouis de la concentration proposée sur la promotion de nouveaux moyens de lutte contre la discrimination et toute autre forme d'**inégalité** au sein du marché de l'emploi. 
+{
+	=NC
+	~NUM
+	~VERB
+	~V_Subj
+	~Conj_de_Sub
+	~PUNCT
+	~NPr
+	~SCONJ
+	~V_Imp
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **flexibilité** dans la phrase:
+Il faut de la **flexibilité** et la charge administrative doit être réduite, c'est là une priorité. 
+{
+	~PROPN
+	~PRO_Int
+	~NPr
+	~V_Part_Passé
+	~Conj_de_Coord
+	~Conj_de_Sub
+	=NC
+	~SCONJ
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **priorité** dans la phrase:
+Il faut de la flexibilité et la charge administrative doit être réduite, c'est là une **priorité**. 
+{
+	~V_Subj
+	~Interj
+	~PRO_Réfl
+	~V_Part_Prés
+	~AUX
+	~ADP
+	~V
+	~V_Inf
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **réalité** dans la phrase:
+M. Seselj, le nationaliste qui est en **réalité** un criminel de guerre, réprime le peu de liberté de la presse qui restait en Serbie. 
+{
+	~V_Subj
+	=NC
+	~ADP
+	~ADV
+	~ADJ
+	~PRO_Int
+	~V_Imp
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+Mais, pour ce faire, il faut tenir compte du fait qu'il existe une corrélation entre le rendement issu de l'**activité** de pêche et l'augmentation de l'effort de pêche. 
+{
+	~Conj_de_Sub
+	~PREP_+_DET
+	~PUNCT
+	=NC
+	~ADV
+	~PREP_+_PRO
+	~PART
+	~ADP
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+Il faut donc prendre des mesures dans le cadre de la politique commune de pêche et affecter les ressources financières adéquates afin d'assurer le rendement qui s'appuie exclusivement sur l'**activité** de pêche, plus précisément à des périodes de paralysie ou de réduction de l'activité de pêche. 
+{
+	=NC
+	~ADJ
+	~VERB
+	~PRO_Obj
+	~Mot_étranger
+	~CCONJ
+	~PREP_+_PRO
+	~PRO
+	~SCONJ
+	~PART
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+Il faut donc prendre des mesures dans le cadre de la politique commune de pêche et affecter les ressources financières adéquates afin d'assurer le rendement qui s'appuie exclusivement sur l'activité de pêche, plus précisément à des périodes de paralysie ou de réduction de l'**activité** de pêche. 
+{
+	~V_Inf
+	~ADV
+	~PREP_+_PRO
+	~ADJ_Excl/Int
+	~ADV_Int
+	~Préfixe
+	~PREP
+	~V_Part_Prés
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **qualité** dans la phrase:
+Je voudrais profiter de ce moment pour rappeler la haute **qualité** et la constance des relations entre le Parlement européen et le Parlement belge qui, grâce à l'engagement majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon voisinage qui sont un devoir commun largement partagé. 
+{
+	~ADJ
+	~V_Inf
+	=NC
+	~Conj_de_Sub
+	~DET_Int
+	~ADV
+	~PREP
+	~AUX
+	~V_Part_Prés
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **sécurité** dans la phrase:
+Pour répondre à cette préoccupation- non fondée, selon les experts-, la France a proposé au Conseil de **sécurité** que la levée de l'embargo soit accompagnée de la poursuite des inspections de désarmement et d'un contrôle des importations irakiennes. 
+{
+	~Interj
+	~PRO_Suj
+	~V_Subj
+	~ADP
+	~NUM
+	~Conj_de_Sub
+	=NC
+	~PREP
+	~INTJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **criminalité** dans la phrase:
+en effet, avec la **criminalité** croissante, transnationale qui s'exerce au détriment du budget UE, la coopération entre les États membres n'est pas suffisante au niveau policier et judiciaire. 
+{
+	~PROPN
+	=NC
+	~AUX
+	~PREP
+	~Préfixe
+	~V_Subj
+	~PRO_Rel
+	~NUM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **responsabilité** dans la phrase:
+J'ai moi-même examiné à plusieurs reprises la question de la cohérence entre la proposition de résolution, telle qu'elle nous est présentée maintenant comme compromis, et l'exposé des motifs, qui constitue la position du rapporteur et relève de sa **responsabilité**. 
+{
+	~VERB
+	~PREP_+_PRO
+	~PRO_Réfl
+	~DET_Int
+	~PREP
+	~V_Imp
+	~V_Inf
+	~PROPN
+	~PRO_Suj
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activités** dans la phrase:
+En effet, en raison de ses caractéristiques, celle-ci compte parmi les **activités** principales de l'Union et, si elle est menée au niveau des États membres, elle ne pourra obtenir de résultats satisfaisants. 
+{
+	~V
+	~CCONJ
+	~Préfixe
+	~PREP_+_DET
+	~Interj
+	=NC
+	~PRO_Réfl
+	~ADP
+	~PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **retraités** dans la phrase:
+En conclusion, je voudrais rappeler que, d'une manière ou d'une autre, les **retraités** doivent aussi être concernés par cette recherche spatiale. 
+{
+	~INTJ
+	~SCONJ
+	~PRO_Int
+	=NC
+	~V_Imp
+	~V_Inf
+	~PRO
+	~ADJ
+	~V_Part_Prés
+	~Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **identité** dans la phrase:
+La machination a fonctionné grâce à l'intervention de Lauri Fitz-Pegado, qui a convaincu les députés que l'**identité** n'était pas révélée pour protéger la famille de la jeune femme[ 2]. 
+{
+	~PRO_Rel
+	~Interj
+	~V
+	~PREP_+_DET
+	=NC
+	~ADV_Int
+	~V_Imp
+	~PRON
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **autorités** dans la phrase:
+Il fallait à la fois convaincre le gouvernement taïwanais d'" acheter français" et amadouer les **autorités** chinoises, opposées à toute livraison de matériel sensible à l'île nationaliste. 
+{
+	~PREP_+_PRO
+	~Conj_de_Coord
+	~Mot_étranger
+	~PART
+	~PRO
+	~CCONJ
+	~ADV_Int
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **immunité** dans la phrase:
+- 25 avril 2001: le juge Éric Halphen se déclare incompétent pour instruire le cas du président Chirac, en raison de son **immunité** présidentielle. 
+{
+	~ADJ
+	~V
+	=NC
+	~SYM
+	~ADJ_Excl/Int
+	~V_Inf
+	~CCONJ
+	~ADV_Int
+	~PUNCT
+	~PART
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **pénalité** dans la phrase:
+Seul le Milan AC n'a pas bénéficié dans cette décision d'une réduction de sa **pénalité**( 8 points). 
+{
+	~ADJ_Excl/Int
+	~PROPN
+	~PRO_Réfl
+	~V_Subj
+	~V_Part_Prés
+	~ADV
+	=NC
+	~V_Part_Passé
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **électricité** dans la phrase:
+Les longs tubes linéaires à fluorescence représentent 53 % de la consommation d'**électricité** de l'UE à des fins d'éclairage. 
+{
+	~INTJ
+	~V
+	~DET
+	~Interj
+	~Mot_étranger
+	~PROPN
+	=NC
+	~Conj_de_Coord
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traité** dans la phrase:
+Dans le **traité** de l'OMPI, on n'a pas consciemment pris position sur les copies temporaires. 
+{
+	~PRO_Int
+	~PRO_Suj
+	=NC
+	~PRO_Obj
+	~AUX
+	~Préfixe
+	~NPr
+	~ADV
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **opportunités** dans la phrase:
+La commission de l'emploi et des affaires sociales a adopté plusieurs des amendements que j'avais présentés concernant, par exemple, l'accent sur l'accès aux capitaux d'amorçage, la manière d'exploiter les nouvelles **opportunités** commerciales dans les villes et les zones rurales, et la critique selon laquelle la participation des entreprises était insuffisante au cours des initiatives précédentes. 
+{
+	~PRO_Rel
+	~PUNCT
+	=NC
+	~PRO_Suj
+	~NPr
+	~SCONJ
+	~DET
+	~ADP
+	~V_Part_Passé
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **flexibilité** dans la phrase:
+Il faut aussi de la **flexibilité** pour les pays qui disposent de petits budgets. 
+{
+	~AUX
+	~PRON
+	~CCONJ
+	~PRO_Rel
+	~V_Part_Prés
+	~V
+	=NC
+	~DET
+	~PART
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **priorité** dans la phrase:
+Nous croyons que le droit au développement constitue une **priorité** mondiale et une condition essentielle pour que la politique en matière de droits de l'homme dans ces pays soit réellement praticable. 
+{
+	~PRO_Int
+	~V_Inf
+	~Préfixe
+	~V
+	~PREP
+	~NUM
+	=NC
+	~SCONJ
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **sécurité** dans la phrase:
+Il y a un problème général de **sécurité**, dont je sais que le Haut Représentant s'occupe comme il le faut. 
+{
+	~Interj
+	~NUM
+	~PRO
+	~ADV_Int
+	~NPr
+	~ADJ
+	~SYM
+	=NC
+	~V_Imp
+	~PRO_Suj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traité** dans la phrase:
+L'article 105, paragraphe 6 du **traité**, stipule que le Conseil peut confier à la B.C.E. des missions spécifiques ayant trait aux politiques en matière de contrôle prudentiel des établissements de crédit et d'autres établissements financiers, à l'exception des entreprises d'assurances. 
+{
+	~NUM
+	~PREP
+	~SCONJ
+	~PRO_Rel
+	~PRO
+	~PRO_Obj
+	~PRO_Réfl
+	~PREP_+_DET
+	~NPr
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **proximité** dans la phrase:
+La proposition de résolution, qui insiste, entre autres, pour que le niveau des nuisances acoustiques à **proximité** des divers aéroports soit divulgué, constitue un pas en avant dans la bonne direction. 
+{
+	~ADJ
+	~ADV
+	~PROPN
+	~V_Imp
+	~NPr
+	~ADP
+	~PRO_Rel
+	~V
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **stabilité** dans la phrase:
+La **stabilité** physicochimique de la solution a été démontrée pendant 24 heures à 25 °C. 
+{
+	~PUNCT
+	~NUM
+	~PREP
+	~DET
+	~SYM
+	~VERB
+	~PRO_Int
+	~PRO
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **nécessité** dans la phrase:
+L'utilisation d'Angiox n'est recommandée en cas de grossesse qu'en cas de **nécessité** absolue. 
+{
+	~PREP
+	~Mot_étranger
+	~CCONJ
+	~PRO_Rel
+	=NC
+	~V
+	~V_Inf
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **unités** dans la phrase:
+En outre, les patients souffrant de la maladie de Paget doivent prendre au moins 500 mg de calcium deux fois par jour pendant au moins 10 jours après le traitement et les patients qui ont subi une fracture de la hanche doivent recevoir une large dose de vitamine D( 50 000 à 125 000 **unités** internationales) par voie orale ou par injection intramusculaire avant leur première perfusion. 
+{
+	~INTJ
+	~PUNCT
+	~DET
+	~ADV_Int
+	~PRO_Réfl
+	~PRO_Obj
+	=NC
+	~V_Imp
+	~PREP
+	~PRO_Rel
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Hypersensibilité** dans la phrase:
+**Hypersensibilité** à la substance active ou à l'un des excipients ou à d'autres bisphosphonates. 
+{
+	~ADV_Int
+	~DET_Int
+	~PUNCT
+	~Conj_de_Coord
+	~INTJ
+	~PRO_Rel
+	=NC
+	~SYM
+	~PREP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **majorité** dans la phrase:
+La **majorité** des cas rapportés ont été associés à des interventions dentaires telles qu'une extraction dentaire. 
+{
+	~SCONJ
+	~PUNCT
+	~PREP_+_DET
+	~NPr
+	~PRO_Réfl
+	~Mot_étranger
+	~ADP
+	~V_Part_Passé
+	=NC
+	~Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **majorité** dans la phrase:
+La **majorité** de ces patients ont reçu une dose de 4 mg toutes les 3 à 4 semaines, mais une anomalie de la fonction rénale a également été observée chez les patients ayant reçu une seule administration. 
+{
+	~VERB
+	~PART
+	~Préfixe
+	=NC
+	~PREP_+_PRO
+	~PRO_Int
+	~PRO_Suj
+	~Conj_de_Sub
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **majorité** dans la phrase:
+Dans l'étude RFT, la **majorité** des patients a reçu une dose de charge en vitamine D avant l'administration d'Aclasta bien que le taux de vitamine D n'ait pas été mesuré de façon systématique( voir rubrique 4.2). 
+{
+	~V_Part_Passé
+	~PRO_Obj
+	=NC
+	~ADJ
+	~PRO_Rel
+	~DET
+	~PART
+	~ADJ_Excl/Int
+	~V_Subj
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **réalité** dans la phrase:
+Les charniers de Timisoara est une affaire médiatique, aboutissant à une massive désinformation du public sur la **réalité** des évènements survenus en Roumanie. 
+{
+	~V
+	~PRO_Réfl
+	=NC
+	~ADP
+	~PART
+	~PREP_+_DET
+	~PRO_Rel
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **réalité** dans la phrase:
+Les cadavres, dont les images avaient fait le tour du monde, avaient en **réalité** été sortis de la morgue d'un hôpital local; 
+{
+	~PRO
+	~PREP_+_PRO
+	=NC
+	~V
+	~PART
+	~PREP
+	~Conj_de_Coord
+	~VERB
+	~PREP_+_DET
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **invités** dans la phrase:
+Selon le témoignage de F.L. Copperman[ 2], ancien consul honoraire britannique à Bangui en 1973 et administrateur national du diamant( CND), la valeur des diamants que Bokassa dispensait à ses **invités** de marque n'excédait jamais 10 000 US $. 
+{
+	~Préfixe
+	~ADJ_Excl/Int
+	=NC
+	~V_Imp
+	~PREP
+	~PRON
+	~V_Subj
+	~NUM
+	~PROPN
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **réalité** dans la phrase:
+En effet, Alfred Sirven, son officier traitant chez Elf Thomson CSF a contesté la **réalité** de l'intervention du réseau Elf et a porté plainte pour tentative d'escroquerie. 
+{
+	~V_Subj
+	~Préfixe
+	~INTJ
+	~CCONJ
+	~PRO_Suj
+	~ADV_Int
+	=NC
+	~Conj_de_Coord
+	~DET
+	~PRON
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activités** dans la phrase:
+Dans son ordonnance de renvoi pour le procès de 49 prévenus qui s'est ouvert en janvier 2006, le juge d'instruction Armand Riberolles, successeur du juge Éric Halphen, écrit que" l'instruction n'est pas parvenue à établir formellement l'implication personnelle de responsables au sein de l'appareil politique du RPR", tout en relevant qu'" un grand nombre de témoignages, corroborés par divers éléments factuels, concourent à établir que Jean-Claude Méry avait reçu mission d'assurer le financement des **activités** politiques de ce parti en collectant des fonds, notamment auprès des entreprises fournisseurs de l'OPAC."( cité par Le Monde du 25/01/06). 
+{
+	=NC
+	~NUM
+	~V_Part_Prés
+	~SCONJ
+	~NPr
+	~V_Part_Passé
+	~V
+	~PUNCT
+	~PREP_+_PRO
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comité** dans la phrase:
+Elle attire l'attention de la justice sur de fausses facturations mêlant la société SAR, dirigée par Francis Poullain, à Jean-Claude Méry, membre du **comité** exécutif du RPR, qui exerçait une activité de consultant auprès des entreprises du bâtiment. 
+{
+	~V_Part_Passé
+	~NPr
+	~Mot_étranger
+	~V_Subj
+	~PRO_Suj
+	=NC
+	~PART
+	~PRO
+	~PRO_Rel
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **activité** dans la phrase:
+Elle attire l'attention de la justice sur de fausses facturations mêlant la société SAR, dirigée par Francis Poullain, à Jean-Claude Méry, membre du comité exécutif du RPR, qui exerçait une **activité** de consultant auprès des entreprises du bâtiment. 
+{
+	~ADV
+	~AUX
+	=NC
+	~PROPN
+	~VERB
+	~PREP_+_DET
+	~NPr
+	~DET_Int
+	~V_Part_Prés
+	~V_Inf
+}
+
+

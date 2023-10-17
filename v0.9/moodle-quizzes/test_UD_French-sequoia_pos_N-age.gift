@@ -1,0 +1,448 @@
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **partage** dans la phrase:
+" Ce ne sera pas un cours magistral, mais plutôt un **partage** de connaissances", souligne Dominique Richard, responsable des animations dans le village. 
+{
+	~ADP
+	~ADJ_Excl/Int
+	~ADV
+	~ADV_Int
+	~ADJ
+	~Conj_de_Coord
+	~AUX
+	~CCONJ
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **village** dans la phrase:
+" Ce ne sera pas un cours magistral, mais plutôt un partage de connaissances", souligne Dominique Richard, responsable des animations dans le **village**. 
+{
+	~ADJ_Excl/Int
+	~SYM
+	~V_Inf
+	~PRO_Suj
+	=NC
+	~CCONJ
+	~V_Part_Prés
+	~NUM
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **redémarrage** dans la phrase:
+" Nous avions bon espoir d'obtenir d'elle un prêt-relais pour acheter les matières premières nécessaires au **redémarrage** de l'activité, car dans l'usine, les machines sont arrêtées depuis le 14 janvier dernier" explique le directeur d'EFI Michel Balandier. 
+{
+	~Préfixe
+	~ADV_Int
+	~DET
+	~V_Imp
+	~VERB
+	~PREP_+_DET
+	~PRON
+	~NUM
+	=NC
+	~ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **témoignages** dans la phrase:
+M. Rivasseau a réaffirmé l'" exigence absolue du respect des droits de l'Homme" pour Paris alors que des **témoignages** de réfugiés font état d'exactions, viols, et pillages par des éléments semble-t-il libériens. 
+{
+	~Préfixe
+	~PRO_Réfl
+	~V_Part_Prés
+	~PRO
+	~V_Part_Passé
+	=NC
+	~ADV
+	~ADP
+	~SYM
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **pillages** dans la phrase:
+M. Rivasseau a réaffirmé l'" exigence absolue du respect des droits de l'Homme" pour Paris alors que des témoignages de réfugiés font état d'exactions, viols, et **pillages** par des éléments semble-t-il libériens. 
+{
+	~V_Imp
+	~DET
+	~ADV_Int
+	~PART
+	=NC
+	~PREP
+	~CCONJ
+	~SCONJ
+	~PRON
+	~PUNCT
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **jardinage** dans la phrase:
+Cette association de jardiniers amateurs créée en 2000 à l'initiative de J.-P. Bruneau, passionné de **jardinage** et correspondant local des Jardiniers de France, comptait 17 adhérents en 2002. 
+{
+	~PRON
+	~PREP_+_DET
+	~Mot_étranger
+	=NC
+	~PRO_Réfl
+	~V_Imp
+	~SCONJ
+	~NC
+	~PRO_Obj
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **passage** dans la phrase:
+D'ores et déjà, il faut envisager la phase de négociation avec les riverains concernant la procédure, qui peut prendre d'ailleurs des formes diverses, pour l'acquisition des emprises nécessaires au **passage** des réseaux d'assainissement. 
+{
+	~ADV
+	~PRO_Obj
+	~NUM
+	~ADP
+	~V_Inf
+	=NC
+	~PREP
+	~SCONJ
+	~PRON
+	~Interj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **balayage** dans la phrase:
+Quant au **balayage**, il est inutile au moment des vendanges et en période hivernale. 
+{
+	~CCONJ
+	~PREP_+_DET
+	~PART
+	~PRON
+	~PREP_+_PRO
+	~Préfixe
+	~ADV_Int
+	~V_Part_Prés
+	=NC
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **village** dans la phrase:
+La construction de deux parcelles en-dessous de la place du bas du **village** nécessite l'implantation des réseaux nécessaires pour l'eau, l'assainissement, l'électricité et le téléphone. 
+{
+	~PREP_+_PRO
+	~PRON
+	~PRO_Obj
+	~V_Imp
+	~Interj
+	~PART
+	=NC
+	~SCONJ
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **usage** dans la phrase:
+Il explique comment le comité des médicaments à **usage** humain( CHMP) a évalué les études réalisées afin d'aboutir à ses recommandations relatives aux conditions d'utilisation du médicament. 
+{
+	~PROPN
+	~PRO_Int
+	~PRO_Suj
+	~INTJ
+	~V_Imp
+	=NC
+	~Mot_étranger
+	~NPr
+	~PREP_+_DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **usage** dans la phrase:
+Lire la notice avant **usage**. 
+{
+	~V_Imp
+	~ADJ_Excl/Int
+	~PREP_+_DET
+	~Conj_de_Coord
+	~PRO_Suj
+	~DET
+	~PART
+	~PREP_+_PRO
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **usage** dans la phrase:
+Le comité des médicaments à **usage** humain( CHMP) a estimé que les bénéfices d'Aclasta sont supérieurs aux risques qu'il comporte dans le traitement de l'ostéoporose chez la femme post-ménopausique et chez les hommes, présentant un risque accru de fracture, y compris chez les patients s'étant récemment fracturé la hanche à la suite d'un faible traumatisme, ainsi que dans le traitement de la maladie osseuse de Paget. 
+{
+	~DET
+	~INTJ
+	~V
+	~DET_Int
+	~PRO_Réfl
+	~CCONJ
+	~Interj
+	~PROPN
+	~SCONJ
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **avantage** dans la phrase:
+Le véritable **avantage** de la culture est le fait de pouvoir transmettre de l'art et de l'information, en toute sécurité et sans peine, directement de l'artiste à l'utilisateur, au consommateur. 
+{
+	~PUNCT
+	~SCONJ
+	~Mot_étranger
+	~PREP_+_PRO
+	~PROPN
+	=NC
+	~ADV_Int
+	~NUM
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **voisinage** dans la phrase:
+Je voudrais profiter de ce moment pour rappeler la haute qualité et la constance des relations entre le Parlement européen et le Parlement belge qui, grâce à l'engagement majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon **voisinage** qui sont un devoir commun largement partagé. 
+{
+	~V_Part_Prés
+	~NUM
+	=NC
+	~NPr
+	~SYM
+	~PROPN
+	~V_Imp
+	~DET
+	~INTJ
+	~SCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **voyage** dans la phrase:
+La note ajoutait que," au cours du **voyage** d'octobre 1990 à Pékin, une réponse positive avait été obtenue des responsables chinois rencontrés dans le contexte difficile d'après Tiananmen". 
+{
+	~SCONJ
+	~NPr
+	~PREP_+_PRO
+	~V_Imp
+	~V_Part_Prés
+	~DET_Int
+	~PRON
+	~INTJ
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **chauffage** dans la phrase:
+Parmi ces entreprises figurent Tecni, filiale de Vivendi- Générale des Eaux, la Cofreth, entreprise de **chauffage**, la SAR, entreprise de Travaux publics, la Somatem, entreprise d'ascenseurs, et d'autres... 
+{
+	=NC
+	~NUM
+	~PRO_Suj
+	~SYM
+	~PRON
+	~PART
+	~V_Imp
+	~Interj
+	~PUNCT
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **voyages** dans la phrase:
+L'un des volets de ce dossier concerne les **voyages** payés en espèces par Jacques Chirac( Affaire des billets d'avion de Jacques Chirac). 
+{
+	~V_Imp
+	~AUX
+	~Interj
+	~PREP
+	~ADP
+	=NC
+	~PRO_Rel
+	~PREP_+_DET
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **éclairage** dans la phrase:
+Les longs tubes linéaires à fluorescence représentent 53 % de la consommation d'électricité de l'UE à des fins d'**éclairage**. 
+{
+	~INTJ
+	~SYM
+	~PRO_Int
+	~VERB
+	~ADP
+	=NC
+	~PREP
+	~NUM
+	~ADJ_Excl/Int
+	~V
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **amorçage** dans la phrase:
+La commission de l'emploi et des affaires sociales a adopté plusieurs des amendements que j'avais présentés concernant, par exemple, l'accent sur l'accès aux capitaux d'**amorçage**, la manière d'exploiter les nouvelles opportunités commerciales dans les villes et les zones rurales, et la critique selon laquelle la participation des entreprises était insuffisante au cours des initiatives précédentes. 
+{
+	~PROPN
+	~NC
+	~ADP
+	~PUNCT
+	~Interj
+	~DET_Int
+	=NC
+	~ADV
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **espionnage** dans la phrase:
+Il est fort probable, vu qu'ils sont accusés d'**espionnage** en faveur des États-Unis et d'Israël- lesquels ont par ailleurs démenti tout lien avec ces personnes- qu'ils soient condamnés à la peine capitale. 
+{
+	=NC
+	~NC
+	~V
+	~NUM
+	~SCONJ
+	~ADJ
+	~INTJ
+	~PROPN
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **emballage** dans la phrase:
+Nature et contenu de l'**emballage** extérieur 
+{
+	~NPr
+	~PREP
+	~PART
+	~CCONJ
+	~ADP
+	~INTJ
+	~PROPN
+	=NC
+	~PRO_Int
+	~PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **usage** dans la phrase:
+Selon la ligne directrice CHMP sur les Systèmes de Gestion des risques pour les médicaments à **usage** humain, le PGR mis à jour devra être soumis en même temps que le PSUR. 
+{
+	~CCONJ
+	~PROPN
+	~ADV_Int
+	~Interj
+	~SCONJ
+	~PRO
+	=NC
+	~V_Subj
+	~PREP_+_PRO
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **images** dans la phrase:
+Les cadavres, dont les **images** avaient fait le tour du monde, avaient en réalité été sortis de la morgue d'un hôpital local; 
+{
+	~DET_Int
+	~PRO_Obj
+	=NC
+	~SCONJ
+	~V
+	~NPr
+	~V_Part_Prés
+	~Mot_étranger
+	~V_Inf
+	~SYM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **témoignage** dans la phrase:
+En fait, ce **témoignage** était entièrement faux. 
+{
+	~PRO_Réfl
+	~PREP_+_DET
+	~ADP
+	~PRO_Rel
+	=NC
+	~Préfixe
+	~Mot_étranger
+	~NC
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **témoignage** dans la phrase:
+Selon le **témoignage** de F.L. Copperman[ 2], ancien consul honoraire britannique à Bangui en 1973 et administrateur national du diamant( CND), la valeur des diamants que Bokassa dispensait à ses invités de marque n'excédait jamais 10 000 US $. 
+{
+	~PROPN
+	~ADV
+	~V_Inf
+	~Conj_de_Coord
+	=NC
+	~PREP_+_DET
+	~PRO_Int
+	~PRON
+	~ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **dommages** dans la phrase:
+Il contestera son appartenance supposée à l'extrême droite affirmée par VGE dans son livre et le fera condamner à un franc de **dommages** et intérêts pour diffamation en 1991. 
+{
+	~PART
+	~PREP_+_PRO
+	~DET
+	~Interj
+	~NPr
+	~PRO
+	~ADV_Int
+	~DET_Int
+	~NUM
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **étage** dans la phrase:
+Thierry Imbot, fils de l'ancien directeur de la DGSE René Imbot, est décédé en octobre 2000 à Paris en chutant du quatrième **étage** de son appartement. 
+{
+	~PRO_Obj
+	~PROPN
+	~Conj_de_Coord
+	=NC
+	~Conj_de_Sub
+	~PREP_+_PRO
+	~ADV
+	~NPr
+	~VERB
+	~AUX
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **étage** dans la phrase:
+Habitant au deuxième **étage**, il était monté au cinquième par l'escalier de service, a ouvert une fenêtre pour se jeter dans le vide. 
+{
+	~ADV_Int
+	~V_Imp
+	~PRO_Obj
+	~PREP
+	~Interj
+	=NC
+	~PREP_+_DET
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **témoignages** dans la phrase:
+Dans son ordonnance de renvoi pour le procès de 49 prévenus qui s'est ouvert en janvier 2006, le juge d'instruction Armand Riberolles, successeur du juge Éric Halphen, écrit que" l'instruction n'est pas parvenue à établir formellement l'implication personnelle de responsables au sein de l'appareil politique du RPR", tout en relevant qu'" un grand nombre de **témoignages**, corroborés par divers éléments factuels, concourent à établir que Jean-Claude Méry avait reçu mission d'assurer le financement des activités politiques de ce parti en collectant des fonds, notamment auprès des entreprises fournisseurs de l'OPAC."( cité par Le Monde du 25/01/06). 
+{
+	~Conj_de_Sub
+	~PART
+	~PRON
+	~DET_Int
+	~V_Part_Passé
+	=NC
+	~ADV
+	~PRO_Suj
+	~VERB
+}
+
+

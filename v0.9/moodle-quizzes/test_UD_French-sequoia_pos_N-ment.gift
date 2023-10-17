@@ -1,0 +1,1434 @@
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **événement** dans la phrase:
+Le double **événement** était fêté comme il se doit et conjointement par les deux établissements, mercredi 23 juin, à l'occasion de l'assemblée générale décentralisée des Offices de tourisme et Syndicats d'initiative du Doubs qui se tenait le même jour, sous la présidence d'Edmond Maire, à la Saline Royale. 
+{
+	=NC
+ 	~ADV
+	~Conj_de_Coord
+	~ADJ
+	~ADP
+	~CCONJ
+	~ADV_Int
+	~AUX
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **établissements** dans la phrase:
+Le double événement était fêté comme il se doit et conjointement par les deux **établissements**, mercredi 23 juin, à l'occasion de l'assemblée générale décentralisée des Offices de tourisme et Syndicats d'initiative du Doubs qui se tenait le même jour, sous la présidence d'Edmond Maire, à la Saline Royale. 
+{
+	~NPr
+	~CCONJ
+ 	=NC
+	~V_Part_Passé
+	~Conj_de_Sub
+	~PRO_Int
+	~PRO_Obj
+	~V
+	~Interj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **versement** dans la phrase:
+Et comme le plan de résorption des dettes prévoyait un autre **versement** de près de deux millions d'euros en juin prochain... 
+{
+	~V_Inf
+	~ADJ
+	~PREP_+_DET
+	~ADJ_Excl/Int
+	~PRO_Obj
+	~V_Part_Prés
+	=NC
+	~CCONJ
+ 	~PRO_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **éléments** dans la phrase:
+M. Rivasseau a réaffirmé l'" exigence absolue du respect des droits de l'Homme" pour Paris alors que des témoignages de réfugiés font état d'exactions, viols, et pillages par des **éléments** semble-t-il libériens. 
+{
+	~Préfixe
+	=NC
+	~V_Part_Prés
+	~V_Inf
+	~PRO_Rel
+	~Mot_étranger
+	~PRO_Réfl
+	~PREP
+	~ADV_Int
+	~PRON
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **assainissement** dans la phrase:
+D'ores et déjà, il faut envisager la phase de négociation avec les riverains concernant la procédure, qui peut prendre d'ailleurs des formes diverses, pour l'acquisition des emprises nécessaires au passage des réseaux d'**assainissement**. 
+{
+	~DET_Int
+	~PRO
+	~INTJ
+	~ADJ
+	~PROPN
+	~PREP
+	~VERB
+	=NC
+	~DET
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **moment** dans la phrase:
+Quant au balayage, il est inutile au **moment** des vendanges et en période hivernale. 
+{
+ 	~PART
+	~CCONJ
+	~Conj_de_Coord
+	~PUNCT
+	~PRO_Rel
+	~DET_Int
+	=NC
+	~V_Inf
+	~V
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **assainissement** dans la phrase:
+La construction de deux parcelles en-dessous de la place du bas du village nécessite l'implantation des réseaux nécessaires pour l'eau, l'**assainissement**, l'électricité et le téléphone. 
+{
+	~DET
+	=NC
+ 	~ADV_Int
+	~ADP
+	~V_Part_Prés
+	~SCONJ
+	~PRO_Obj
+	~PRO_Réfl
+ }
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicaments** dans la phrase:
+Il explique comment le comité des **médicaments** à usage humain( CHMP) a évalué les études réalisées afin d'aboutir à ses recommandations relatives aux conditions d'utilisation du médicament. 
+{
+	~PREP_+_PRO
+	~AUX
+	~Conj_de_Coord
+	~DET_Int
+	~ADV
+ 	~PREP
+	=NC
+	~Conj_de_Sub
+	~V
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicament** dans la phrase:
+Il explique comment le comité des médicaments à usage humain( CHMP) a évalué les études réalisées afin d'aboutir à ses recommandations relatives aux conditions d'utilisation du **médicament**. 
+{
+	~V_Imp
+	~PRON
+	~ADP
+  	~V_Subj
+	=NC
+	~PRO_Rel
+	~PRO_Suj
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Traitement** dans la phrase:
+**Traitement** des patients atteints d'un syndrome coronarien aigu( angor instable/ infarctus du myocarde sans sus décalage du segment ST( AI/ IDM ST-)) devant bénéficier d'une intervention urgente ou précoce. 
+{
+	~PUNCT
+	~PRO_Obj
+	~V_Part_Prés
+	~PRO_Int
+	~SCONJ
+	~DET_Int
+	~V_Subj
+	=NC
+	~PRO_Suj
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **segment** dans la phrase:
+Traitement des patients atteints d'un syndrome coronarien aigu( angor instable/ infarctus du myocarde sans sus décalage du **segment** ST( AI/ IDM ST-)) devant bénéficier d'une intervention urgente ou précoce. 
+{
+	=NC
+	~V_Inf
+	~PUNCT
+	~PRO_Rel
+	~PRO_Int
+	~Interj
+	~Conj_de_Sub
+	~ADV
+	~ADJ_Excl/Int
+	~DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+Dans ACUITY, les données relatives aux **saignements** ont été recueillies séparément de celles concernant les événements indésirables. 
+{
+	~Préfixe
+  	~Conj_de_Sub
+	~PART
+	~NPr
+	=NC
+	~PRO_Obj
+	~PRO_Suj
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **événements** dans la phrase:
+Dans ACUITY, les données relatives aux saignements ont été recueillies séparément de celles concernant les **événements** indésirables. 
+{
+	=NC
+ 	~VERB
+	~NUM
+	~PRO_Réfl
+	~NPr
+	~PROPN
+	~Conj_de_Coord
+	~ADP
+	~ADV
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+Les **saignements** majeurs basés sur les critères TIMI sont définis comme étant les saignements intracrâniens ou la chute de la concentration en hémoglobine 5 g/ dL. 
+{
+	~Conj_de_Coord
+	~V_Imp
+	~PROPN
+	=NC
+	~CCONJ
+	~ADP
+	~PUNCT
+	~INTJ
+	~PRO_Suj
+	~PRO_Rel
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+Les saignements majeurs basés sur les critères TIMI sont définis comme étant les **saignements** intracrâniens ou la chute de la concentration en hémoglobine 5 g/ dL. 
+{
+	~PRON
+	~NUM
+	=NC
+	~PREP_+_PRO
+ 	~Interj
+	~ADJ_Excl/Int
+	~SCONJ
+	~ADV_Int
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **événement** dans la phrase:
+Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un **événement** indésirable et 3 % ont présenté une réaction indésirable au médicament. 
+{
+	~PREP_+_PRO
+	~ADV_Int
+	~ADJ
+	~NPr
+ 	=NC
+	~ADV
+	~Interj
+	~AUX
+	~INTJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicament** dans la phrase:
+Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un événement indésirable et 3 % ont présenté une réaction indésirable au **médicament**. 
+{
+	~PRO_Obj
+	=NC
+ 	~Conj_de_Coord
+	~PRO_Réfl
+	~Mot_étranger
+	~PRO_Int
+	~Préfixe
+	~ADV
+	~DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+En ce qui concerne les caractéristiques de la population d'ACUITY, à savoir des patients à haut risque nécessitant une angiographie dans les 72 h, la répartition est homogène dans les 3 bras de **traitement**. 
+{
+	~Mot_étranger
+	=NC
+	~PRO_Suj
+	~PRO_Obj
+	~SCONJ
+	~Préfixe
+	~V_Subj
+	~PUNCT
+	~ADV_Int
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Médicament** dans la phrase:
+**Médicament** soumis à prescription médicale restreinte( voir Annexe I: Résumé des Caractéristiques du Produit, 4.2). 
+{
+	~ADJ_Excl/Int
+	~DET_Int
+	~ADJ
+	=NC
+	~SCONJ
+ 	~V_Part_Prés
+	~VERB
+	~PRON
+	~ADP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **CONDITIONNEMENTS** dans la phrase:
+MENTIONS MINIMALES DEVANT FIGURER SUR LES PETITS **CONDITIONNEMENTS** PRIMAIRES 
+{
+	~PROPN
+	~DET
+	=NC
+	~V_Subj
+	~ADP
+	~VERB
+	~NUM
+	~V_Inf
+	~Interj
+	~V_Part_Prés
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **MEDICAMENT** dans la phrase:
+DENOMINATION DU **MEDICAMENT** ET VOIE(S) D'ADMINISTRATION 
+{
+	~PRO_Obj
+	~PART
+	=NC
+	~ADV
+	~VERB
+ 	~PREP_+_DET
+	~V_Inf
+	~INTJ
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicaments** dans la phrase:
+Les antithrombotiques sont des **médicaments** qui empêchent la formation de caillots sanguins( thrombose). 
+{
+	~Conj_de_Sub
+	=NC
+	~ADV_Int
+	~NUM
+	~PRO
+	~V_Part_Prés
+	~PREP_+_PRO
+	~PUNCT
+ 	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Votre médecin évaluera si ce **traitement** est ou non approprié pour vous. 
+{
+	~PRO_Suj
+	~V_Subj
+ 	~Conj_de_Sub
+	~ADV_Int
+	~VERB
+	=NC
+	~SYM
+	~V
+	~PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicament** dans la phrase:
+Pour toute information complémentaire concernant ce **médicament**, veuillez prendre contact avec le représentant local du titulaire de l'autorisation de mise sur le marché. 
+{
+	~PRON
+	~V_Inf
+	=NC
+	~PRO_Rel
+	~V_Subj
+	~ADV
+	~V_Part_Prés
+	~CCONJ
+	~SCONJ
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicaments** dans la phrase:
+Dans ces deux études, les patients ont été autorisés à prendre d'autres **médicaments** pour l'ostéoporose, mais pas d'autres bisphosphonates. 
+{
+	=NC
+	~ADJ
+	~Conj_de_Sub
+	~ADP
+	~PART
+ 	~NUM
+	~V_Part_Prés
+	~ADV_Int
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitements** dans la phrase:
+Une comparaison de l'ensemble des femmes sous Aclasta( associé ou non à d'autres **traitements** anti-ostéoporotiques) avec celles sous placebo a fait apparaître une réduction du risque de fracture de la hanche de 41 %. 
+{
+	~PROPN
+	~ADJ
+	~PRO_Suj
+	=NC
+	~SCONJ
+	~Conj_de_Sub
+	~PREP_+_DET
+	~PRO
+	~Préfixe
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicaments** dans la phrase:
+Le comité des **médicaments** à usage humain( CHMP) a estimé que les bénéfices d'Aclasta sont supérieurs aux risques qu'il comporte dans le traitement de l'ostéoporose chez la femme post-ménopausique et chez les hommes, présentant un risque accru de fracture, y compris chez les patients s'étant récemment fracturé la hanche à la suite d'un faible traumatisme, ainsi que dans le traitement de la maladie osseuse de Paget. 
+{
+	~DET_Int
+	~ADV_Int
+	=NC
+	~Préfixe
+	~V_Part_Prés
+	~AUX
+	~PRO_Réfl
+	~NUM
+	~V_Inf
+	~PRO_Suj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Le comité des médicaments à usage humain( CHMP) a estimé que les bénéfices d'Aclasta sont supérieurs aux risques qu'il comporte dans le **traitement** de l'ostéoporose chez la femme post-ménopausique et chez les hommes, présentant un risque accru de fracture, y compris chez les patients s'étant récemment fracturé la hanche à la suite d'un faible traumatisme, ainsi que dans le traitement de la maladie osseuse de Paget. 
+{
+	~Conj_de_Sub
+	~PRO_Obj
+	~CCONJ
+ 	=NC
+ 	~SYM
+	~PREP_+_PRO
+	~V
+	~PUNCT
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Le comité des médicaments à usage humain( CHMP) a estimé que les bénéfices d'Aclasta sont supérieurs aux risques qu'il comporte dans le traitement de l'ostéoporose chez la femme post-ménopausique et chez les hommes, présentant un risque accru de fracture, y compris chez les patients s'étant récemment fracturé la hanche à la suite d'un faible traumatisme, ainsi que dans le **traitement** de la maladie osseuse de Paget. 
+{
+	~PRO_Suj
+ 	~DET
+	~PRO_Réfl
+	~NUM
+	=NC
+	~NPr
+	~ADV_Int
+	~Conj_de_Sub
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Pour la maladie de Paget, Aclasta doit uniquement être prescrit par des médecins expérimentés dans le **traitement** de cette pathologie. 
+{
+	~PRO_Réfl
+	~Conj_de_Sub
+ 	~DET_Int
+	~PRO_Suj
+	=NC
+	~Conj_de_Coord
+	~SYM
+	~PROPN
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **ajustement** dans la phrase:
+Aucun **ajustement** de la dose n'est nécessaire puisque la biodisponibilité, la distribution et l'élimination ont été similaires chez les patients âgés et chez les patients plus jeunes. 
+{
+	~Préfixe
+	~SYM
+	=NC
+	~Interj
+	~PREP
+	~PREP_+_PRO
+	~VERB
+	~PRO
+	~ADJ_Excl/Int
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **suppléments** dans la phrase:
+De plus, chez les patients atteints de maladie de Paget, il est fortement conseillé d'administrer des **suppléments** appropriés de calcium correspondant à un apport en calcium-élément d'au moins 500 mg deux fois par jour pendant au moins les 10 jours suivant l'administration d'Aclasta( voir rubrique 4.2). 
+{
+	~Conj_de_Sub
+	~SYM
+	~ADV
+	~PRO_Rel
+	=NC
+ 	~PREP_+_DET
+	~NUM
+	~SCONJ
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **calcium-élément** dans la phrase:
+De plus, chez les patients atteints de maladie de Paget, il est fortement conseillé d'administrer des suppléments appropriés de calcium correspondant à un apport en **calcium-élément** d'au moins 500 mg deux fois par jour pendant au moins les 10 jours suivant l'administration d'Aclasta( voir rubrique 4.2). 
+{
+	=NC
+	~V_Part_Passé
+	~Mot_étranger
+	~PUNCT
+	~NPr
+	~PART
+	~V_Imp
+	~ADV_Int
+	~PRO
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Pour les patients nécessitant des interventions dentaires, il n'y a pas de donnée disponible suggérant que l'arrêt du **traitement** par bisphosphonates diminuerait le risque d'ostéonécrose de la mâchoire. 
+{
+	~NPr
+	~ADJ
+	~PRON
+	=NC
+	~VERB
+ 	~SCONJ
+	~PREP
+	~Conj_de_Sub
+	~V_Part_Prés
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Efficacité clinique dans le **traitement** de l'ostéoporose post-ménopausique( PFT) 
+{
+	=NC
+	~INTJ
+	~ADJ_Excl/Int
+	~Interj
+	~PUNCT
+	~PRO_Réfl
+	~Conj_de_Coord
+	~DET
+	~SYM
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Une hypocalcémie préexistante doit être traitée par un apport approprié de calcium et de vitamine D avant d'initier le **traitement** par Aclasta. 
+{
+	~SYM
+	~ADJ
+	~PUNCT
+ 	~Préfixe
+	~ADP
+	~CCONJ
+	~Conj_de_Coord
+ 	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **rendement** dans la phrase:
+Mais, pour ce faire, il faut tenir compte du fait qu'il existe une corrélation entre le **rendement** issu de l'activité de pêche et l'augmentation de l'effort de pêche. 
+{
+	~PART
+	~PRO_Int
+	~AUX
+	~ADV
+	=NC
+	~Conj_de_Sub
+	~PREP
+	~PRO_Rel
+	~NUM
+	~ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **rendement** dans la phrase:
+Il faut donc prendre des mesures dans le cadre de la politique commune de pêche et affecter les ressources financières adéquates afin d'assurer le **rendement** qui s'appuie exclusivement sur l'activité de pêche, plus précisément à des périodes de paralysie ou de réduction de l'activité de pêche. 
+{
+	~ADV_Int
+	~ADJ_Excl/Int
+	~PRO_Rel
+	~ADV
+	~ADJ
+	~ADP
+	~PRO_Int
+	=NC
+	~PRON
+	~PREP_+_DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **moment** dans la phrase:
+Je voudrais profiter de ce **moment** pour rappeler la haute qualité et la constance des relations entre le Parlement européen et le Parlement belge qui, grâce à l'engagement majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon voisinage qui sont un devoir commun largement partagé. 
+{
+	~CCONJ
+	~V_Subj
+	~ADJ
+	~PART
+	~PUNCT
+	~Mot_étranger
+	~PREP_+_DET
+	~V
+	~PRO_Rel
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Parlement** dans la phrase:
+Je voudrais profiter de ce moment pour rappeler la haute qualité et la constance des relations entre le **Parlement** européen et le Parlement belge qui, grâce à l'engagement majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon voisinage qui sont un devoir commun largement partagé. 
+{
+	=NC
+	~PRO_Suj
+	~ADJ_Excl/Int
+	~INTJ
+	~Interj
+	~PUNCT
+	~PRO
+	~PREP_+_DET
+	~PRO_Rel
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Parlement** dans la phrase:
+Je voudrais profiter de ce moment pour rappeler la haute qualité et la constance des relations entre le Parlement européen et le **Parlement** belge qui, grâce à l'engagement majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon voisinage qui sont un devoir commun largement partagé. 
+{
+ 	~V
+	~PART
+	~PRO_Rel
+	~V_Inf
+	=NC
+	~V_Part_Passé
+	~PRO_Int
+	~PRON
+	~NUM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **engagement** dans la phrase:
+Je voudrais profiter de ce moment pour rappeler la haute qualité et la constance des relations entre le Parlement européen et le Parlement belge qui, grâce à l'**engagement** majoritaire de nos collègues belges en faveur de la cause européenne, se sont toujours situées bien au-delà des simples relations de bon voisinage qui sont un devoir commun largement partagé. 
+{
+	~V_Part_Passé
+	~DET
+	~PUNCT
+	=NC
+	~PRO_Obj
+	~PRO
+	~NPr
+	~DET_Int
+	~PREP_+_PRO
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **désarmement** dans la phrase:
+Pour répondre à cette préoccupation- non fondée, selon les experts-, la France a proposé au Conseil de sécurité que la levée de l'embargo soit accompagnée de la poursuite des inspections de **désarmement** et d'un contrôle des importations irakiennes. 
+{
+	~Interj
+	~PRO_Suj
+	~V_Inf
+	~PRO_Obj
+	~PUNCT
+	~Mot_étranger
+	~ADV
+	=NC
+	~V
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Ces systèmes régionaux de **gouvernement** sont normalement financés en tout ou en partie par les fonds du gouvernement central. 
+{
+	~DET
+	~DET_Int
+	~Interj
+	~Mot_étranger
+	~PRO_Réfl
+	~Conj_de_Coord
+	~SCONJ
+	=NC
+	~Préfixe
+	~NUM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Ces systèmes régionaux de gouvernement sont normalement financés en tout ou en partie par les fonds du **gouvernement** central. 
+{
+	~V_Inf
+ 	~PRO_Suj
+	~VERB
+	=NC
+	~ADJ
+	~ADV_Int
+	~ADJ_Excl/Int
+	~PRO_Réfl
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **éléments** dans la phrase:
+Celle-ci, du moins telle que nous la concevons, doit comporter deux **éléments**. 
+{
+	~PRO_Obj
+	~ADV
+	~V_Part_Prés
+	=NC
+	~CCONJ
+	~SCONJ
+	~VERB
+	~PRO
+	~PREP
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **détriment** dans la phrase:
+en effet, avec la criminalité croissante, transnationale qui s'exerce au **détriment** du budget UE, la coopération entre les États membres n'est pas suffisante au niveau policier et judiciaire. 
+{
+	~V_Imp
+	~PRO
+	~INTJ
+	~Préfixe
+	=NC
+	~SYM
+	~DET
+	~CCONJ
+	~PRO_Int
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Parlement** dans la phrase:
+Nous avons pu écouter Nelson Mandela au **Parlement** européen; 
+{
+	~PRON
+ 	=NC
+	~PREP
+	~V_Part_Passé
+	~PRO_Obj
+	~INTJ
+	~AUX
+	~Mot_étranger
+	~ADP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **renseignement** dans la phrase:
+En outre, suite à l'affaire Dreyfus, le service de **renseignement** de l'armée( 2ème Bureau), considéré comme subversif, a déjà été épuré et complètement désorganisé durant un certain temps, ce qui donnera aux services allemands une longueur d'avance dans ce domaine en plein développement de l'art de la guerre. 
+{
+	~V_Inf
+	~PRO_Obj
+	~PUNCT
+	~PROPN
+	~Conj_de_Sub
+	=NC
+	~ADP
+	~VERB
+	~DET
+ }
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **développement** dans la phrase:
+En outre, suite à l'affaire Dreyfus, le service de renseignement de l'armée( 2ème Bureau), considéré comme subversif, a déjà été épuré et complètement désorganisé durant un certain temps, ce qui donnera aux services allemands une longueur d'avance dans ce domaine en plein **développement** de l'art de la guerre. 
+{
+	~PREP
+	~V_Subj
+	~NPr
+	~ADV
+	~V_Inf
+	=NC
+	~PART
+	~Mot_étranger
+	~PREP_+_DET
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **enrichissement** dans la phrase:
+- Sur cette vente de 2,8 milliards de dollars, plus de 500 millions de dollars de commissions occultes ont été versées, vraisemblablement à des fins de corruption et d'**enrichissement** de divers protagonistes, voire pour le financement illégal des partis politiques français. 
+{
+	=NC
+	~PRO
+	~V_Subj
+ 	~ADJ
+	~Mot_étranger
+	~ADV_Int
+	~SYM
+	~INTJ
+	~PRO_Suj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **financement** dans la phrase:
+- Sur cette vente de 2,8 milliards de dollars, plus de 500 millions de dollars de commissions occultes ont été versées, vraisemblablement à des fins de corruption et d'enrichissement de divers protagonistes, voire pour le **financement** illégal des partis politiques français. 
+{
+ 	~V
+	~PRO
+	~INTJ
+	~Conj_de_Sub
+	~Interj
+	~V_Subj
+	~PRO_Réfl
+	~PRO_Obj
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Il fallait à la fois convaincre le **gouvernement** taïwanais d'" acheter français" et amadouer les autorités chinoises, opposées à toute livraison de matériel sensible à l'île nationaliste. 
+{
+	~PRO_Réfl
+	~Interj
+	~V_Part_Passé
+ 	=NC
+	~PRO
+	~Mot_étranger
+	~V_Inf
+	~CCONJ
+	~AUX
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **règlement** dans la phrase:
+L'argent pourrait alors servir au **règlement** du litige civil avec Taïwan qui exige que la France rembourse les commissions occultes que le contrat signé en 1991 interdisait formellement par son article 18. 
+{
+	~AUX
+	~CCONJ
+	~PRO_Rel
+	~PRO_Suj
+	~NUM
+	~ADJ_Excl/Int
+	~DET_Int
+	=NC
+	~PREP_+_DET
+	~PRON
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **versement** dans la phrase:
+Le dirigeant de la Somatem, lui, avait confirmé, sur procès-verbal, que ce marché devait entraîner" le **versement** d'une commission d'entre 1 % et 5 % du montant du marché, dont le paiement devait s'effectuer à l'étranger". 
+{
+	~Conj_de_Sub
+	=NC
+	~PROPN
+	~PUNCT
+ 	~Mot_étranger
+	~ADP
+	~PRO_Réfl
+	~PRO_Rel
+	~DET_Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **paiement** dans la phrase:
+Le dirigeant de la Somatem, lui, avait confirmé, sur procès-verbal, que ce marché devait entraîner" le versement d'une commission d'entre 1 % et 5 % du montant du marché, dont le **paiement** devait s'effectuer à l'étranger". 
+{
+	~PRO
+	~CCONJ
+	~V_Part_Prés
+	=NC
+	~PREP_+_DET
+	~V_Imp
+	~V
+	~V_Inf
+ 	~Préfixe
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Donc l'Autriche a tout à fait le droit de former un **gouvernement** et le Président de la Commission a parfaitement le droit, et a même le devoir, de présenter ses meilleurs voeux à l'Autriche. 
+{
+	~Mot_étranger
+ 	~PREP_+_DET
+	~Conj_de_Coord
+	~AUX
+	~PRO_Rel
+	=NC
+	~NUM
+	~PRO_Réfl
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **amendements** dans la phrase:
+La commission de l'emploi et des affaires sociales a adopté plusieurs des **amendements** que j'avais présentés concernant, par exemple, l'accent sur l'accès aux capitaux d'amorçage, la manière d'exploiter les nouvelles opportunités commerciales dans les villes et les zones rurales, et la critique selon laquelle la participation des entreprises était insuffisante au cours des initiatives précédentes. 
+{
+	~PRO_Réfl
+	~ADP
+	=NC
+	~V_Subj
+	~V
+	~DET
+	~PREP_+_PRO
+	~PREP
+	~SYM
+	~Interj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Je ne comprends pas que les instances du pouvoir européen se taisent, laissent faire et, en travaillant avec les Russes comme si de rien n'était, cautionnent ce **gouvernement** qui fait cette guerre. 
+{
+	~SYM
+	~Préfixe
+	~AUX
+	~V_Subj
+	~VERB
+	=NC
+	~V_Part_Prés
+	~ADV_Int
+	~PRO
+	~ADP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **développement** dans la phrase:
+Nous croyons que le droit au **développement** constitue une priorité mondiale et une condition essentielle pour que la politique en matière de droits de l'homme dans ces pays soit réellement praticable. 
+{
+	~V_Imp
+	=NC
+	~ADJ
+	~PREP_+_DET
+	~Conj_de_Sub
+	~Interj
+	~ADV_Int
+	~PREP
+	~Conj_de_Coord
+	~CCONJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **gouvernement** dans la phrase:
+Quant au premier point, j'espère vivement que nous pourrons résoudre ces questions à l'amiable, et je suis sûr, Messieurs les Députés, que si vous soumettez tous deux la question que vous m'avez posée avec autant de vigueur à vos cousins germains du **gouvernement** du Royaume-Uni, cela facilitera beaucoup la résolution de ces problèmes, sans que cela prenne trop de temps. 
+{
+	~Préfixe
+	~PRO_Suj
+	~ADJ
+	~NUM
+	~INTJ
+	~DET
+	~V_Part_Passé
+	~ADV
+ 	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **investissement** dans la phrase:
+La Commission pourrait utilement faire des propositions en simplifiant et en codifiant les quelque 11 directives régissant le secteur bancaire, les 8 directives concernant les fonds d'**investissement** et les 21 directives traitant du secteur des assurances. 
+{
+	~AUX
+	=NC
+	~PREP_+_PRO
+	~NPr
+	~V
+	~PRO_Suj
+	~V_Inf
+	~NUM
+	~ADV
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **établissements** dans la phrase:
+L'article 105, paragraphe 6 du traité, stipule que le Conseil peut confier à la B.C.E. des missions spécifiques ayant trait aux politiques en matière de contrôle prudentiel des **établissements** de crédit et d'autres établissements financiers, à l'exception des entreprises d'assurances. 
+{
+	~PREP_+_DET
+  	=NC
+	~PART
+	~V_Part_Prés
+	~V_Imp
+	~Mot_étranger
+	~PUNCT
+	~ADV
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **établissements** dans la phrase:
+L'article 105, paragraphe 6 du traité, stipule que le Conseil peut confier à la B.C.E. des missions spécifiques ayant trait aux politiques en matière de contrôle prudentiel des établissements de crédit et d'autres **établissements** financiers, à l'exception des entreprises d'assurances. 
+{
+	~NPr
+	~ADV_Int
+	~PREP_+_PRO
+	~PRO_Obj
+	=NC
+	~Mot_étranger
+	~ADJ_Excl/Int
+	~PART
+	~V_Part_Passé
+	~ADV
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **environnement** dans la phrase:
+Il doit être clair que la solution la plus adéquate réside dans la répercussion des coûts réels pour la protection de l'**environnement**. 
+{
+	~Conj_de_Sub
+	~INTJ
+	=NC
+	~ADV_Int
+	~NPr
+	~DET_Int
+	~DET
+	~PRO_Suj
+	~V_Part_Prés
+	~Préfixe
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **moment** dans la phrase:
+à peu près au même **moment** que Gutenberg inventait l'imprimerie, Gillet Bonnemire créait en 1450 la première forge à Saint-Dizier, à l'actuel emplacement du CHS. 
+{
+	~ADP
+	~SCONJ
+	~NUM
+	~AUX
+	~DET_Int
+	~DET
+ 	=NC
+	~PREP
+	~PRO_Suj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **emplacement** dans la phrase:
+à peu près au même moment que Gutenberg inventait l'imprimerie, Gillet Bonnemire créait en 1450 la première forge à Saint-Dizier, à l'actuel **emplacement** du CHS. 
+{
+	~PUNCT
+	=NC
+	~Interj
+ 	~SYM
+	~V_Imp
+	~ADJ
+	~Préfixe
+	~ADV_Int
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **établissement** dans la phrase:
+Sur des critères très stricts de compétence et d'accueil, c'est le premier **établissement** en France qui reçoit cette promotion selon la toute nouvelle loi du 16 décembre 1998 sur les Offices de tourisme. 
+{
+	=NC
+	~PRO_Obj
+	~V_Part_Passé
+	~ADJ_Excl/Int
+	~V_Inf
+	~ADV_Int
+	~CCONJ
+	~PRO_Suj
+	~Conj_de_Coord
+	~NPr
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **ajustement** dans la phrase:
+Chez les patients atteints d'insuffisance rénale modérée inclus dans l'étude pivot de phase III sur l'angioplastie( REPLACE-2), les valeurs ACT mesurées 5 minutes après un bolus de bivalirudine étaient en moyenne de 366 +/- 89 secondes sans **ajustement** de dose. 
+{
+	~PREP
+	~PROPN
+	~Conj_de_Sub
+	=NC
+	~PREP_+_PRO
+	~VERB
+	~Préfixe
+	~PREP_+_DET
+	~ADV_Int
+	~AUX
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **allaitement** dans la phrase:
+Grossesse et **allaitement** 
+{
+	~Préfixe
+	=NC
+	~ADJ
+	~PUNCT
+	~Conj_de_Sub
+ 	~SYM
+	~CCONJ
+	~ADP
+	~NPr
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+Des diminutions significatives de la fréquence des **saignements** majeurs et mineurs ont été constatées chez les patients du groupe Bivalidurine seule comparativement aux patients du groupe héparine plus inhibiteur de la GP IIb/IIIa et Bivalidurine plus inhibiteur de la GP IIb/IIIa( voir table 2). 
+{
+	~V_Part_Prés
+	~ADV_Int
+	~DET_Int
+	~V_Imp
+	~AUX
+	~SCONJ
+	~PROPN
+	~V_Inf
+	~PART
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Saignements** dans la phrase:
+**Saignements** mineurs 
+{
+	~PRO_Réfl
+	~PREP_+_DET
+	~Conj_de_Coord
+	~V_Subj
+	~PUNCT
+	~SCONJ
+	~PRO_Rel
+	=NC
+	~PREP
+	~Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+Des **saignements** graves, pouvant être fatals, ont été rapportés au cours de l'expérience post-commercialisation de la bivalirudine. 
+{
+	~SYM
+	~ADJ_Excl/Int
+ 	~PREP
+	=NC
+	~PRO_Int
+	~PRO_Rel
+	~PROPN
+	~DET
+ }
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **médicaments** dans la phrase:
+Selon la ligne directrice CHMP sur les Systèmes de Gestion des risques pour les **médicaments** à usage humain, le PGR mis à jour devra être soumis en même temps que le PSUR. 
+{
+	~Conj_de_Sub
+	~ADP
+	~Mot_étranger
+	~PREP
+	~AUX
+	~V
+	~Conj_de_Coord
+	~V_Subj
+	=NC
+ }
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **saignements** dans la phrase:
+- Des **saignements**, effet indésirable fréquent( moins de 1 pour 10 patients traités). 
+{
+	~V_Part_Prés
+	~DET_Int
+	~ADP
+	~PUNCT
+	=NC
+	~PROPN
+	~CCONJ
+	~PREP
+	~SYM
+	~V_Subj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **supplément** dans la phrase:
+Il est également recommandé que tous les patients traités par Aclasta reçoivent un **supplément** approprié de vitamine D et de calcium. 
+{
+	~AUX
+	~ADP
+	~V
+	~PREP_+_DET
+	~Conj_de_Sub
+	~V_Part_Prés
+	=NC
+	~PART
+	~PRO_Réfl
+	~NUM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+En outre, les patients souffrant de la maladie de Paget doivent prendre au moins 500 mg de calcium deux fois par jour pendant au moins 10 jours après le **traitement** et les patients qui ont subi une fracture de la hanche doivent recevoir une large dose de vitamine D( 50 000 à 125 000 unités internationales) par voie orale ou par injection intramusculaire avant leur première perfusion. 
+{
+	~PART
+	~V_Subj
+	~Interj
+	~PRO_Réfl
+	=NC
+	~V_Part_Prés
+	~SYM
+	~PRO_Obj
+	~V_Part_Passé
+	~PROPN
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Pour le **traitement** de l'ostéoporose, les effets d'Aclasta administré une fois par an ont été comparés à ceux d'un placebo( traitement fictif) au cours de deux études princpales. 
+{
+	~SCONJ
+	~Préfixe
+	~PREP_+_PRO
+	~ADV_Int
+	~PRO
+	=NC
+	~V_Part_Prés
+	~PUNCT
+	~PRO_Rel
+	~PREP_+_DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Pour le traitement de l'ostéoporose, les effets d'Aclasta administré une fois par an ont été comparés à ceux d'un placebo( **traitement** fictif) au cours de deux études princpales. 
+{
+	~SCONJ
+	~AUX
+	~VERB
+	~PRON
+	~Conj_de_Sub
+	~INTJ
+	~PRO_Réfl
+	=NC
+	~PRO_Int
+	~PREP_+_DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Répétition du **traitement** de la maladie de Paget: aucune donnée spécifique n'est disponible concernant un traitement répété. 
+{
+	~Conj_de_Coord
+	~PROPN
+	~ADV
+	~AUX
+	=NC
+	~PRO_Obj
+	~Conj_de_Sub
+	~PRO
+	~Mot_étranger
+	~V_Inf
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **traitement** dans la phrase:
+Répétition du traitement de la maladie de Paget: aucune donnée spécifique n'est disponible concernant un **traitement** répété. 
+{
+	~ADJ_Excl/Int
+	~INTJ
+	~Interj
+	~Conj_de_Coord
+	~VERB
+	~PROPN
+	~V_Imp
+ 	~PART
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **calcium-élément** dans la phrase:
+De plus, chez les patients atteints de la maladie de Paget, il est fortement conseillé d'administrer une supplémentation adaptée en calcium correspondant à un apport en **calcium-élément** d'au moins 500 mg deux fois par jour, pendant au moins les 10 jours suivant l'administration d'Aclasta( voir rubrique 4.4). 
+{
+	~PREP_+_DET
+	~PRO_Int
+	~V_Imp
+	~NUM
+	~PRON
+	=NC
+	~PRO_Obj
+	~Préfixe
+	~PROPN
+	~DET
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **évènements** dans la phrase:
+Les charniers de Timisoara est une affaire médiatique, aboutissant à une massive désinformation du public sur la réalité des **évènements** survenus en Roumanie. 
+{
+	~Mot_étranger
+	=NC
+	~SYM
+	~ADV_Int
+	~NUM
+	~PUNCT
+	~PRO_Int
+	~V_Part_Prés
+	~V_Imp
+	~V_Part_Passé
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **Jugement** dans la phrase:
+**Jugement** en première instance 
+{
+	~PRO_Int
+	~PRO
+	~ADJ_Excl/Int
+	~ADP
+	~PART
+	~NPr
+	~Préfixe
+	=NC
+	~NUM
+	~SYM
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **moment** dans la phrase:
+Aux policiers, ce dernier a expliqué qu'au **moment** où le projet de vente des frégates était bloqué par l'Élysée et le Quai d'Orsay, il était apparu utile d'" utiliser les relations que le groupe Elf avait en Chine", signalant que de telles synergies existaient déjà" entre Thomson CSF et Elf, notamment en Afrique". 
+{
+ 	~Conj_de_Coord
+	~INTJ
+	~PRO_Int
+	~ADP
+	~V_Part_Passé
+	~PREP_+_PRO
+	=NC
+	~V_Part_Prés
+	~PROPN
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **appartement** dans la phrase:
+Thierry Imbot, fils de l'ancien directeur de la DGSE René Imbot, est décédé en octobre 2000 à Paris en chutant du quatrième étage de son **appartement**. 
+{
+ 	~Conj_de_Sub
+	~NUM
+	~ADP
+	=NC
+	~PRO_Rel
+	~Conj_de_Coord
+	~AUX
+ 	~V_Part_Prés
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **appartement** dans la phrase:
+Il se serait notamment occupé pour le compte de Thomson des de les" affaires parisiennes" de l'intermédiaire: **appartement**, loyers, relations avec le syndic... 
+{
+	~SCONJ
+	~PRO_Obj
+	~PROPN
+	~V_Part_Prés
+	~PRO
+	~PRO_Réfl
+	~PREP
+	~ADP
+	~ADV
+	=NC
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **éléments** dans la phrase:
+Dans son ordonnance de renvoi pour le procès de 49 prévenus qui s'est ouvert en janvier 2006, le juge d'instruction Armand Riberolles, successeur du juge Éric Halphen, écrit que" l'instruction n'est pas parvenue à établir formellement l'implication personnelle de responsables au sein de l'appareil politique du RPR", tout en relevant qu'" un grand nombre de témoignages, corroborés par divers **éléments** factuels, concourent à établir que Jean-Claude Méry avait reçu mission d'assurer le financement des activités politiques de ce parti en collectant des fonds, notamment auprès des entreprises fournisseurs de l'OPAC."( cité par Le Monde du 25/01/06). 
+{
+	~CCONJ
+	~Préfixe
+	~PREP_+_DET
+	=NC
+	~Conj_de_Sub
+ 	~DET_Int
+	~PRO
+	~V_Subj
+	~PROPN
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **financement** dans la phrase:
+Dans son ordonnance de renvoi pour le procès de 49 prévenus qui s'est ouvert en janvier 2006, le juge d'instruction Armand Riberolles, successeur du juge Éric Halphen, écrit que" l'instruction n'est pas parvenue à établir formellement l'implication personnelle de responsables au sein de l'appareil politique du RPR", tout en relevant qu'" un grand nombre de témoignages, corroborés par divers éléments factuels, concourent à établir que Jean-Claude Méry avait reçu mission d'assurer le **financement** des activités politiques de ce parti en collectant des fonds, notamment auprès des entreprises fournisseurs de l'OPAC."( cité par Le Monde du 25/01/06). 
+{
+	~DET
+	~DET_Int
+	~NPr
+	~Conj_de_Coord
+ 	~PART
+	~ADV_Int
+	~PUNCT
+	=NC
+	~ADP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **bâtiment** dans la phrase:
+Elle attire l'attention de la justice sur de fausses facturations mêlant la société SAR, dirigée par Francis Poullain, à Jean-Claude Méry, membre du comité exécutif du RPR, qui exerçait une activité de consultant auprès des entreprises du **bâtiment**. 
+{
+	~V_Part_Prés
+ 	~PRON
+	=NC
+	~ADJ_Excl/Int
+	~SYM
+	~PROPN
+	~V
+	~SCONJ
+	~Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **appartement** dans la phrase:
+Sur Jean-Paul Schimpf, les enquêteurs trouvent un contrat de prêt de 1 million de francs destiné à l'achat de l'**appartement** de la compagne de Didier Schuller. 
+{
+	~V_Inf
+	=NC
+	~PRON
+	~DET_Int
+	~V_Part_Prés
+	~PRO_Réfl
+	~ADV
+	~PREP_+_PRO
+	~PRO_Obj
+	~Conj_de_Sub
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **financement** dans la phrase:
+Aucun **financement** politique occulte n'a pu être mis en évidence. 
+{
+	~ADP
+	~V
+	~PREP_+_DET
+	~PRO_Réfl
+	~PRO_Obj
+	~PROPN
+	=NC
+	~DET_Int
+	~PREP_+_PRO
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **enlèvements** dans la phrase:
+D'autres **enlèvements** suivent en 1986: en mars, c'est le tour d'une équipe d'Antenne 2 qui vient de filmer une manifestation du Hezbollah. 
+{
+	~Mot_étranger
+	~Conj_de_Coord
+	~PROPN
+	~PREP_+_DET
+	~V_Part_Passé
+	~PREP
+	~PREP_+_PRO
+	~PRO_Suj
+	=NC
+	~ADP
+}
+
+

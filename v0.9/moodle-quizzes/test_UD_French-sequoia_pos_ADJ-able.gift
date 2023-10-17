@@ -1,0 +1,348 @@
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **injectable** dans la phrase:
+Angiox 250 mg poudre pour solution à diluer pour solution **injectable** ou pour perfusion. 
+{
+	~AUX
+	~ADV_Int
+	~ADP
+	~Conj_de_Coord
+	=ADJ
+	~CCONJ
+	~ADJ_Excl/Int
+	~ADV
+	~PRO_Obj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **instable** dans la phrase:
+Traitement des patients atteints d'un syndrome coronarien aigu( angor **instable**/ infarctus du myocarde sans sus décalage du segment ST( AI/ IDM ST-)) devant bénéficier d'une intervention urgente ou précoce. 
+{
+	~PRO_Rel
+	~Conj_de_Coord
+	~SYM
+	=ADJ
+	~PUNCT
+	~PROPN
+	~PRO
+	~ADJ_Excl/Int
+	~PRO_Réfl
+	~Mot_étranger
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+Les données suivantes relatives aux réactions **indésirables** sont basées sur une étude clinique menée avec la bivalirudine chez 13 819 patients atteints de SCA; 
+{
+	~V
+	~PUNCT
+	~INTJ
+	~PRO_Rel
+	~Conj_de_Coord
+	~V_Imp
+	~PREP
+	~Conj_de_Sub
+	~PROPN
+	=ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+Dans ACUITY, les données relatives aux saignements ont été recueillies séparément de celles concernant les événements **indésirables**. 
+{
+	~ADV_Int
+	~PREP_+_DET
+	~Mot_étranger
+	~Préfixe
+	~PUNCT
+	=ADJ
+	~V_Inf
+	~V_Part_Passé
+	~PRO_Réfl
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirable** dans la phrase:
+Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un événement **indésirable** et 3 % ont présenté une réaction indésirable au médicament. 
+{
+	~V_Inf
+	~PRON
+	~PREP_+_DET
+	=ADJ
+	~SYM
+	~CCONJ
+	~Préfixe
+	~PRO_Réfl
+	~NC
+	~V_Part_Prés
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirable** dans la phrase:
+Environ 30 % des patients recevant de la bivalirudine ont présenté au moins un événement indésirable et 3 % ont présenté une réaction **indésirable** au médicament. 
+{
+	~DET
+	~Conj_de_Coord
+	~PREP_+_PRO
+	~DET_Int
+	~Interj
+	~NC
+	~AUX
+	~ADJ_Excl/Int
+	~NPr
+	=ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+Effets **indésirables** post-commercialisation rapportées avec la bivalirudine 
+{
+	~PRO_Int
+	~V_Subj
+	~PREP_+_PRO
+	~PRON
+	~V_Part_Prés
+	=ADJ
+	~X
+	~Interj
+	~ADJ_Excl/Int
+	~PRO_Obj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+Pour avoir le détail de tous les effets **indésirables** observés lors de l'utilisation d'Aclasta, voir la notice. 
+{
+	=ADJ
+	~Interj
+	~PRO_Int
+	~Conj_de_Coord
+	~PUNCT
+	~PRO_Suj
+	~DET
+	~Préfixe
+	~AUX
+	~VERB
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+L'incidence des effets **indésirables** survenant dans les trois premiers jours suivant l'administration d'Aclasta peut être diminuée en administrant du paracétamol ou de l'ibuprofène après l'administration d'Aclasta. 
+{
+	~PRO_Suj
+	~ADV_Int
+	~Préfixe
+	~SCONJ
+	~ADP
+	~PRO
+	~ADV
+	=ADJ
+	~PUNCT
+	~NOUN
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **comparable** dans la phrase:
+L'incidence sur le retard de consolidation de la fracture de hanche a été **comparable** entre Aclasta( 34[ 3,2 %]) et le placebo( 29[ 2,7 %]). 
+{
+	~Conj_de_Coord
+	~Préfixe
+	~Interj
+	~V_Part_Prés
+	~INTJ
+	=ADJ
+	~Conj_de_Sub
+	~ADJ_Excl/Int
+	~NPr
+	~PRO_Obj
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+La majorité des effets **indésirables**, tels que fièvre et frissons, douleurs dans les muscles ou articulations et maux de tête, surviennent lors des trois premiers jours suivant l'administration d'Aclasta. 
+{
+	~NOUN
+	~PREP_+_DET
+	~Conj_de_Sub
+	~NUM
+	~AUX
+	~PRO_Obj
+	~Préfixe
+	~PRON
+	~DET
+	=ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **responsables** dans la phrase:
+Je le remercie également pour la collaboration qui a pu s'établir entre les groupes, ce qui nous a permis d'aboutir à des compromis, qui sont, selon moi, **responsables**, adéquats et appropriés. 
+{
+	~CCONJ
+	~X
+	~PRO_Suj
+	~INTJ
+	~PREP
+	~PRO_Int
+	~VERB
+	~ADP
+	=ADJ
+	~PREP_+_PRO
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **imputables** dans la phrase:
+Très brièvement, il s'agit de limiter les émissions de CO2 **imputables** à l'homme. 
+{
+	~V_Subj
+	~PROPN
+	~PRO_Int
+	~Conj_de_Sub
+	~DET_Int
+	~V_Part_Prés
+	~Conj_de_Coord
+	~V_Inf
+	~AUX
+	=ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **véritable** dans la phrase:
+Le **véritable** avantage de la culture est le fait de pouvoir transmettre de l'art et de l'information, en toute sécurité et sans peine, directement de l'artiste à l'utilisateur, au consommateur. 
+{
+	~INTJ
+	~Mot_étranger
+	~SCONJ
+	~Interj
+	~X
+	=ADJ
+	~PUNCT
+	~CCONJ
+	~PRO_Suj
+	~Préfixe
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **inaliénable** dans la phrase:
+C'est important, non seulement sur le plan symbolique, mais aussi parce que cela réaffirme le droit au souvenir en tant que droit absolument **inaliénable**, notre droit, qui est également notre devoir, de ne pas oublier. 
+{
+	~AUX
+	~V_Subj
+	~PREP_+_PRO
+	=ADJ
+	~PRO
+	~V
+	~V_Part_Prés
+	~PREP_+_DET
+	~PRO_Réfl
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **praticable** dans la phrase:
+Nous croyons que le droit au développement constitue une priorité mondiale et une condition essentielle pour que la politique en matière de droits de l'homme dans ces pays soit réellement **praticable**. 
+{
+	~Mot_étranger
+	~V_Subj
+	~INTJ
+	~Préfixe
+	~ADV_Int
+	~V_Inf
+	~PRO_Rel
+	~Interj
+	=ADJ
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **probable** dans la phrase:
+Il est fort **probable**, vu qu'ils sont accusés d'espionnage en faveur des États-Unis et d'Israël- lesquels ont par ailleurs démenti tout lien avec ces personnes- qu'ils soient condamnés à la peine capitale. 
+{
+	~ADV_Int
+	~Préfixe
+	~PREP_+_DET
+	~NUM
+	~INTJ
+	=ADJ
+	~Interj
+	~X
+	~PART
+	~PUNCT
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **amiable** dans la phrase:
+Quant au premier point, j'espère vivement que nous pourrons résoudre ces questions à l'**amiable**, et je suis sûr, Messieurs les Députés, que si vous soumettez tous deux la question que vous m'avez posée avec autant de vigueur à vos cousins germains du gouvernement du Royaume-Uni, cela facilitera beaucoup la résolution de ces problèmes, sans que cela prenne trop de temps. 
+{
+	~NC
+	~PART
+	~ADV_Int
+	=ADJ
+	~X
+	~VERB
+	~INTJ
+	~V_Part_Passé
+	~V_Imp
+	~Conj_de_Coord
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **souhaitable** dans la phrase:
+La question est de savoir si cette longue attente est **souhaitable** ou non. 
+{
+	~ADV
+	=ADJ
+	~V_Imp
+	~PRO_Réfl
+	~CCONJ
+	~PRO_Obj
+	~VERB
+	~PART
+	~X
+	~PREP
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **remarquable** dans la phrase:
+Une représentation théâtrale **remarquable**. 
+{
+	~NOUN
+	~PRO_Obj
+	=ADJ
+	~PREP_+_DET
+	~SYM
+	~DET_Int
+	~V_Subj
+	~NC
+	~PRO_Int
+	~ADJ_Excl/Int
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirables** dans la phrase:
+Les réactions **indésirables** qui ont été rapportées à partir d'une importante expérience post-commercialisation et qui n'ont pas été mentionnées ci-dessus sont résumées par classes des systèmes d'organes dans le tableau 6. 
+{
+	~ADJ_Excl/Int
+	~PREP
+	~PUNCT
+	=ADJ
+	~V_Inf
+	~ADV_Int
+	~PRO
+	~X
+	~AUX
+	~V_Imp
+}
+
+
+:: Parties du Discours ::[markdown]   Donner la partie du discours du mot **indésirable** dans la phrase:
+- Des saignements, effet **indésirable** fréquent( moins de 1 pour 10 patients traités). 
+{
+	~V_Part_Passé
+	~NUM
+	~Conj_de_Sub
+	~NPr
+	=ADJ
+	~ADP
+	~Préfixe
+	~PRO
+	~PRO_Suj
+}
+
+
